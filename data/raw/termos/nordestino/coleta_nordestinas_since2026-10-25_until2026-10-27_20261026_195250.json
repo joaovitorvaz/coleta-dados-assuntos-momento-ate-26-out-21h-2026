@@ -1,0 +1,136 @@
+{
+  "metadata": {
+    "term_group_id": "nordestino",
+    "query": "nordestinas",
+    "since": "2026-10-25",
+    "until": "2026-10-27",
+    "source": "twitter_x",
+    "run_id": "4008f065-a3f7-4ead-bc06-22df092bfb5d",
+    "collected_at": "2026-10-26T19:52:50-03:00",
+    "layer": "raw",
+    "counts": {
+      "posts": 2,
+      "comments": 0,
+      "records_total": 2,
+      "skipped_duplicate": 0
+    },
+    "collector_pages": [
+      {
+        "posts": [
+          {
+            "id": "2114395343412433050",
+            "text": "Ia distribuir mandioca para as nordestinas",
+            "author_username": "FelipexrpI",
+            "author_name": "FelipexrpI",
+            "created_at": "2026-10-25T16:35:00+00:00",
+            "permalink": "https://nitter.meowing.monster/FelipexrpI/status/2114395343412433050#m",
+            "metrics": {
+              "like_count": 26,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114144853206389205",
+            "text": "Gostosas nordestinas pela virada ⭐️❤️ 13",
+            "author_username": "leitsleticia03",
+            "author_name": "leitsleticia03",
+            "created_at": "2026-10-24T23:59:00+00:00",
+            "permalink": "https://nitter.meowing.monster/leitsleticia03/status/2114144853206389205#m",
+            "metrics": {
+              "like_count": 169,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 6
+            }
+          }
+        ],
+        "comments": [],
+        "pagination": {
+          "pages_collected": 4,
+          "instance_used": "https://nitter.meowing.monster"
+        },
+        "limitations": [
+          "Coleta via Nitter não é API oficial da plataforma X.",
+          "Profundidade de respostas e paginação dependem da instância Nitter."
+        ]
+      }
+    ]
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:raw:post:2114395343412433050",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114395343412433050",
+      "collected_at": "2026-10-26T19:52:50-03:00",
+      "matched_terms": [
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestinas",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "4008f065-a3f7-4ead-bc06-22df092bfb5d",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114395343412433050",
+        "text": "Ia distribuir mandioca para as nordestinas",
+        "author_username": "FelipexrpI",
+        "author_name": "FelipexrpI",
+        "created_at": "2026-10-25T16:35:00+00:00",
+        "permalink": "https://nitter.meowing.monster/FelipexrpI/status/2114395343412433050#m",
+        "metrics": {
+          "like_count": 26,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114144853206389205",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114144853206389205",
+      "collected_at": "2026-10-26T19:52:50-03:00",
+      "matched_terms": [
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestinas",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "4008f065-a3f7-4ead-bc06-22df092bfb5d",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114144853206389205",
+        "text": "Gostosas nordestinas pela virada ⭐️❤️ 13",
+        "author_username": "leitsleticia03",
+        "author_name": "leitsleticia03",
+        "created_at": "2026-10-24T23:59:00+00:00",
+        "permalink": "https://nitter.meowing.monster/leitsleticia03/status/2114144853206389205#m",
+        "metrics": {
+          "like_count": 169,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 6
+        }
+      }
+    }
+  ],
+  "comments": []
+}
