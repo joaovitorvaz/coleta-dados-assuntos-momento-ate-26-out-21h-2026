@@ -1,0 +1,1707 @@
+{
+  "metadata": {
+    "term_group_id": "assuntos_momento_br",
+    "query": "Nestor",
+    "since": "2026-10-25",
+    "until": "2026-10-27",
+    "source": "twitter_x",
+    "run_id": "8fe3e55f-2eb4-49a8-9bbc-7eca1bb7098e",
+    "collected_at": "2026-10-25T23:53:53-03:00",
+    "layer": "raw",
+    "counts": {
+      "posts": 23,
+      "comments": 5,
+      "records_total": 28,
+      "skipped_duplicate": 17
+    },
+    "collector_pages": [
+      {
+        "posts": [
+          {
+            "id": "2114546060916121870",
+            "text": "Rodrigo Nestor tinha uma plano e já sabia de algo.",
+            "author_username": "jheremmias",
+            "author_name": "jheremmias",
+            "created_at": "2026-10-26T02:34:00+00:00",
+            "permalink": "https://nitter.netbub.com/jheremmias/status/2114546060916121870#m",
+            "metrics": {
+              "like_count": 5,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114544383752057143",
+            "text": "A cidade de São Paulo derrotou o bolsonarismo. Desejo ao presidente eleito uma boa gestão.",
+            "author_username": "nestorbrito47",
+            "author_name": "nestorbrito47",
+            "created_at": "2026-10-26T02:27:00+00:00",
+            "permalink": "https://nitter.netbub.com/nestorbrito47/status/2114544383752057143#m",
+            "metrics": {
+              "like_count": 4,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114496896005808258",
+            "text": "Se é regra, o Neymar não poderia tapar a boca. É que nem a regra de tirar a camisa. Eu acho bobagem dar cartão por tirar a camisa, mas tirou? Amarelo. Nestor fez isso pq é adversário, normal no futebol",
+            "author_username": "ch25771",
+            "author_name": "ch25771",
+            "created_at": "2026-10-25T23:18:00+00:00",
+            "permalink": "https://nitter.netbub.com/ch25771/status/2114496896005808258#m",
+            "metrics": {
+              "like_count": 9,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114399734467068183",
+            "text": "Sou fã do Neymar é um dos melhores jogadores que vi.\nMas foi muito cabaço\nNestor fez certinho.\nEntrou na cabeça dele e alugou um triplex.\nParabéns ao Nestor e Neymar infelizmente chora uai.\n@SantosFC \n@ecbahia",
+            "author_username": "fotao99",
+            "author_name": "fotao99",
+            "created_at": "2026-10-25T16:52:00+00:00",
+            "permalink": "https://nitter.netbub.com/fotao99/status/2114399734467068183#m",
+            "metrics": {
+              "like_count": 127,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 2
+            }
+          },
+          {
+            "id": "2114393830396948711",
+            "text": "Ficar tentando diminuir o Bahia na internet não vai apagar o vexame e o descontrole de Neymar ontem. Nestor deu uma aula de postura, e vocês estão só espalhando a frustração de quem perdeu a linha em campo. Segue o jogo",
+            "author_username": "SouzaRafael89",
+            "author_name": "SouzaRafael89",
+            "created_at": "2026-10-25T16:29:00+00:00",
+            "permalink": "https://nitter.netbub.com/SouzaRafael89/status/2114393830396948711#m",
+            "metrics": {
+              "like_count": 23,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114389455465271734",
+            "text": "@andregalvaofer sobre o acontecido de ontem da expulsão do Neymar: Rodrigo Nestor simulou ter se machucado no lance do amarelo pro Neymar e sacaneou só extremo  na questão da mão do Neymar na boca.Isso é pras \" ditas falas de racismo\" e não pra bate boca em campo.",
+            "author_username": "Tonybauer3",
+            "author_name": "Tonybauer3",
+            "created_at": "2026-10-25T16:11:00+00:00",
+            "permalink": "https://nitter.netbub.com/Tonybauer3/status/2114389455465271734#m",
+            "metrics": {
+              "like_count": 9,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114388371808120922",
+            "text": "Rogério Ceni somente seria apertado se seus gestores não fossem iguais a ele no quesito que a gente já sabe no mundo da bola brasilis. Bem capaz de Rodrigo Nestor ser punido pela atitude que teve e pelo fato de ser um cara de comportamento diferenciado no futebol.",
+            "author_username": "jheremmias",
+            "author_name": "jheremmias",
+            "created_at": "2026-10-25T16:07:00+00:00",
+            "permalink": "https://nitter.netbub.com/jheremmias/status/2114388371808120922#m",
+            "metrics": {
+              "like_count": 46,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114385065660568003",
+            "text": "Rodrigo Nestor é um herói! Sangue frio, educação e fez valer a regra. Parabéns para ele. \n\nSim,  Neymar nunca será campeão mundial. Nunca será eleito o melhor jogador do mundo. Maior fiasco da história do futebol brasileiro.",
+            "author_username": "MarceloCastro76",
+            "author_name": "MarceloCastro76",
+            "created_at": "2026-10-25T15:54:00+00:00",
+            "permalink": "https://nitter.netbub.com/MarceloCastro76/status/2114385065660568003#m",
+            "metrics": {
+              "like_count": 17,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114383995307790731",
+            "text": "Glenda e Elia, Neymar errou, sim, mas a encenação do Nestor foi lamentável! Simular uma agressão para provocar a expulsão de um colega de profissão é uma atitude deplorável. Adversário, sim, inimigo, não! Até quando essa malandragem suja será vista no futebol?#ShowDoEsporte",
+            "author_username": "GylbertoAlmeida",
+            "author_name": "GylbertoAlmeida",
+            "created_at": "2026-10-25T15:50:00+00:00",
+            "permalink": "https://nitter.netbub.com/GylbertoAlmeida/status/2114383995307790731#m",
+            "metrics": {
+              "like_count": 33,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114375976641515785",
+            "text": "Mlk o Nestor destruiu a mente desse bosta KKKKKKKKKKKKK",
+            "author_username": "Tio_Pipoca",
+            "author_name": "Tio_Pipoca",
+            "created_at": "2026-10-25T15:18:00+00:00",
+            "permalink": "https://nitter.netbub.com/Tio_Pipoca/status/2114375976641515785#m",
+            "metrics": {
+              "like_count": 26,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114366807842664708",
+            "text": "Neymar ofende o Nestor.\nNestor não faz nada e dá uma entrevista decepcionado.\nNeymar pega pilha e vai provocar o Nestor.\nColoca a mão na boca.\nNestor não reage a avisa o árbitro.\nNeymar expulso.\nNestor o maior corretor de imóveis, alugou o Neymar inteiro.",
+            "author_username": "RodrigoCabralBR",
+            "author_name": "RodrigoCabralBR",
+            "created_at": "2026-10-25T14:41:00+00:00",
+            "permalink": "https://nitter.netbub.com/RodrigoCabralBR/status/2114366807842664708#m",
+            "metrics": {
+              "like_count": 20,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114344658327245227",
+            "text": "Não foi no lance em si, foi durante todo o jogo pq o neymar tava putinho pq o Nestor fez ele tomar o cartão, olha as coisas que ele fica falando pro cara. Se a boca aberta ele tava tentando humilhar o cara, imagina tapando a boca rs",
+            "author_username": "remela710oil",
+            "author_name": "remela710oil",
+            "created_at": "2026-10-25T13:13:00+00:00",
+            "permalink": "https://nitter.netbub.com/remela710oil/status/2114344658327245227#m",
+            "metrics": {
+              "like_count": 415,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 4
+            }
+          },
+          {
+            "id": "2114338157151858964",
+            "text": "Chamou o Nestor de macumbeiro e o Bahia de time pequeno, ou time de macumbeiro, tenho certeza absoluta  que foi algo desse tipo pelo nível desse merda",
+            "author_username": "remela710oil",
+            "author_name": "remela710oil",
+            "created_at": "2026-10-25T12:47:00+00:00",
+            "permalink": "https://nitter.netbub.com/remela710oil/status/2114338157151858964#m",
+            "metrics": {
+              "like_count": 299,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 7
+            }
+          },
+          {
+            "id": "2114324919429255369",
+            "text": "Não tô entendendo esse chororo \nA regra diz que não pode tapar a boca pra falar, Neymar violou a regra, Nestor avisou o árbitro \nNão ser racista é sua obrigação",
+            "author_username": "abiejpg",
+            "author_name": "abiejpg",
+            "created_at": "2026-10-25T11:55:00+00:00",
+            "permalink": "https://nitter.netbub.com/abiejpg/status/2114324919429255369#m",
+            "metrics": {
+              "like_count": 60,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114315104950865968",
+            "text": "A única coisa q @neymarjr errou foi jogar a ⚽ nele pois estava pendurado e iria levar 🟨,mas Nestor agiu de 1 má fé  a ⚽só relou nele caiu parecendo q foi 1🪨 q atingiu,no lance da mão na boca,no jogo anterior fizeram isso com Neymar nem por isso ele chamou o juiz, má fé isso.",
+            "author_username": "drekwin",
+            "author_name": "drekwin",
+            "created_at": "2026-10-25T11:16:00+00:00",
+            "permalink": "https://nitter.netbub.com/drekwin/status/2114315104950865968#m",
+            "metrics": {
+              "like_count": 205,
+              "reply_count": 2,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114311539633086871",
+            "text": "Não, tem que ter contexto. E tinha o Neymar já tinha agredido o Nestor e depois ficou um tempão procurando briga, tanto buscou que o contato veio. E o Neymar pipocou, ele queria uma desculpa pra não enfrentar o Palmeiras e acabou encontrando 2 jogos de folga.",
+            "author_username": "djlmfh",
+            "author_name": "djlmfh",
+            "created_at": "2026-10-25T11:02:00+00:00",
+            "permalink": "https://nitter.netbub.com/djlmfh/status/2114311539633086871#m",
+            "metrics": {
+              "like_count": 20,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114236631418810428",
+            "text": "KKKKKKKKKKKKK Nestor foi safado xom4o Neymar",
+            "author_username": "rikochete23",
+            "author_name": "rikochete23",
+            "created_at": "2026-10-25T06:04:00+00:00",
+            "permalink": "https://nitter.netbub.com/rikochete23/status/2114236631418810428#m",
+            "metrics": {
+              "like_count": 37,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114216853836870065",
+            "text": "Como o próprio Nestor falou: pode ser ídolo em campo para muitos, mas como pessoa falhou feio hoje. Desrespeitar um colega de profissão e a instituição do Bahia só mostra o tamanho do ego. O choro é livre e o vermelho foi merecido!",
+            "author_username": "SouzaRafael89",
+            "author_name": "SouzaRafael89",
+            "created_at": "2026-10-25T04:45:00+00:00",
+            "permalink": "https://nitter.netbub.com/SouzaRafael89/status/2114216853836870065#m",
+            "metrics": {
+              "like_count": 31,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114209666456518726",
+            "text": "cara o neymar ta mt puto com o nestor nos storys kkkkkkkkkkkkkkkkkkkkkk",
+            "author_username": "caduschraiber",
+            "author_name": "caduschraiber",
+            "created_at": "2026-10-25T04:17:00+00:00",
+            "permalink": "https://nitter.netbub.com/caduschraiber/status/2114209666456518726#m",
+            "metrics": {
+              "like_count": 56,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114202734098309377",
+            "text": "Pronunciamento nojento. Numa boa, o cara nem sabe como é a regra. O Nestor é muito de boa, o Neymar pegou pilha porque é uma criança.",
+            "author_username": "RodrigoCabralBR",
+            "author_name": "RodrigoCabralBR",
+            "created_at": "2026-10-25T03:49:00+00:00",
+            "permalink": "https://nitter.netbub.com/RodrigoCabralBR/status/2114202734098309377#m",
+            "metrics": {
+              "like_count": 85,
+              "reply_count": 0,
+              "retweet_count": 1,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114178554967605454",
+            "text": "Neymar ainda pediu para os colegas pegarem o Rodrigo Nestor",
+            "author_username": "Fernand65622019",
+            "author_name": "Fernand65622019",
+            "created_at": "2026-10-25T02:13:00+00:00",
+            "permalink": "https://nitter.netbub.com/Fernand65622019/status/2114178554967605454#m",
+            "metrics": {
+              "like_count": 30,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114178422201004516",
+            "text": "Neymar veio na intenção do Nestor",
+            "author_username": "Fernand65622019",
+            "author_name": "Fernand65622019",
+            "created_at": "2026-10-25T02:13:00+00:00",
+            "permalink": "https://nitter.netbub.com/Fernand65622019/status/2114178422201004516#m",
+            "metrics": {
+              "like_count": 27,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114178039475052660",
+            "text": "Meu mano Rodrigo Nestor foda demais",
+            "author_username": "abiejpg",
+            "author_name": "abiejpg",
+            "created_at": "2026-10-25T02:11:00+00:00",
+            "permalink": "https://nitter.netbub.com/abiejpg/status/2114178039475052660#m",
+            "metrics": {
+              "like_count": 30,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114177050491679142",
+            "text": "KKKKKKKKK NESTOR ÍDOLO PRA CARALHO",
+            "author_username": "abiejpg",
+            "author_name": "abiejpg",
+            "created_at": "2026-10-25T02:07:00+00:00",
+            "permalink": "https://nitter.netbub.com/abiejpg/status/2114177050491679142#m",
+            "metrics": {
+              "like_count": 22,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114174500199706724",
+            "text": "regra é regra e o Nestor nem queria assunto. neymar foi cabaço..",
+            "author_username": "MaiconRaymundo",
+            "author_name": "MaiconRaymundo",
+            "created_at": "2026-10-25T01:57:00+00:00",
+            "permalink": "https://nitter.netbub.com/MaiconRaymundo/status/2114174500199706724#m",
+            "metrics": {
+              "like_count": 730,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 2
+            }
+          },
+          {
+            "id": "2114174331613761584",
+            "text": "Então o Nestor leva uma bolada do adversário e tem que ficar em pé ? Vc é tonto ou só é santista querendo passar pano para o menino ney",
+            "author_username": "brunobessam",
+            "author_name": "brunobessam",
+            "created_at": "2026-10-25T01:56:00+00:00",
+            "permalink": "https://nitter.netbub.com/brunobessam/status/2114174331613761584#m",
+            "metrics": {
+              "like_count": 676,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114171263958515991",
+            "text": "Rodrigo Nestor e Rogério Ceni de um lado e Neymar do outro.... Uma escolha muito difícil kkkkkkkkkk",
+            "author_username": "LocoMath17",
+            "author_name": "LocoMath17",
+            "created_at": "2026-10-25T01:44:00+00:00",
+            "permalink": "https://nitter.netbub.com/LocoMath17/status/2114171263958515991#m",
+            "metrics": {
+              "like_count": 345,
+              "reply_count": 0,
+              "retweet_count": 1,
+              "quote_count": 4
+            }
+          },
+          {
+            "id": "2114170476486369414",
+            "text": "O cara é muito criança kkkkkk\nInacreditável isso, o cara provocando e o Nestor quieto. No final foi expulso kkkkk",
+            "author_username": "RodrigoCabralBR",
+            "author_name": "RodrigoCabralBR",
+            "created_at": "2026-10-25T01:41:00+00:00",
+            "permalink": "https://nitter.netbub.com/RodrigoCabralBR/status/2114170476486369414#m",
+            "metrics": {
+              "like_count": 29,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114169635721388358",
+            "text": "Nestor craque do jogo kkkkkkkkk\nIncrível, entrou na mente do moleque. Não é muito difícil kkkkkkk",
+            "author_username": "RodrigoCabralBR",
+            "author_name": "RodrigoCabralBR",
+            "created_at": "2026-10-25T01:38:00+00:00",
+            "permalink": "https://nitter.netbub.com/RodrigoCabralBR/status/2114169635721388358#m",
+            "metrics": {
+              "like_count": 43,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114169366631653672",
+            "text": "Criança, sem inteligência emocional. Agrediu Nestor e Ceni. Parabéns, menino.",
+            "author_username": "RodrigoCabralBR",
+            "author_name": "RodrigoCabralBR",
+            "created_at": "2026-10-25T01:37:00+00:00",
+            "permalink": "https://nitter.netbub.com/RodrigoCabralBR/status/2114169366631653672#m",
+            "metrics": {
+              "like_count": 21,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114167821051511281",
+            "text": "Foi resenhado pelo meu Rodrigo Nestor KKKKKKKKKKKKKKKKKK",
+            "author_username": "Theuus_Oliveira",
+            "author_name": "Theuus_Oliveira",
+            "created_at": "2026-10-25T01:31:00+00:00",
+            "permalink": "https://nitter.netbub.com/Theuus_Oliveira/status/2114167821051511281#m",
+            "metrics": {
+              "like_count": 41,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114167800461693314",
+            "text": "Admirável e certíssimo o Nestor.\n\nNeymar é ídolo, nosso e de milhões, mas caráter é algo inegociável e o do Neymar falha e muito!\n\nInfelizmente",
+            "author_username": "CleberFerrenha",
+            "author_name": "CleberFerrenha",
+            "created_at": "2026-10-25T01:30:00+00:00",
+            "permalink": "https://nitter.netbub.com/CleberFerrenha/status/2114167800461693314#m",
+            "metrics": {
+              "like_count": 589,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 10
+            }
+          },
+          {
+            "id": "2114167297728278834",
+            "text": "Irmão o RODRIGO NESTOR entrou na cabeça do garoto neymar a ponto dele fazer essa cena ridícula.\n\nBizarro o que passa na cabeça desse cara.\n\nE olha que sou muito fã",
+            "author_username": "oBielzin__",
+            "author_name": "oBielzin__",
+            "created_at": "2026-10-25T01:28:00+00:00",
+            "permalink": "https://nitter.netbub.com/oBielzin__/status/2114167297728278834#m",
+            "metrics": {
+              "like_count": 75,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114165327638446313",
+            "text": "eu te amo, nestor",
+            "author_username": "lor3ecb",
+            "author_name": "lor3ecb",
+            "created_at": "2026-10-25T01:21:00+00:00",
+            "permalink": "https://nitter.netbub.com/lor3ecb/status/2114165327638446313#m",
+            "metrics": {
+              "like_count": 94,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114164838427463824",
+            "text": "Nestor \nGente é sobre encher a tl mesmo porfa entre na live do janones vamo ganhar essa eleição:\nyoutube.com/live/mR2M_KlQqt4…",
+            "author_username": "reddiebitchy",
+            "author_name": "reddiebitchy",
+            "created_at": "2026-10-25T01:19:00+00:00",
+            "permalink": "https://nitter.netbub.com/reddiebitchy/status/2114164838427463824#m",
+            "metrics": {
+              "like_count": 57,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114164738007371830",
+            "text": "depois do peteleco, veio aí a mão na boca. simplesmente Rodrigo Nestor",
+            "author_username": "cithius",
+            "author_name": "cithius",
+            "created_at": "2026-10-25T01:18:00+00:00",
+            "permalink": "https://nitter.netbub.com/cithius/status/2114164738007371830#m",
+            "metrics": {
+              "like_count": 47,
+              "reply_count": 0,
+              "retweet_count": 1,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114164337052921946",
+            "text": "RODRIGO NESTOR MASTER CLASS HOJE",
+            "author_username": "cavalinhobahiia",
+            "author_name": "cavalinhobahiia",
+            "created_at": "2026-10-25T01:17:00+00:00",
+            "permalink": "https://nitter.netbub.com/cavalinhobahiia/status/2114164337052921946#m",
+            "metrics": {
+              "like_count": 2,
+              "reply_count": 0,
+              "retweet_count": 16,
+              "quote_count": 134
+            }
+          },
+          {
+            "id": "2114164141040492980",
+            "text": "Você merece se fuder muito Neymar \n\nMogado por RODRIGO NESTOR \n\nPsicológico de uma ameba",
+            "author_username": "GRMSFC",
+            "author_name": "GRMSFC",
+            "created_at": "2026-10-25T01:16:00+00:00",
+            "permalink": "https://nitter.netbub.com/GRMSFC/status/2114164141040492980#m",
+            "metrics": {
+              "like_count": 78,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114164138104570076",
+            "text": "Neymar botou a mão na boca para xingar o Nestor. \n\nNão vai ter como. É ra re ri ro rua!\n\nNeymar, como você é.",
+            "author_username": "frab_br",
+            "author_name": "frab_br",
+            "created_at": "2026-10-25T01:16:00+00:00",
+            "permalink": "https://nitter.netbub.com/frab_br/status/2114164138104570076#m",
+            "metrics": {
+              "like_count": 48,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          }
+        ],
+        "comments": [
+          {
+            "id": "2114432483353866580",
+            "text": "meu craque é desequilibrado e infantil, eu nao controlo ele, inclusive acho q nem deveria ser o faixa, mas acontece, nao sou presidente🤷‍♂️",
+            "author_username": "euneyteamo",
+            "author_name": "euneyteamo",
+            "created_at": "2026-10-25T19:02:00+00:00",
+            "permalink": "https://nitter.netbub.com/euneyteamo/status/2114432483353866580#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114393830396948711",
+            "parent_comment_id": "2114393830396948711",
+            "depth": 1
+          },
+          {
+            "id": "2114412405333930022",
+            "text": "Existe um regulamento e ele precisa ser cumprido.",
+            "author_username": "andregalvaofer",
+            "author_name": "andregalvaofer",
+            "created_at": "2026-10-25T17:42:00+00:00",
+            "permalink": "https://nitter.netbub.com/andregalvaofer/status/2114412405333930022#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114389455465271734",
+            "parent_comment_id": "2114389455465271734",
+            "depth": 1
+          },
+          {
+            "id": "2114346343065862418",
+            "text": "Me admira no final o colega do Neymar dizendo que vai dar uma entrada no Nestor sabendo que isso pode lesionar. São uns NOJENTOS",
+            "author_username": "Tvlglg173720",
+            "author_name": "Tvlglg173720",
+            "created_at": "2026-10-25T13:20:00+00:00",
+            "permalink": "https://nitter.netbub.com/Tvlglg173720/status/2114346343065862418#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114344658327245227",
+            "parent_comment_id": "2114344658327245227",
+            "depth": 1
+          },
+          {
+            "id": "2114352122959450429",
+            "text": "😂😂😂😂",
+            "author_username": "cclout17",
+            "author_name": "cclout17",
+            "created_at": "2026-10-25T13:43:00+00:00",
+            "permalink": "https://nitter.netbub.com/cclout17/status/2114352122959450429#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114338157151858964",
+            "parent_comment_id": "2114338157151858964",
+            "depth": 1
+          },
+          {
+            "id": "2114333106748432488",
+            "text": "Como se essa criança não simulasse nada na vida dela….MUNDIALMENTE CONHECIDO por isso ainda. CAI CAI!!",
+            "author_username": "AjAlves92",
+            "author_name": "AjAlves92",
+            "created_at": "2026-10-25T12:27:00+00:00",
+            "permalink": "https://nitter.netbub.com/AjAlves92/status/2114333106748432488#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114315104950865968",
+            "parent_comment_id": "2114315104950865968",
+            "depth": 1
+          },
+          {
+            "id": "2114365109560885677",
+            "text": "Igual a má fé do Neymar contra o Vasco simulando ter recebido uma cabeçada do Thiago Mendes? kkkkkkkkkkkkkkkk",
+            "author_username": "tongueofgold",
+            "author_name": "tongueofgold",
+            "created_at": "2026-10-25T14:34:00+00:00",
+            "permalink": "https://nitter.netbub.com/tongueofgold/status/2114365109560885677#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114315104950865968",
+            "parent_comment_id": "2114315104950865968",
+            "depth": 1
+          }
+        ],
+        "pagination": {
+          "pages_collected": 23,
+          "instance_used": "https://nitter.netbub.com"
+        },
+        "limitations": [
+          "Coleta via Nitter não é API oficial da plataforma X.",
+          "Profundidade de respostas e paginação dependem da instância Nitter."
+        ]
+      }
+    ]
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:raw:post:2114546060916121870",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114546060916121870",
+      "collected_at": "2026-10-25T23:53:53-03:00",
+      "matched_terms": [
+        "pl",
+        "twitee:4 Nestor"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Nestor",
+        "term_group_id": "assuntos_momento_br",
+        "term_label": "twitee:4 Nestor",
+        "run_id": "8fe3e55f-2eb4-49a8-9bbc-7eca1bb7098e",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114546060916121870",
+        "text": "Rodrigo Nestor tinha uma plano e já sabia de algo.",
+        "author_username": "jheremmias",
+        "author_name": "jheremmias",
+        "created_at": "2026-10-26T02:34:00+00:00",
+        "permalink": "https://nitter.netbub.com/jheremmias/status/2114546060916121870#m",
+        "metrics": {
+          "like_count": 5,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114544383752057143",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114544383752057143",
+      "collected_at": "2026-10-25T23:53:53-03:00",
+      "matched_terms": [
+        "twitee:4 Nestor"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Nestor",
+        "term_group_id": "assuntos_momento_br",
+        "term_label": "twitee:4 Nestor",
+        "run_id": "8fe3e55f-2eb4-49a8-9bbc-7eca1bb7098e",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114544383752057143",
+        "text": "A cidade de São Paulo derrotou o bolsonarismo. Desejo ao presidente eleito uma boa gestão.",
+        "author_username": "nestorbrito47",
+        "author_name": "nestorbrito47",
+        "created_at": "2026-10-26T02:27:00+00:00",
+        "permalink": "https://nitter.netbub.com/nestorbrito47/status/2114544383752057143#m",
+        "metrics": {
+          "like_count": 4,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114388371808120922",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114388371808120922",
+      "collected_at": "2026-10-25T23:53:53-03:00",
+      "matched_terms": [
+        "twitee:4 Nestor"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Nestor",
+        "term_group_id": "assuntos_momento_br",
+        "term_label": "twitee:4 Nestor",
+        "run_id": "8fe3e55f-2eb4-49a8-9bbc-7eca1bb7098e",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114388371808120922",
+        "text": "Rogério Ceni somente seria apertado se seus gestores não fossem iguais a ele no quesito que a gente já sabe no mundo da bola brasilis. Bem capaz de Rodrigo Nestor ser punido pela atitude que teve e pelo fato de ser um cara de comportamento diferenciado no futebol.",
+        "author_username": "jheremmias",
+        "author_name": "jheremmias",
+        "created_at": "2026-10-25T16:07:00+00:00",
+        "permalink": "https://nitter.netbub.com/jheremmias/status/2114388371808120922#m",
+        "metrics": {
+          "like_count": 46,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114375976641515785",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114375976641515785",
+      "collected_at": "2026-10-25T23:53:53-03:00",
+      "matched_terms": [
+        "twitee:4 Nestor"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Nestor",
+        "term_group_id": "assuntos_momento_br",
+        "term_label": "twitee:4 Nestor",
+        "run_id": "8fe3e55f-2eb4-49a8-9bbc-7eca1bb7098e",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114375976641515785",
+        "text": "Mlk o Nestor destruiu a mente desse bosta KKKKKKKKKKKKK",
+        "author_username": "Tio_Pipoca",
+        "author_name": "Tio_Pipoca",
+        "created_at": "2026-10-25T15:18:00+00:00",
+        "permalink": "https://nitter.netbub.com/Tio_Pipoca/status/2114375976641515785#m",
+        "metrics": {
+          "like_count": 26,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114338157151858964",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114338157151858964",
+      "collected_at": "2026-10-25T23:53:53-03:00",
+      "matched_terms": [
+        "twitee:4 Nestor"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Nestor",
+        "term_group_id": "assuntos_momento_br",
+        "term_label": "twitee:4 Nestor",
+        "run_id": "8fe3e55f-2eb4-49a8-9bbc-7eca1bb7098e",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114338157151858964",
+        "text": "Chamou o Nestor de macumbeiro e o Bahia de time pequeno, ou time de macumbeiro, tenho certeza absoluta  que foi algo desse tipo pelo nível desse merda",
+        "author_username": "remela710oil",
+        "author_name": "remela710oil",
+        "created_at": "2026-10-25T12:47:00+00:00",
+        "permalink": "https://nitter.netbub.com/remela710oil/status/2114338157151858964#m",
+        "metrics": {
+          "like_count": 299,
+          "reply_count": 1,
+          "retweet_count": 0,
+          "quote_count": 7
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114216853836870065",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114216853836870065",
+      "collected_at": "2026-10-25T23:53:53-03:00",
+      "matched_terms": [
+        "twitee:4 Nestor"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Nestor",
+        "term_group_id": "assuntos_momento_br",
+        "term_label": "twitee:4 Nestor",
+        "run_id": "8fe3e55f-2eb4-49a8-9bbc-7eca1bb7098e",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114216853836870065",
+        "text": "Como o próprio Nestor falou: pode ser ídolo em campo para muitos, mas como pessoa falhou feio hoje. Desrespeitar um colega de profissão e a instituição do Bahia só mostra o tamanho do ego. O choro é livre e o vermelho foi merecido!",
+        "author_username": "SouzaRafael89",
+        "author_name": "SouzaRafael89",
+        "created_at": "2026-10-25T04:45:00+00:00",
+        "permalink": "https://nitter.netbub.com/SouzaRafael89/status/2114216853836870065#m",
+        "metrics": {
+          "like_count": 31,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114178039475052660",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114178039475052660",
+      "collected_at": "2026-10-25T23:53:53-03:00",
+      "matched_terms": [
+        "twitee:4 Nestor"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Nestor",
+        "term_group_id": "assuntos_momento_br",
+        "term_label": "twitee:4 Nestor",
+        "run_id": "8fe3e55f-2eb4-49a8-9bbc-7eca1bb7098e",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114178039475052660",
+        "text": "Meu mano Rodrigo Nestor foda demais",
+        "author_username": "abiejpg",
+        "author_name": "abiejpg",
+        "created_at": "2026-10-25T02:11:00+00:00",
+        "permalink": "https://nitter.netbub.com/abiejpg/status/2114178039475052660#m",
+        "metrics": {
+          "like_count": 30,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114177050491679142",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114177050491679142",
+      "collected_at": "2026-10-25T23:53:53-03:00",
+      "matched_terms": [
+        "twitee:4 Nestor"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Nestor",
+        "term_group_id": "assuntos_momento_br",
+        "term_label": "twitee:4 Nestor",
+        "run_id": "8fe3e55f-2eb4-49a8-9bbc-7eca1bb7098e",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114177050491679142",
+        "text": "KKKKKKKKK NESTOR ÍDOLO PRA CARALHO",
+        "author_username": "abiejpg",
+        "author_name": "abiejpg",
+        "created_at": "2026-10-25T02:07:00+00:00",
+        "permalink": "https://nitter.netbub.com/abiejpg/status/2114177050491679142#m",
+        "metrics": {
+          "like_count": 22,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114174500199706724",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114174500199706724",
+      "collected_at": "2026-10-25T23:53:53-03:00",
+      "matched_terms": [
+        "twitee:4 Nestor"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Nestor",
+        "term_group_id": "assuntos_momento_br",
+        "term_label": "twitee:4 Nestor",
+        "run_id": "8fe3e55f-2eb4-49a8-9bbc-7eca1bb7098e",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114174500199706724",
+        "text": "regra é regra e o Nestor nem queria assunto. neymar foi cabaço..",
+        "author_username": "MaiconRaymundo",
+        "author_name": "MaiconRaymundo",
+        "created_at": "2026-10-25T01:57:00+00:00",
+        "permalink": "https://nitter.netbub.com/MaiconRaymundo/status/2114174500199706724#m",
+        "metrics": {
+          "like_count": 730,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 2
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114174331613761584",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114174331613761584",
+      "collected_at": "2026-10-25T23:53:53-03:00",
+      "matched_terms": [
+        "twitee:4 Nestor"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Nestor",
+        "term_group_id": "assuntos_momento_br",
+        "term_label": "twitee:4 Nestor",
+        "run_id": "8fe3e55f-2eb4-49a8-9bbc-7eca1bb7098e",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114174331613761584",
+        "text": "Então o Nestor leva uma bolada do adversário e tem que ficar em pé ? Vc é tonto ou só é santista querendo passar pano para o menino ney",
+        "author_username": "brunobessam",
+        "author_name": "brunobessam",
+        "created_at": "2026-10-25T01:56:00+00:00",
+        "permalink": "https://nitter.netbub.com/brunobessam/status/2114174331613761584#m",
+        "metrics": {
+          "like_count": 676,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114171263958515991",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114171263958515991",
+      "collected_at": "2026-10-25T23:53:53-03:00",
+      "matched_terms": [
+        "twitee:4 Nestor"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Nestor",
+        "term_group_id": "assuntos_momento_br",
+        "term_label": "twitee:4 Nestor",
+        "run_id": "8fe3e55f-2eb4-49a8-9bbc-7eca1bb7098e",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114171263958515991",
+        "text": "Rodrigo Nestor e Rogério Ceni de um lado e Neymar do outro.... Uma escolha muito difícil kkkkkkkkkk",
+        "author_username": "LocoMath17",
+        "author_name": "LocoMath17",
+        "created_at": "2026-10-25T01:44:00+00:00",
+        "permalink": "https://nitter.netbub.com/LocoMath17/status/2114171263958515991#m",
+        "metrics": {
+          "like_count": 345,
+          "reply_count": 0,
+          "retweet_count": 1,
+          "quote_count": 4
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114170476486369414",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114170476486369414",
+      "collected_at": "2026-10-25T23:53:53-03:00",
+      "matched_terms": [
+        "twitee:4 Nestor"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Nestor",
+        "term_group_id": "assuntos_momento_br",
+        "term_label": "twitee:4 Nestor",
+        "run_id": "8fe3e55f-2eb4-49a8-9bbc-7eca1bb7098e",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114170476486369414",
+        "text": "O cara é muito criança kkkkkk\nInacreditável isso, o cara provocando e o Nestor quieto. No final foi expulso kkkkk",
+        "author_username": "RodrigoCabralBR",
+        "author_name": "RodrigoCabralBR",
+        "created_at": "2026-10-25T01:41:00+00:00",
+        "permalink": "https://nitter.netbub.com/RodrigoCabralBR/status/2114170476486369414#m",
+        "metrics": {
+          "like_count": 29,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114169635721388358",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114169635721388358",
+      "collected_at": "2026-10-25T23:53:53-03:00",
+      "matched_terms": [
+        "twitee:4 Nestor"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Nestor",
+        "term_group_id": "assuntos_momento_br",
+        "term_label": "twitee:4 Nestor",
+        "run_id": "8fe3e55f-2eb4-49a8-9bbc-7eca1bb7098e",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114169635721388358",
+        "text": "Nestor craque do jogo kkkkkkkkk\nIncrível, entrou na mente do moleque. Não é muito difícil kkkkkkk",
+        "author_username": "RodrigoCabralBR",
+        "author_name": "RodrigoCabralBR",
+        "created_at": "2026-10-25T01:38:00+00:00",
+        "permalink": "https://nitter.netbub.com/RodrigoCabralBR/status/2114169635721388358#m",
+        "metrics": {
+          "like_count": 43,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114169366631653672",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114169366631653672",
+      "collected_at": "2026-10-25T23:53:53-03:00",
+      "matched_terms": [
+        "twitee:4 Nestor"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Nestor",
+        "term_group_id": "assuntos_momento_br",
+        "term_label": "twitee:4 Nestor",
+        "run_id": "8fe3e55f-2eb4-49a8-9bbc-7eca1bb7098e",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114169366631653672",
+        "text": "Criança, sem inteligência emocional. Agrediu Nestor e Ceni. Parabéns, menino.",
+        "author_username": "RodrigoCabralBR",
+        "author_name": "RodrigoCabralBR",
+        "created_at": "2026-10-25T01:37:00+00:00",
+        "permalink": "https://nitter.netbub.com/RodrigoCabralBR/status/2114169366631653672#m",
+        "metrics": {
+          "like_count": 21,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114167821051511281",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114167821051511281",
+      "collected_at": "2026-10-25T23:53:53-03:00",
+      "matched_terms": [
+        "twitee:4 Nestor"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Nestor",
+        "term_group_id": "assuntos_momento_br",
+        "term_label": "twitee:4 Nestor",
+        "run_id": "8fe3e55f-2eb4-49a8-9bbc-7eca1bb7098e",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114167821051511281",
+        "text": "Foi resenhado pelo meu Rodrigo Nestor KKKKKKKKKKKKKKKKKK",
+        "author_username": "Theuus_Oliveira",
+        "author_name": "Theuus_Oliveira",
+        "created_at": "2026-10-25T01:31:00+00:00",
+        "permalink": "https://nitter.netbub.com/Theuus_Oliveira/status/2114167821051511281#m",
+        "metrics": {
+          "like_count": 41,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114167800461693314",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114167800461693314",
+      "collected_at": "2026-10-25T23:53:53-03:00",
+      "matched_terms": [
+        "twitee:4 Nestor"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Nestor",
+        "term_group_id": "assuntos_momento_br",
+        "term_label": "twitee:4 Nestor",
+        "run_id": "8fe3e55f-2eb4-49a8-9bbc-7eca1bb7098e",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114167800461693314",
+        "text": "Admirável e certíssimo o Nestor.\n\nNeymar é ídolo, nosso e de milhões, mas caráter é algo inegociável e o do Neymar falha e muito!\n\nInfelizmente",
+        "author_username": "CleberFerrenha",
+        "author_name": "CleberFerrenha",
+        "created_at": "2026-10-25T01:30:00+00:00",
+        "permalink": "https://nitter.netbub.com/CleberFerrenha/status/2114167800461693314#m",
+        "metrics": {
+          "like_count": 589,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 10
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114167297728278834",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114167297728278834",
+      "collected_at": "2026-10-25T23:53:53-03:00",
+      "matched_terms": [
+        "twitee:4 Nestor"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Nestor",
+        "term_group_id": "assuntos_momento_br",
+        "term_label": "twitee:4 Nestor",
+        "run_id": "8fe3e55f-2eb4-49a8-9bbc-7eca1bb7098e",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114167297728278834",
+        "text": "Irmão o RODRIGO NESTOR entrou na cabeça do garoto neymar a ponto dele fazer essa cena ridícula.\n\nBizarro o que passa na cabeça desse cara.\n\nE olha que sou muito fã",
+        "author_username": "oBielzin__",
+        "author_name": "oBielzin__",
+        "created_at": "2026-10-25T01:28:00+00:00",
+        "permalink": "https://nitter.netbub.com/oBielzin__/status/2114167297728278834#m",
+        "metrics": {
+          "like_count": 75,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114165327638446313",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114165327638446313",
+      "collected_at": "2026-10-25T23:53:53-03:00",
+      "matched_terms": [
+        "twitee:4 Nestor"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Nestor",
+        "term_group_id": "assuntos_momento_br",
+        "term_label": "twitee:4 Nestor",
+        "run_id": "8fe3e55f-2eb4-49a8-9bbc-7eca1bb7098e",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114165327638446313",
+        "text": "eu te amo, nestor",
+        "author_username": "lor3ecb",
+        "author_name": "lor3ecb",
+        "created_at": "2026-10-25T01:21:00+00:00",
+        "permalink": "https://nitter.netbub.com/lor3ecb/status/2114165327638446313#m",
+        "metrics": {
+          "like_count": 94,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114164838427463824",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114164838427463824",
+      "collected_at": "2026-10-25T23:53:53-03:00",
+      "matched_terms": [
+        "eleição",
+        "twitee:4 Nestor"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Nestor",
+        "term_group_id": "assuntos_momento_br",
+        "term_label": "twitee:4 Nestor",
+        "run_id": "8fe3e55f-2eb4-49a8-9bbc-7eca1bb7098e",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114164838427463824",
+        "text": "Nestor \nGente é sobre encher a tl mesmo porfa entre na live do janones vamo ganhar essa eleição:\nyoutube.com/live/mR2M_KlQqt4…",
+        "author_username": "reddiebitchy",
+        "author_name": "reddiebitchy",
+        "created_at": "2026-10-25T01:19:00+00:00",
+        "permalink": "https://nitter.netbub.com/reddiebitchy/status/2114164838427463824#m",
+        "metrics": {
+          "like_count": 57,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114164738007371830",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114164738007371830",
+      "collected_at": "2026-10-25T23:53:53-03:00",
+      "matched_terms": [
+        "pl",
+        "twitee:4 Nestor"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Nestor",
+        "term_group_id": "assuntos_momento_br",
+        "term_label": "twitee:4 Nestor",
+        "run_id": "8fe3e55f-2eb4-49a8-9bbc-7eca1bb7098e",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114164738007371830",
+        "text": "depois do peteleco, veio aí a mão na boca. simplesmente Rodrigo Nestor",
+        "author_username": "cithius",
+        "author_name": "cithius",
+        "created_at": "2026-10-25T01:18:00+00:00",
+        "permalink": "https://nitter.netbub.com/cithius/status/2114164738007371830#m",
+        "metrics": {
+          "like_count": 47,
+          "reply_count": 0,
+          "retweet_count": 1,
+          "quote_count": 1
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114164337052921946",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114164337052921946",
+      "collected_at": "2026-10-25T23:53:53-03:00",
+      "matched_terms": [
+        "twitee:4 Nestor"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Nestor",
+        "term_group_id": "assuntos_momento_br",
+        "term_label": "twitee:4 Nestor",
+        "run_id": "8fe3e55f-2eb4-49a8-9bbc-7eca1bb7098e",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114164337052921946",
+        "text": "RODRIGO NESTOR MASTER CLASS HOJE",
+        "author_username": "cavalinhobahiia",
+        "author_name": "cavalinhobahiia",
+        "created_at": "2026-10-25T01:17:00+00:00",
+        "permalink": "https://nitter.netbub.com/cavalinhobahiia/status/2114164337052921946#m",
+        "metrics": {
+          "like_count": 2,
+          "reply_count": 0,
+          "retweet_count": 16,
+          "quote_count": 134
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114164141040492980",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114164141040492980",
+      "collected_at": "2026-10-25T23:53:53-03:00",
+      "matched_terms": [
+        "twitee:4 Nestor"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Nestor",
+        "term_group_id": "assuntos_momento_br",
+        "term_label": "twitee:4 Nestor",
+        "run_id": "8fe3e55f-2eb4-49a8-9bbc-7eca1bb7098e",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114164141040492980",
+        "text": "Você merece se fuder muito Neymar \n\nMogado por RODRIGO NESTOR \n\nPsicológico de uma ameba",
+        "author_username": "GRMSFC",
+        "author_name": "GRMSFC",
+        "created_at": "2026-10-25T01:16:00+00:00",
+        "permalink": "https://nitter.netbub.com/GRMSFC/status/2114164141040492980#m",
+        "metrics": {
+          "like_count": 78,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114164138104570076",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114164138104570076",
+      "collected_at": "2026-10-25T23:53:53-03:00",
+      "matched_terms": [
+        "twitee:4 Nestor"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Nestor",
+        "term_group_id": "assuntos_momento_br",
+        "term_label": "twitee:4 Nestor",
+        "run_id": "8fe3e55f-2eb4-49a8-9bbc-7eca1bb7098e",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114164138104570076",
+        "text": "Neymar botou a mão na boca para xingar o Nestor. \n\nNão vai ter como. É ra re ri ro rua!\n\nNeymar, como você é.",
+        "author_username": "frab_br",
+        "author_name": "frab_br",
+        "created_at": "2026-10-25T01:16:00+00:00",
+        "permalink": "https://nitter.netbub.com/frab_br/status/2114164138104570076#m",
+        "metrics": {
+          "like_count": 48,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    }
+  ],
+  "comments": [
+    {
+      "record_id": "twitter_x:raw:comment:2114432483353866580",
+      "source": "twitter_x",
+      "record_type": "comment",
+      "comment_id": "2114432483353866580",
+      "post_id": "2114393830396948711",
+      "collected_at": "2026-10-25T23:53:53-03:00",
+      "matched_terms": [],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Nestor",
+        "term_group_id": "assuntos_momento_br",
+        "term_label": "twitee:4 Nestor",
+        "run_id": "8fe3e55f-2eb4-49a8-9bbc-7eca1bb7098e",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114432483353866580",
+        "text": "meu craque é desequilibrado e infantil, eu nao controlo ele, inclusive acho q nem deveria ser o faixa, mas acontece, nao sou presidente🤷‍♂️",
+        "author_username": "euneyteamo",
+        "author_name": "euneyteamo",
+        "created_at": "2026-10-25T19:02:00+00:00",
+        "permalink": "https://nitter.netbub.com/euneyteamo/status/2114432483353866580#m",
+        "metrics": {
+          "like_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        },
+        "post_id": "2114393830396948711",
+        "parent_comment_id": "2114393830396948711",
+        "depth": 1
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:comment:2114412405333930022",
+      "source": "twitter_x",
+      "record_type": "comment",
+      "comment_id": "2114412405333930022",
+      "post_id": "2114389455465271734",
+      "collected_at": "2026-10-25T23:53:53-03:00",
+      "matched_terms": [],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Nestor",
+        "term_group_id": "assuntos_momento_br",
+        "term_label": "twitee:4 Nestor",
+        "run_id": "8fe3e55f-2eb4-49a8-9bbc-7eca1bb7098e",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114412405333930022",
+        "text": "Existe um regulamento e ele precisa ser cumprido.",
+        "author_username": "andregalvaofer",
+        "author_name": "andregalvaofer",
+        "created_at": "2026-10-25T17:42:00+00:00",
+        "permalink": "https://nitter.netbub.com/andregalvaofer/status/2114412405333930022#m",
+        "metrics": {
+          "like_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        },
+        "post_id": "2114389455465271734",
+        "parent_comment_id": "2114389455465271734",
+        "depth": 1
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:comment:2114346343065862418",
+      "source": "twitter_x",
+      "record_type": "comment",
+      "comment_id": "2114346343065862418",
+      "post_id": "2114344658327245227",
+      "collected_at": "2026-10-25T23:53:53-03:00",
+      "matched_terms": [],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Nestor",
+        "term_group_id": "assuntos_momento_br",
+        "term_label": "twitee:4 Nestor",
+        "run_id": "8fe3e55f-2eb4-49a8-9bbc-7eca1bb7098e",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114346343065862418",
+        "text": "Me admira no final o colega do Neymar dizendo que vai dar uma entrada no Nestor sabendo que isso pode lesionar. São uns NOJENTOS",
+        "author_username": "Tvlglg173720",
+        "author_name": "Tvlglg173720",
+        "created_at": "2026-10-25T13:20:00+00:00",
+        "permalink": "https://nitter.netbub.com/Tvlglg173720/status/2114346343065862418#m",
+        "metrics": {
+          "like_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        },
+        "post_id": "2114344658327245227",
+        "parent_comment_id": "2114344658327245227",
+        "depth": 1
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:comment:2114352122959450429",
+      "source": "twitter_x",
+      "record_type": "comment",
+      "comment_id": "2114352122959450429",
+      "post_id": "2114338157151858964",
+      "collected_at": "2026-10-25T23:53:53-03:00",
+      "matched_terms": [],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Nestor",
+        "term_group_id": "assuntos_momento_br",
+        "term_label": "twitee:4 Nestor",
+        "run_id": "8fe3e55f-2eb4-49a8-9bbc-7eca1bb7098e",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114352122959450429",
+        "text": "😂😂😂😂",
+        "author_username": "cclout17",
+        "author_name": "cclout17",
+        "created_at": "2026-10-25T13:43:00+00:00",
+        "permalink": "https://nitter.netbub.com/cclout17/status/2114352122959450429#m",
+        "metrics": {
+          "like_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        },
+        "post_id": "2114338157151858964",
+        "parent_comment_id": "2114338157151858964",
+        "depth": 1
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:comment:2114333106748432488",
+      "source": "twitter_x",
+      "record_type": "comment",
+      "comment_id": "2114333106748432488",
+      "post_id": "2114315104950865968",
+      "collected_at": "2026-10-25T23:53:53-03:00",
+      "matched_terms": [],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Nestor",
+        "term_group_id": "assuntos_momento_br",
+        "term_label": "twitee:4 Nestor",
+        "run_id": "8fe3e55f-2eb4-49a8-9bbc-7eca1bb7098e",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114333106748432488",
+        "text": "Como se essa criança não simulasse nada na vida dela….MUNDIALMENTE CONHECIDO por isso ainda. CAI CAI!!",
+        "author_username": "AjAlves92",
+        "author_name": "AjAlves92",
+        "created_at": "2026-10-25T12:27:00+00:00",
+        "permalink": "https://nitter.netbub.com/AjAlves92/status/2114333106748432488#m",
+        "metrics": {
+          "like_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        },
+        "post_id": "2114315104950865968",
+        "parent_comment_id": "2114315104950865968",
+        "depth": 1
+      }
+    }
+  ]
+}
