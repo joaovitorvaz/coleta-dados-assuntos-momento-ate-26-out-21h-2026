@@ -1,0 +1,640 @@
+{
+  "metadata": {
+    "term_group_id": "assuntos_momento_br",
+    "query": "#AposentadosComLula",
+    "since": "2026-10-25",
+    "until": "2026-10-27",
+    "source": "twitter_x",
+    "run_id": "8fe3e55f-2eb4-49a8-9bbc-7eca1bb7098e",
+    "collected_at": "2026-10-26T00:26:30-03:00",
+    "layer": "raw",
+    "counts": {
+      "posts": 12,
+      "comments": 0,
+      "records_total": 12,
+      "skipped_duplicate": 0
+    },
+    "collector_pages": [
+      {
+        "posts": [
+          {
+            "id": "2114176283093659802",
+            "text": "Vamos ajudar por favor.. #AposentadosComLula #JUMMO #direita #Bolsonaro #24octobre",
+            "author_username": "araujo_delano",
+            "author_name": "araujo_delano",
+            "created_at": "2026-10-25T02:04:00+00:00",
+            "permalink": "https://nitter.meowing.monster/araujo_delano/status/2114176283093659802#m",
+            "metrics": {
+              "like_count": 30,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114172467841290686",
+            "text": "Virada é mais gostoso \n#AposentadosComLula",
+            "author_username": "joeuzinhadm",
+            "author_name": "joeuzinhadm",
+            "created_at": "2026-10-25T01:49:00+00:00",
+            "permalink": "https://nitter.meowing.monster/joeuzinhadm/status/2114172467841290686#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114147284355289125",
+            "text": "Amanhã tu tem o dever de votar \nQue Pátria é a sua? \n#AposentadosComLula",
+            "author_username": "joeuzinhadm",
+            "author_name": "joeuzinhadm",
+            "created_at": "2026-10-25T00:09:00+00:00",
+            "permalink": "https://nitter.meowing.monster/joeuzinhadm/status/2114147284355289125#m",
+            "metrics": {
+              "like_count": 4,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114144034570584110",
+            "text": "#AposentadosComLula\n\nA vitória já é nossa. A virada já começou. A força do nosso exército é imbatível!",
+            "author_username": "itsjoaopedroFB",
+            "author_name": "itsjoaopedroFB",
+            "created_at": "2026-10-24T23:56:00+00:00",
+            "permalink": "https://nitter.meowing.monster/itsjoaopedroFB/status/2114144034570584110#m",
+            "metrics": {
+              "like_count": 13,
+              "reply_count": 0,
+              "retweet_count": 1,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114122419367805242",
+            "text": "#AposentadosComLula SEABRA - Bahia . Enfermeiras com Lula",
+            "author_username": "Juremacintra",
+            "author_name": "Juremacintra",
+            "created_at": "2026-10-24T22:30:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Juremacintra/status/2114122419367805242#m",
+            "metrics": {
+              "like_count": 12,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114117918745051492",
+            "text": "Queremos segurança \n#AposentadosComLula",
+            "author_username": "iraneidearaujo4",
+            "author_name": "iraneidearaujo4",
+            "created_at": "2026-10-24T22:12:00+00:00",
+            "permalink": "https://nitter.meowing.monster/iraneidearaujo4/status/2114117918745051492#m",
+            "metrics": {
+              "like_count": 6,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114117586187096537",
+            "text": "Amor \n#AposentadosComLula",
+            "author_username": "iraneidearaujo4",
+            "author_name": "iraneidearaujo4",
+            "created_at": "2026-10-24T22:11:00+00:00",
+            "permalink": "https://nitter.meowing.monster/iraneidearaujo4/status/2114117586187096537#m",
+            "metrics": {
+              "like_count": 5,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114117450790842656",
+            "text": "Bora\n#AposentadosComLula",
+            "author_username": "iraneidearaujo4",
+            "author_name": "iraneidearaujo4",
+            "created_at": "2026-10-24T22:10:00+00:00",
+            "permalink": "https://nitter.meowing.monster/iraneidearaujo4/status/2114117450790842656#m",
+            "metrics": {
+              "like_count": 9,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114117445455675518",
+            "text": "O povo ocupou as ruas. É Lula Presidente!\n#AposentadosComLula\n#ViraVoto \n#SoMaisUmVotoProLula",
+            "author_username": "Lu1669",
+            "author_name": "Lu1669",
+            "created_at": "2026-10-24T22:10:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Lu1669/status/2114117445455675518#m",
+            "metrics": {
+              "like_count": 17,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114116420049178962",
+            "text": "#AposentadosComLula\nFora PT #AposentadosComLula",
+            "author_username": "batista2803",
+            "author_name": "batista2803",
+            "created_at": "2026-10-24T22:06:00+00:00",
+            "permalink": "https://nitter.meowing.monster/batista2803/status/2114116420049178962#m",
+            "metrics": {
+              "like_count": 9,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114115654429352145",
+            "text": "Da Madonna aos bispos católicos. \n\nDo Matanza ao MC Cabelinho.  \n\nTodo mundo avisando que se eleger Bolsonaro vai dar merda.  \n\nNão é mais sobre o Lula, é sobre a chance da democracia ver um amanhã.\n\n#AposentadosComLula",
+            "author_username": "nagossaim",
+            "author_name": "nagossaim",
+            "created_at": "2026-10-24T22:03:00+00:00",
+            "permalink": "https://nitter.meowing.monster/nagossaim/status/2114115654429352145#m",
+            "metrics": {
+              "like_count": 57,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 4
+            }
+          },
+          {
+            "id": "2114114929649144294",
+            "text": "Estamos juntos Lula! \n#AposentadosComLula",
+            "author_username": "JozedeGoes",
+            "author_name": "JozedeGoes",
+            "created_at": "2026-10-24T22:00:00+00:00",
+            "permalink": "https://nitter.meowing.monster/JozedeGoes/status/2114114929649144294#m",
+            "metrics": {
+              "like_count": 10,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          }
+        ],
+        "comments": [],
+        "pagination": {
+          "pages_collected": 36,
+          "instance_used": "https://nitter.meowing.monster"
+        },
+        "limitations": [
+          "Coleta via Nitter não é API oficial da plataforma X.",
+          "Profundidade de respostas e paginação dependem da instância Nitter."
+        ]
+      }
+    ]
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:raw:post:2114176283093659802",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114176283093659802",
+      "collected_at": "2026-10-26T00:26:30-03:00",
+      "matched_terms": [
+        "bolsonaro",
+        "direita",
+        "twitee:6 #AposentadosComLula"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "#AposentadosComLula",
+        "term_group_id": "assuntos_momento_br",
+        "term_label": "twitee:6 #AposentadosComLula",
+        "run_id": "8fe3e55f-2eb4-49a8-9bbc-7eca1bb7098e",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114176283093659802",
+        "text": "Vamos ajudar por favor.. #AposentadosComLula #JUMMO #direita #Bolsonaro #24octobre",
+        "author_username": "araujo_delano",
+        "author_name": "araujo_delano",
+        "created_at": "2026-10-25T02:04:00+00:00",
+        "permalink": "https://nitter.meowing.monster/araujo_delano/status/2114176283093659802#m",
+        "metrics": {
+          "like_count": 30,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114172467841290686",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114172467841290686",
+      "collected_at": "2026-10-26T00:26:30-03:00",
+      "matched_terms": [
+        "twitee:6 #AposentadosComLula"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "#AposentadosComLula",
+        "term_group_id": "assuntos_momento_br",
+        "term_label": "twitee:6 #AposentadosComLula",
+        "run_id": "8fe3e55f-2eb4-49a8-9bbc-7eca1bb7098e",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114172467841290686",
+        "text": "Virada é mais gostoso \n#AposentadosComLula",
+        "author_username": "joeuzinhadm",
+        "author_name": "joeuzinhadm",
+        "created_at": "2026-10-25T01:49:00+00:00",
+        "permalink": "https://nitter.meowing.monster/joeuzinhadm/status/2114172467841290686#m",
+        "metrics": {
+          "like_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114147284355289125",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114147284355289125",
+      "collected_at": "2026-10-26T00:26:30-03:00",
+      "matched_terms": [
+        "twitee:6 #AposentadosComLula"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "#AposentadosComLula",
+        "term_group_id": "assuntos_momento_br",
+        "term_label": "twitee:6 #AposentadosComLula",
+        "run_id": "8fe3e55f-2eb4-49a8-9bbc-7eca1bb7098e",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114147284355289125",
+        "text": "Amanhã tu tem o dever de votar \nQue Pátria é a sua? \n#AposentadosComLula",
+        "author_username": "joeuzinhadm",
+        "author_name": "joeuzinhadm",
+        "created_at": "2026-10-25T00:09:00+00:00",
+        "permalink": "https://nitter.meowing.monster/joeuzinhadm/status/2114147284355289125#m",
+        "metrics": {
+          "like_count": 4,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114144034570584110",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114144034570584110",
+      "collected_at": "2026-10-26T00:26:30-03:00",
+      "matched_terms": [
+        "twitee:6 #AposentadosComLula"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "#AposentadosComLula",
+        "term_group_id": "assuntos_momento_br",
+        "term_label": "twitee:6 #AposentadosComLula",
+        "run_id": "8fe3e55f-2eb4-49a8-9bbc-7eca1bb7098e",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114144034570584110",
+        "text": "#AposentadosComLula\n\nA vitória já é nossa. A virada já começou. A força do nosso exército é imbatível!",
+        "author_username": "itsjoaopedroFB",
+        "author_name": "itsjoaopedroFB",
+        "created_at": "2026-10-24T23:56:00+00:00",
+        "permalink": "https://nitter.meowing.monster/itsjoaopedroFB/status/2114144034570584110#m",
+        "metrics": {
+          "like_count": 13,
+          "reply_count": 0,
+          "retweet_count": 1,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114122419367805242",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114122419367805242",
+      "collected_at": "2026-10-26T00:26:30-03:00",
+      "matched_terms": [
+        "twitee:6 #AposentadosComLula"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "#AposentadosComLula",
+        "term_group_id": "assuntos_momento_br",
+        "term_label": "twitee:6 #AposentadosComLula",
+        "run_id": "8fe3e55f-2eb4-49a8-9bbc-7eca1bb7098e",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114122419367805242",
+        "text": "#AposentadosComLula SEABRA - Bahia . Enfermeiras com Lula",
+        "author_username": "Juremacintra",
+        "author_name": "Juremacintra",
+        "created_at": "2026-10-24T22:30:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Juremacintra/status/2114122419367805242#m",
+        "metrics": {
+          "like_count": 12,
+          "reply_count": 1,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114117918745051492",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114117918745051492",
+      "collected_at": "2026-10-26T00:26:30-03:00",
+      "matched_terms": [
+        "twitee:6 #AposentadosComLula"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "#AposentadosComLula",
+        "term_group_id": "assuntos_momento_br",
+        "term_label": "twitee:6 #AposentadosComLula",
+        "run_id": "8fe3e55f-2eb4-49a8-9bbc-7eca1bb7098e",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114117918745051492",
+        "text": "Queremos segurança \n#AposentadosComLula",
+        "author_username": "iraneidearaujo4",
+        "author_name": "iraneidearaujo4",
+        "created_at": "2026-10-24T22:12:00+00:00",
+        "permalink": "https://nitter.meowing.monster/iraneidearaujo4/status/2114117918745051492#m",
+        "metrics": {
+          "like_count": 6,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114117586187096537",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114117586187096537",
+      "collected_at": "2026-10-26T00:26:30-03:00",
+      "matched_terms": [
+        "twitee:6 #AposentadosComLula"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "#AposentadosComLula",
+        "term_group_id": "assuntos_momento_br",
+        "term_label": "twitee:6 #AposentadosComLula",
+        "run_id": "8fe3e55f-2eb4-49a8-9bbc-7eca1bb7098e",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114117586187096537",
+        "text": "Amor \n#AposentadosComLula",
+        "author_username": "iraneidearaujo4",
+        "author_name": "iraneidearaujo4",
+        "created_at": "2026-10-24T22:11:00+00:00",
+        "permalink": "https://nitter.meowing.monster/iraneidearaujo4/status/2114117586187096537#m",
+        "metrics": {
+          "like_count": 5,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114117450790842656",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114117450790842656",
+      "collected_at": "2026-10-26T00:26:30-03:00",
+      "matched_terms": [
+        "twitee:6 #AposentadosComLula"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "#AposentadosComLula",
+        "term_group_id": "assuntos_momento_br",
+        "term_label": "twitee:6 #AposentadosComLula",
+        "run_id": "8fe3e55f-2eb4-49a8-9bbc-7eca1bb7098e",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114117450790842656",
+        "text": "Bora\n#AposentadosComLula",
+        "author_username": "iraneidearaujo4",
+        "author_name": "iraneidearaujo4",
+        "created_at": "2026-10-24T22:10:00+00:00",
+        "permalink": "https://nitter.meowing.monster/iraneidearaujo4/status/2114117450790842656#m",
+        "metrics": {
+          "like_count": 9,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114117445455675518",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114117445455675518",
+      "collected_at": "2026-10-26T00:26:30-03:00",
+      "matched_terms": [
+        "twitee:6 #AposentadosComLula"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "#AposentadosComLula",
+        "term_group_id": "assuntos_momento_br",
+        "term_label": "twitee:6 #AposentadosComLula",
+        "run_id": "8fe3e55f-2eb4-49a8-9bbc-7eca1bb7098e",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114117445455675518",
+        "text": "O povo ocupou as ruas. É Lula Presidente!\n#AposentadosComLula\n#ViraVoto \n#SoMaisUmVotoProLula",
+        "author_username": "Lu1669",
+        "author_name": "Lu1669",
+        "created_at": "2026-10-24T22:10:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Lu1669/status/2114117445455675518#m",
+        "metrics": {
+          "like_count": 17,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114116420049178962",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114116420049178962",
+      "collected_at": "2026-10-26T00:26:30-03:00",
+      "matched_terms": [
+        "pt",
+        "twitee:6 #AposentadosComLula"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "#AposentadosComLula",
+        "term_group_id": "assuntos_momento_br",
+        "term_label": "twitee:6 #AposentadosComLula",
+        "run_id": "8fe3e55f-2eb4-49a8-9bbc-7eca1bb7098e",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114116420049178962",
+        "text": "#AposentadosComLula\nFora PT #AposentadosComLula",
+        "author_username": "batista2803",
+        "author_name": "batista2803",
+        "created_at": "2026-10-24T22:06:00+00:00",
+        "permalink": "https://nitter.meowing.monster/batista2803/status/2114116420049178962#m",
+        "metrics": {
+          "like_count": 9,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114115654429352145",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114115654429352145",
+      "collected_at": "2026-10-26T00:26:30-03:00",
+      "matched_terms": [
+        "bolsonaro",
+        "twitee:6 #AposentadosComLula"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "#AposentadosComLula",
+        "term_group_id": "assuntos_momento_br",
+        "term_label": "twitee:6 #AposentadosComLula",
+        "run_id": "8fe3e55f-2eb4-49a8-9bbc-7eca1bb7098e",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114115654429352145",
+        "text": "Da Madonna aos bispos católicos. \n\nDo Matanza ao MC Cabelinho.  \n\nTodo mundo avisando que se eleger Bolsonaro vai dar merda.  \n\nNão é mais sobre o Lula, é sobre a chance da democracia ver um amanhã.\n\n#AposentadosComLula",
+        "author_username": "nagossaim",
+        "author_name": "nagossaim",
+        "created_at": "2026-10-24T22:03:00+00:00",
+        "permalink": "https://nitter.meowing.monster/nagossaim/status/2114115654429352145#m",
+        "metrics": {
+          "like_count": 57,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 4
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114114929649144294",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114114929649144294",
+      "collected_at": "2026-10-26T00:26:30-03:00",
+      "matched_terms": [
+        "twitee:6 #AposentadosComLula"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "#AposentadosComLula",
+        "term_group_id": "assuntos_momento_br",
+        "term_label": "twitee:6 #AposentadosComLula",
+        "run_id": "8fe3e55f-2eb4-49a8-9bbc-7eca1bb7098e",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114114929649144294",
+        "text": "Estamos juntos Lula! \n#AposentadosComLula",
+        "author_username": "JozedeGoes",
+        "author_name": "JozedeGoes",
+        "created_at": "2026-10-24T22:00:00+00:00",
+        "permalink": "https://nitter.meowing.monster/JozedeGoes/status/2114114929649144294#m",
+        "metrics": {
+          "like_count": 10,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    }
+  ],
+  "comments": []
+}
