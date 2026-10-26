@@ -1,0 +1,18 @@
+{
+  "name": "assuntos_momento_checkpoint",
+  "campaign_start": "2026-10-25",
+  "last_successful_until": null,
+  "completed_windows": [],
+  "last_run_at": "2026-10-25T21:23:36-03:00",
+  "last_post_id": null,
+  "extra": {
+    "agent_id": "assuntos_momento_ate_26out21h_20261025",
+    "agent_kind": "trends_now",
+    "last_cycle": {
+      "skipped": true,
+      "reason": "nenhum trend nem boost regional",
+      "at": "2026-10-25T21:23:36.382225-03:00"
+    }
+  },
+  "saved_at": "2026-10-25T21:23:36"
+}
