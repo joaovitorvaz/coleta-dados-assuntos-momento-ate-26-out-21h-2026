@@ -1,0 +1,153 @@
+{
+  "metadata": {
+    "term_group_id": "assuntos_momento_br",
+    "query": "#EuVotoFazendoL",
+    "since": "2026-10-25",
+    "until": "2026-10-27",
+    "source": "twitter_x",
+    "run_id": "8fe3e55f-2eb4-49a8-9bbc-7eca1bb7098e",
+    "collected_at": "2026-10-25T23:03:48-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 2,
+      "comments": 0,
+      "records_total": 2,
+      "skipped_duplicate": 120
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2114446060211114401",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114446060211114401",
+      "parent_post_id": null,
+      "thread_root_id": "2114446060211114401",
+      "author": {
+        "platform_id": null,
+        "display_name": "Kevlovee_",
+        "username": "Kevlovee_",
+        "profile_url": "https://x.com/Kevlovee_"
+      },
+      "text": "Vem sentir essa rola pesadona  e peluda rs \n❤️⭐️\n\n#EuVotoFazendoL \n#CHUDAİ",
+      "created_at": "2026-10-25T19:56:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T23:03:48-03:00",
+      "permalink": "https://nitter.xitter.cc/Kevlovee_/status/2114446060211114401#m",
+      "metrics": {
+        "like_count": 1,
+        "reply_count": 2,
+        "retweet_count": 9,
+        "quote_count": 115
+      },
+      "matched_terms": [
+        "twitee:1 #EuVotoFazendoL"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "#EuVotoFazendoL",
+        "term_group_id": "assuntos_momento_br",
+        "term_label": "twitee:1 #EuVotoFazendoL",
+        "run_id": "8fe3e55f-2eb4-49a8-9bbc-7eca1bb7098e",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 20,
+        "instance_used": "https://nitter.xitter.cc"
+      },
+      "raw_data": {
+        "id": "2114446060211114401",
+        "text": "Vem sentir essa rola pesadona  e peluda rs \n❤️⭐️\n\n#EuVotoFazendoL \n#CHUDAİ",
+        "author_username": "Kevlovee_",
+        "author_name": "Kevlovee_",
+        "created_at": "2026-10-25T19:56:00+00:00",
+        "permalink": "https://nitter.xitter.cc/Kevlovee_/status/2114446060211114401#m",
+        "metrics": {
+          "like_count": 1,
+          "reply_count": 2,
+          "retweet_count": 9,
+          "quote_count": 115
+        }
+      },
+      "normalized": {
+        "text_length": 74,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114438886864609561",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114438886864609561",
+      "parent_post_id": null,
+      "thread_root_id": "2114438886864609561",
+      "author": {
+        "platform_id": null,
+        "display_name": "BelarminoNety",
+        "username": "BelarminoNety",
+        "profile_url": "https://x.com/BelarminoNety"
+      },
+      "text": "Já tem um golpe em curso!\nVárias cidades do país com frota do ônibus menor!\nVão votar,pedem carona e fiquem na fila! 👊🏻\n#LulaPelaDemocracia \n#EuVotoFazendoL",
+      "created_at": "2026-10-25T19:28:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T23:03:48-03:00",
+      "permalink": "https://nitter.xitter.cc/BelarminoNety/status/2114438886864609561#m",
+      "metrics": {
+        "like_count": 11,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "twitee:1 #EuVotoFazendoL"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "#EuVotoFazendoL",
+        "term_group_id": "assuntos_momento_br",
+        "term_label": "twitee:1 #EuVotoFazendoL",
+        "run_id": "8fe3e55f-2eb4-49a8-9bbc-7eca1bb7098e",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 20,
+        "instance_used": "https://nitter.xitter.cc"
+      },
+      "raw_data": {
+        "id": "2114438886864609561",
+        "text": "Já tem um golpe em curso!\nVárias cidades do país com frota do ônibus menor!\nVão votar,pedem carona e fiquem na fila! 👊🏻\n#LulaPelaDemocracia \n#EuVotoFazendoL",
+        "author_username": "BelarminoNety",
+        "author_name": "BelarminoNety",
+        "created_at": "2026-10-25T19:28:00+00:00",
+        "permalink": "https://nitter.xitter.cc/BelarminoNety/status/2114438886864609561#m",
+        "metrics": {
+          "like_count": 11,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 156,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}
