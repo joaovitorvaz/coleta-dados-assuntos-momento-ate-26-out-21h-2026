@@ -1,0 +1,2137 @@
+{
+  "metadata": {
+    "term_group_id": "assuntos_momento_br",
+    "query": "VASCO DA GAMA",
+    "since": "2026-10-25",
+    "until": "2026-10-27",
+    "source": "twitter_x",
+    "run_id": "8fe3e55f-2eb4-49a8-9bbc-7eca1bb7098e",
+    "collected_at": "2026-10-26T01:55:08-03:00",
+    "layer": "raw",
+    "counts": {
+      "posts": 42,
+      "comments": 0,
+      "records_total": 42,
+      "skipped_duplicate": 0
+    },
+    "collector_pages": [
+      {
+        "posts": [
+          {
+            "id": "2114523710501671266",
+            "text": "Palmeiras 3x4 Vasco da Gama, final da Mercosul de 2000.",
+            "author_username": "renatobze",
+            "author_name": "renatobze",
+            "created_at": "2026-10-26T01:05:00+00:00",
+            "permalink": "https://nitter.meowing.monster/renatobze/status/2114523710501671266#m",
+            "metrics": {
+              "like_count": 209,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 4
+            }
+          },
+          {
+            "id": "2114518034194870317",
+            "text": "FACHEL VOLTA AMANHÃ DE FERIAS E EU QUERO ELE FALANDO DAS DUAS VIRADAS MAIS IMPORTANTES DO FINAL DE SEMANA: VASCO DA GAMA E LULA PRESIDENTE.",
+            "author_username": "_christianoc",
+            "author_name": "_christianoc",
+            "created_at": "2026-10-26T00:42:00+00:00",
+            "permalink": "https://nitter.meowing.monster/_christianoc/status/2114518034194870317#m",
+            "metrics": {
+              "like_count": 19,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114515226796130314",
+            "text": "DUAS VIRADAS SEGUIDAS.\n\nVASCO DA GAMA Y LULA 💢🌟.",
+            "author_username": "_christianoc",
+            "author_name": "_christianoc",
+            "created_at": "2026-10-26T00:31:00+00:00",
+            "permalink": "https://nitter.meowing.monster/_christianoc/status/2114515226796130314#m",
+            "metrics": {
+              "like_count": 12,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114512442898460827",
+            "text": "Luiz Inácio Vasco da Gama da Silva.",
+            "author_username": "vini_guimaraes",
+            "author_name": "vini_guimaraes",
+            "created_at": "2026-10-26T00:20:00+00:00",
+            "permalink": "https://nitter.meowing.monster/vini_guimaraes/status/2114512442898460827#m",
+            "metrics": {
+              "like_count": 8,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114508768025186337",
+            "text": "ASSIM COMO O VASCO DA GAMA, O EXÉRCITO DO LULA É DA VIRADA",
+            "author_username": "carolzenhaxx",
+            "author_name": "carolzenhaxx",
+            "created_at": "2026-10-26T00:05:00+00:00",
+            "permalink": "https://nitter.meowing.monster/carolzenhaxx/status/2114508768025186337#m",
+            "metrics": {
+              "like_count": 32,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 2
+            }
+          },
+          {
+            "id": "2114504047088611560",
+            "text": "Vasco da Gama, eu te amo!",
+            "author_username": "GabrielOlivett9",
+            "author_name": "GabrielOlivett9",
+            "created_at": "2026-10-25T23:47:00+00:00",
+            "permalink": "https://nitter.meowing.monster/GabrielOlivett9/status/2114504047088611560#m",
+            "metrics": {
+              "like_count": 9,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114497891934822546",
+            "text": "VASCO DA GAMA E O LULA SAO OS TIMES DA VIRADA CARALHO",
+            "author_username": "visseboe",
+            "author_name": "visseboe",
+            "created_at": "2026-10-25T23:22:00+00:00",
+            "permalink": "https://nitter.meowing.monster/visseboe/status/2114497891934822546#m",
+            "metrics": {
+              "like_count": 25,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114482115093893277",
+            "text": "ÚLTIMA VEZ QUE ME ESTRESSEI COM UMA URNA FOI NA URNA 7 DO VASCO DA GAMA.\n\nEURICO X CAMPELLO E JULIO BRANT E O GOLPE NA LAGOA!!!!!!!!!!!",
+            "author_username": "_christianoc",
+            "author_name": "_christianoc",
+            "created_at": "2026-10-25T22:19:00+00:00",
+            "permalink": "https://nitter.meowing.monster/_christianoc/status/2114482115093893277#m",
+            "metrics": {
+              "like_count": 44,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114465473798586659",
+            "text": "Mentira! Circulei pela cidade das 13 as 14 horas e não vi nenhum ônibus urbano circulando. Vi pontos cheios,  no Ogunja, na Vasco da gama, no Dique do Tororó.. .",
+            "author_username": "AantonioFfabio",
+            "author_name": "AantonioFfabio",
+            "created_at": "2026-10-25T21:13:00+00:00",
+            "permalink": "https://nitter.meowing.monster/AantonioFfabio/status/2114465473798586659#m",
+            "metrics": {
+              "like_count": 62,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114353918276665772",
+            "text": "Flamengo não merece está no Rank 2 😂🫡😬 sou torcedor do Vasco da Gama 🇧🇷",
+            "author_username": "PaixaoAoFutebol",
+            "author_name": "PaixaoAoFutebol",
+            "created_at": "2026-10-25T13:50:00+00:00",
+            "permalink": "https://nitter.meowing.monster/PaixaoAoFutebol/status/2114353918276665772#m",
+            "metrics": {
+              "like_count": 121,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114309975040262500",
+            "text": "indo votar agora.\n\nque Deus nos abençoe 🌟🌟.\n\nFAZ O L IMEDIATAMENTE MEUS AMIGOS \n\nVASCO DA GAMA.",
+            "author_username": "_christianoc",
+            "author_name": "_christianoc",
+            "created_at": "2026-10-25T10:55:00+00:00",
+            "permalink": "https://nitter.meowing.monster/_christianoc/status/2114309975040262500#m",
+            "metrics": {
+              "like_count": 18,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114303894356385867",
+            "text": "Eu sou  Vasco da Gama! 💢💢💢⚫⚪",
+            "author_username": "ljssacns",
+            "author_name": "ljssacns",
+            "created_at": "2026-10-25T10:31:00+00:00",
+            "permalink": "https://nitter.meowing.monster/ljssacns/status/2114303894356385867#m",
+            "metrics": {
+              "like_count": 16,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114214725839892983",
+            "text": "VASCO DA GAMA 💢👏🏻",
+            "author_username": "lucasderly",
+            "author_name": "lucasderly",
+            "created_at": "2026-10-25T04:37:00+00:00",
+            "permalink": "https://nitter.meowing.monster/lucasderly/status/2114214725839892983#m",
+            "metrics": {
+              "like_count": 23,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114179599043035551",
+            "text": "toda hora é hora, o clube de regatas vasco da gama fode!!!!!",
+            "author_username": "luluisfee",
+            "author_name": "luluisfee",
+            "created_at": "2026-10-25T02:17:00+00:00",
+            "permalink": "https://nitter.meowing.monster/luluisfee/status/2114179599043035551#m",
+            "metrics": {
+              "like_count": 37,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 2
+            }
+          },
+          {
+            "id": "2114173747405983769",
+            "text": "Vasco da gama",
+            "author_username": "mascoooot",
+            "author_name": "mascoooot",
+            "created_at": "2026-10-25T01:54:00+00:00",
+            "permalink": "https://nitter.meowing.monster/mascoooot/status/2114173747405983769#m",
+            "metrics": {
+              "like_count": 71,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114172467321122826",
+            "text": "Vasco da Gama, obrigado por fazer meu final de semana mais feliz!",
+            "author_username": "mateusachel",
+            "author_name": "mateusachel",
+            "created_at": "2026-10-25T01:49:00+00:00",
+            "permalink": "https://nitter.meowing.monster/mateusachel/status/2114172467321122826#m",
+            "metrics": {
+              "like_count": 120,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114152814452633722",
+            "text": "Vasco da Gama e nada mais 🖤🤍💢",
+            "author_username": "JeffMoreiraJM10",
+            "author_name": "JeffMoreiraJM10",
+            "created_at": "2026-10-25T00:31:00+00:00",
+            "permalink": "https://nitter.meowing.monster/JeffMoreiraJM10/status/2114152814452633722#m",
+            "metrics": {
+              "like_count": 21,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114141544508801460",
+            "text": "Vasco da Gama tem treinador, caralho! Pedro Emanuel pirocudaço!!!!",
+            "author_username": "hudsv",
+            "author_name": "hudsv",
+            "created_at": "2026-10-24T23:46:00+00:00",
+            "permalink": "https://nitter.meowing.monster/hudsv/status/2114141544508801460#m",
+            "metrics": {
+              "like_count": 68,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114141082653209022",
+            "text": "Vasco da Gama ganhando, estamos em 13° na tabela. Dito isso : AMANHÃ É 13 LULA ⭐️",
+            "author_username": "noonadojimin93",
+            "author_name": "noonadojimin93",
+            "created_at": "2026-10-24T23:44:00+00:00",
+            "permalink": "https://nitter.meowing.monster/noonadojimin93/status/2114141082653209022#m",
+            "metrics": {
+              "like_count": 19,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114139161447850044",
+            "text": "O VASCO DA GAMA É MINHA ALEGRIA (TO INFARTANDO",
+            "author_username": "_christianoc",
+            "author_name": "_christianoc",
+            "created_at": "2026-10-24T23:37:00+00:00",
+            "permalink": "https://nitter.meowing.monster/_christianoc/status/2114139161447850044#m",
+            "metrics": {
+              "like_count": 114,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114138575361003714",
+            "text": "VASCO DA GAMA É A MINHA VIDA.",
+            "author_username": "_christianoc",
+            "author_name": "_christianoc",
+            "created_at": "2026-10-24T23:34:00+00:00",
+            "permalink": "https://nitter.meowing.monster/_christianoc/status/2114138575361003714#m",
+            "metrics": {
+              "like_count": 23,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114138487335301318",
+            "text": "EU TE AMO DESGRAÇA!!!\n\nVASCO DA GAMA. ⚫⚪💢",
+            "author_username": "rodrigoR7",
+            "author_name": "rodrigoR7",
+            "created_at": "2026-10-24T23:34:00+00:00",
+            "permalink": "https://nitter.meowing.monster/rodrigoR7/status/2114138487335301318#m",
+            "metrics": {
+              "like_count": 11,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114138147286106166",
+            "text": "Melhor o técnico e o time acordar pra vida. Estão errando o básico dps de acertar em alguns jogos atrás.  Dito isso :  vamo Vasco da Gama 💢",
+            "author_username": "noonadojimin93",
+            "author_name": "noonadojimin93",
+            "created_at": "2026-10-24T23:33:00+00:00",
+            "permalink": "https://nitter.meowing.monster/noonadojimin93/status/2114138147286106166#m",
+            "metrics": {
+              "like_count": 12,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114137470354735109",
+            "text": "Porra eu te amo muito Vasco da Gama",
+            "author_username": "cheycsilva",
+            "author_name": "cheycsilva",
+            "created_at": "2026-10-24T23:30:00+00:00",
+            "permalink": "https://nitter.meowing.monster/cheycsilva/status/2114137470354735109#m",
+            "metrics": {
+              "like_count": 30,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114137200585781288",
+            "text": "CLUBE DE REGATAS VASCO DA GAMA",
+            "author_username": "michelzinhosro1",
+            "author_name": "michelzinhosro1",
+            "created_at": "2026-10-24T23:29:00+00:00",
+            "permalink": "https://nitter.meowing.monster/michelzinhosro1/status/2114137200585781288#m",
+            "metrics": {
+              "like_count": 36,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114137185750237598",
+            "text": "VASCO DA GAMA",
+            "author_username": "_christianoc",
+            "author_name": "_christianoc",
+            "created_at": "2026-10-24T23:29:00+00:00",
+            "permalink": "https://nitter.meowing.monster/_christianoc/status/2114137185750237598#m",
+            "metrics": {
+              "like_count": 27,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114135917908865443",
+            "text": "CLUB DE REGATAS VASCO DA GAMA",
+            "author_username": "dantosinho",
+            "author_name": "dantosinho",
+            "created_at": "2026-10-24T23:24:00+00:00",
+            "permalink": "https://nitter.meowing.monster/dantosinho/status/2114135917908865443#m",
+            "metrics": {
+              "like_count": 48,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114135617550365043",
+            "text": "PUTA QUE PARIU VASCO DA GAMA",
+            "author_username": "luluisfee",
+            "author_name": "luluisfee",
+            "created_at": "2026-10-24T23:23:00+00:00",
+            "permalink": "https://nitter.meowing.monster/luluisfee/status/2114135617550365043#m",
+            "metrics": {
+              "like_count": 70,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 3
+            }
+          },
+          {
+            "id": "2114135364168507461",
+            "text": "PQP EU AMO O VASCO DA GAMA",
+            "author_username": "vwmarrone",
+            "author_name": "vwmarrone",
+            "created_at": "2026-10-24T23:22:00+00:00",
+            "permalink": "https://nitter.meowing.monster/vwmarrone/status/2114135364168507461#m",
+            "metrics": {
+              "like_count": 63,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114135363333537847",
+            "text": "CLUBE DE REGATAS VASCO DA GAMA",
+            "author_username": "wtffjuan01",
+            "author_name": "wtffjuan01",
+            "created_at": "2026-10-24T23:22:00+00:00",
+            "permalink": "https://nitter.meowing.monster/wtffjuan01/status/2114135363333537847#m",
+            "metrics": {
+              "like_count": 12,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114133828407091207",
+            "text": "Dps desses jogos vergonhosos e bagunçados é papo da torcida nao ir mais em jogo nenhum. Salário em dia, tudo do bom e do melhor pra ficar jogando feito uns iniciantes. Tô com odio de todos do Vasco da Gama igualmente. Vão c fuder, putinha msmo",
+            "author_username": "noonadojimin93",
+            "author_name": "noonadojimin93",
+            "created_at": "2026-10-24T23:15:00+00:00",
+            "permalink": "https://nitter.meowing.monster/noonadojimin93/status/2114133828407091207#m",
+            "metrics": {
+              "like_count": 31,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114133053547184561",
+            "text": "Ridiculo cara, parece q é Vasco Da Gama Vs 22 jogadores",
+            "author_username": "crvgribeiroo",
+            "author_name": "crvgribeiroo",
+            "created_at": "2026-10-24T23:12:00+00:00",
+            "permalink": "https://nitter.meowing.monster/crvgribeiroo/status/2114133053547184561#m",
+            "metrics": {
+              "like_count": 30,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114131155171873096",
+            "text": "Se o Vasco da Gama não empatar no MÍNIMO hoje, eles não ganham de mais ninguém até o final do ano.",
+            "author_username": "noonadojimin93",
+            "author_name": "noonadojimin93",
+            "created_at": "2026-10-24T23:05:00+00:00",
+            "permalink": "https://nitter.meowing.monster/noonadojimin93/status/2114131155171873096#m",
+            "metrics": {
+              "like_count": 35,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114130846294659198",
+            "text": "Completamente desanimador assistir o Vasco da Gama jogar, nmrl. O que o Saldivia tem de gostoso ele tem de ruim de bola, krlho.",
+            "author_username": "noonadojimin93",
+            "author_name": "noonadojimin93",
+            "created_at": "2026-10-24T23:04:00+00:00",
+            "permalink": "https://nitter.meowing.monster/noonadojimin93/status/2114130846294659198#m",
+            "metrics": {
+              "like_count": 38,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114129911761772712",
+            "text": "não adianta meus amigos ficar secando ou vendo os outros resultados....o Vasco da Gama quando depende apenas de si: SE BORRA INTEIRO E FAZ MERDA.\n\nsó olhar o jogo de terça feira que perdeu a classificação com 3 minutos de jogo.",
+            "author_username": "_christianoc",
+            "author_name": "_christianoc",
+            "created_at": "2026-10-24T23:00:00+00:00",
+            "permalink": "https://nitter.meowing.monster/_christianoc/status/2114129911761772712#m",
+            "metrics": {
+              "like_count": 41,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114128857909587984",
+            "text": "BRUNO DUARTE NÃO TÊM CONDIÇÃO ALGUMA DE JOGAR NO VASCO DA GAMA.",
+            "author_username": "rennermonnerat",
+            "author_name": "rennermonnerat",
+            "created_at": "2026-10-24T22:56:00+00:00",
+            "permalink": "https://nitter.meowing.monster/rennermonnerat/status/2114128857909587984#m",
+            "metrics": {
+              "like_count": 508,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 9
+            }
+          },
+          {
+            "id": "2114128218894532823",
+            "text": "Maldita hora que fui fazer natação em São Januario e me apaixonar pelo Vasco da Gama. Caralho que ódio",
+            "author_username": "noonadojimin93",
+            "author_name": "noonadojimin93",
+            "created_at": "2026-10-24T22:53:00+00:00",
+            "permalink": "https://nitter.meowing.monster/noonadojimin93/status/2114128218894532823#m",
+            "metrics": {
+              "like_count": 43,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114127145807008216",
+            "text": "A freguesia do Clube de Regatas Vasco da Gama para o Corinthians é algo assustador",
+            "author_username": "LocoMath17",
+            "author_name": "LocoMath17",
+            "created_at": "2026-10-24T22:49:00+00:00",
+            "permalink": "https://nitter.meowing.monster/LocoMath17/status/2114127145807008216#m",
+            "metrics": {
+              "like_count": 36,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114127120066572750",
+            "text": "Inacreditável o Vasco da Gama",
+            "author_username": "vwmarrone",
+            "author_name": "vwmarrone",
+            "created_at": "2026-10-24T22:49:00+00:00",
+            "permalink": "https://nitter.meowing.monster/vwmarrone/status/2114127120066572750#m",
+            "metrics": {
+              "like_count": 92,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114127067935821841",
+            "text": "Vasco da Gama vai tomar no cu, perdendo pro Corinthians mané  tomam um gol e se cagam todo. Nunca vi um time tão cagão e medroso.  Vai c fuder",
+            "author_username": "noonadojimin93",
+            "author_name": "noonadojimin93",
+            "created_at": "2026-10-24T22:49:00+00:00",
+            "permalink": "https://nitter.meowing.monster/noonadojimin93/status/2114127067935821841#m",
+            "metrics": {
+              "like_count": 45,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114126791065436589",
+            "text": "Quando o Vasco da Gama toma gol ele ja peidam logo 😶",
+            "author_username": "noonadojimin93",
+            "author_name": "noonadojimin93",
+            "created_at": "2026-10-24T22:48:00+00:00",
+            "permalink": "https://nitter.meowing.monster/noonadojimin93/status/2114126791065436589#m",
+            "metrics": {
+              "like_count": 22,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114109333545890078",
+            "text": "Mal começou o jogo e o Vasco da Gama já está me irritando. Aquele time que jogava bem morreu mesmo ?  Pqp",
+            "author_username": "noonadojimin93",
+            "author_name": "noonadojimin93",
+            "created_at": "2026-10-24T21:38:00+00:00",
+            "permalink": "https://nitter.mie.foundation/noonadojimin93/status/2114109333545890078#m",
+            "metrics": {
+              "like_count": 23,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          }
+        ],
+        "comments": [],
+        "pagination": {
+          "pages_collected": 36,
+          "instance_used": "https://nitter.mie.foundation"
+        },
+        "limitations": [
+          "Coleta via Nitter não é API oficial da plataforma X.",
+          "Profundidade de respostas e paginação dependem da instância Nitter."
+        ]
+      }
+    ]
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:raw:post:2114523710501671266",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114523710501671266",
+      "collected_at": "2026-10-26T01:55:08-03:00",
+      "matched_terms": [
+        "twitee:9 VASCO DA GAMA"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "VASCO DA GAMA",
+        "term_group_id": "assuntos_momento_br",
+        "term_label": "twitee:9 VASCO DA GAMA",
+        "run_id": "8fe3e55f-2eb4-49a8-9bbc-7eca1bb7098e",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114523710501671266",
+        "text": "Palmeiras 3x4 Vasco da Gama, final da Mercosul de 2000.",
+        "author_username": "renatobze",
+        "author_name": "renatobze",
+        "created_at": "2026-10-26T01:05:00+00:00",
+        "permalink": "https://nitter.meowing.monster/renatobze/status/2114523710501671266#m",
+        "metrics": {
+          "like_count": 209,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 4
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114518034194870317",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114518034194870317",
+      "collected_at": "2026-10-26T01:55:08-03:00",
+      "matched_terms": [
+        "twitee:9 VASCO DA GAMA"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "VASCO DA GAMA",
+        "term_group_id": "assuntos_momento_br",
+        "term_label": "twitee:9 VASCO DA GAMA",
+        "run_id": "8fe3e55f-2eb4-49a8-9bbc-7eca1bb7098e",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114518034194870317",
+        "text": "FACHEL VOLTA AMANHÃ DE FERIAS E EU QUERO ELE FALANDO DAS DUAS VIRADAS MAIS IMPORTANTES DO FINAL DE SEMANA: VASCO DA GAMA E LULA PRESIDENTE.",
+        "author_username": "_christianoc",
+        "author_name": "_christianoc",
+        "created_at": "2026-10-26T00:42:00+00:00",
+        "permalink": "https://nitter.meowing.monster/_christianoc/status/2114518034194870317#m",
+        "metrics": {
+          "like_count": 19,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114515226796130314",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114515226796130314",
+      "collected_at": "2026-10-26T01:55:08-03:00",
+      "matched_terms": [
+        "twitee:9 VASCO DA GAMA"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "VASCO DA GAMA",
+        "term_group_id": "assuntos_momento_br",
+        "term_label": "twitee:9 VASCO DA GAMA",
+        "run_id": "8fe3e55f-2eb4-49a8-9bbc-7eca1bb7098e",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114515226796130314",
+        "text": "DUAS VIRADAS SEGUIDAS.\n\nVASCO DA GAMA Y LULA 💢🌟.",
+        "author_username": "_christianoc",
+        "author_name": "_christianoc",
+        "created_at": "2026-10-26T00:31:00+00:00",
+        "permalink": "https://nitter.meowing.monster/_christianoc/status/2114515226796130314#m",
+        "metrics": {
+          "like_count": 12,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114512442898460827",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114512442898460827",
+      "collected_at": "2026-10-26T01:55:08-03:00",
+      "matched_terms": [
+        "twitee:9 VASCO DA GAMA"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "VASCO DA GAMA",
+        "term_group_id": "assuntos_momento_br",
+        "term_label": "twitee:9 VASCO DA GAMA",
+        "run_id": "8fe3e55f-2eb4-49a8-9bbc-7eca1bb7098e",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114512442898460827",
+        "text": "Luiz Inácio Vasco da Gama da Silva.",
+        "author_username": "vini_guimaraes",
+        "author_name": "vini_guimaraes",
+        "created_at": "2026-10-26T00:20:00+00:00",
+        "permalink": "https://nitter.meowing.monster/vini_guimaraes/status/2114512442898460827#m",
+        "metrics": {
+          "like_count": 8,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114508768025186337",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114508768025186337",
+      "collected_at": "2026-10-26T01:55:08-03:00",
+      "matched_terms": [
+        "twitee:9 VASCO DA GAMA"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "VASCO DA GAMA",
+        "term_group_id": "assuntos_momento_br",
+        "term_label": "twitee:9 VASCO DA GAMA",
+        "run_id": "8fe3e55f-2eb4-49a8-9bbc-7eca1bb7098e",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114508768025186337",
+        "text": "ASSIM COMO O VASCO DA GAMA, O EXÉRCITO DO LULA É DA VIRADA",
+        "author_username": "carolzenhaxx",
+        "author_name": "carolzenhaxx",
+        "created_at": "2026-10-26T00:05:00+00:00",
+        "permalink": "https://nitter.meowing.monster/carolzenhaxx/status/2114508768025186337#m",
+        "metrics": {
+          "like_count": 32,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 2
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114504047088611560",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114504047088611560",
+      "collected_at": "2026-10-26T01:55:08-03:00",
+      "matched_terms": [
+        "twitee:9 VASCO DA GAMA"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "VASCO DA GAMA",
+        "term_group_id": "assuntos_momento_br",
+        "term_label": "twitee:9 VASCO DA GAMA",
+        "run_id": "8fe3e55f-2eb4-49a8-9bbc-7eca1bb7098e",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114504047088611560",
+        "text": "Vasco da Gama, eu te amo!",
+        "author_username": "GabrielOlivett9",
+        "author_name": "GabrielOlivett9",
+        "created_at": "2026-10-25T23:47:00+00:00",
+        "permalink": "https://nitter.meowing.monster/GabrielOlivett9/status/2114504047088611560#m",
+        "metrics": {
+          "like_count": 9,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114497891934822546",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114497891934822546",
+      "collected_at": "2026-10-26T01:55:08-03:00",
+      "matched_terms": [
+        "twitee:9 VASCO DA GAMA"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "VASCO DA GAMA",
+        "term_group_id": "assuntos_momento_br",
+        "term_label": "twitee:9 VASCO DA GAMA",
+        "run_id": "8fe3e55f-2eb4-49a8-9bbc-7eca1bb7098e",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114497891934822546",
+        "text": "VASCO DA GAMA E O LULA SAO OS TIMES DA VIRADA CARALHO",
+        "author_username": "visseboe",
+        "author_name": "visseboe",
+        "created_at": "2026-10-25T23:22:00+00:00",
+        "permalink": "https://nitter.meowing.monster/visseboe/status/2114497891934822546#m",
+        "metrics": {
+          "like_count": 25,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114482115093893277",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114482115093893277",
+      "collected_at": "2026-10-26T01:55:08-03:00",
+      "matched_terms": [
+        "twitee:9 VASCO DA GAMA"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "VASCO DA GAMA",
+        "term_group_id": "assuntos_momento_br",
+        "term_label": "twitee:9 VASCO DA GAMA",
+        "run_id": "8fe3e55f-2eb4-49a8-9bbc-7eca1bb7098e",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114482115093893277",
+        "text": "ÚLTIMA VEZ QUE ME ESTRESSEI COM UMA URNA FOI NA URNA 7 DO VASCO DA GAMA.\n\nEURICO X CAMPELLO E JULIO BRANT E O GOLPE NA LAGOA!!!!!!!!!!!",
+        "author_username": "_christianoc",
+        "author_name": "_christianoc",
+        "created_at": "2026-10-25T22:19:00+00:00",
+        "permalink": "https://nitter.meowing.monster/_christianoc/status/2114482115093893277#m",
+        "metrics": {
+          "like_count": 44,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114465473798586659",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114465473798586659",
+      "collected_at": "2026-10-26T01:55:08-03:00",
+      "matched_terms": [
+        "twitee:9 VASCO DA GAMA"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "VASCO DA GAMA",
+        "term_group_id": "assuntos_momento_br",
+        "term_label": "twitee:9 VASCO DA GAMA",
+        "run_id": "8fe3e55f-2eb4-49a8-9bbc-7eca1bb7098e",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114465473798586659",
+        "text": "Mentira! Circulei pela cidade das 13 as 14 horas e não vi nenhum ônibus urbano circulando. Vi pontos cheios,  no Ogunja, na Vasco da gama, no Dique do Tororó.. .",
+        "author_username": "AantonioFfabio",
+        "author_name": "AantonioFfabio",
+        "created_at": "2026-10-25T21:13:00+00:00",
+        "permalink": "https://nitter.meowing.monster/AantonioFfabio/status/2114465473798586659#m",
+        "metrics": {
+          "like_count": 62,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114353918276665772",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114353918276665772",
+      "collected_at": "2026-10-26T01:55:08-03:00",
+      "matched_terms": [
+        "twitee:9 VASCO DA GAMA"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "VASCO DA GAMA",
+        "term_group_id": "assuntos_momento_br",
+        "term_label": "twitee:9 VASCO DA GAMA",
+        "run_id": "8fe3e55f-2eb4-49a8-9bbc-7eca1bb7098e",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114353918276665772",
+        "text": "Flamengo não merece está no Rank 2 😂🫡😬 sou torcedor do Vasco da Gama 🇧🇷",
+        "author_username": "PaixaoAoFutebol",
+        "author_name": "PaixaoAoFutebol",
+        "created_at": "2026-10-25T13:50:00+00:00",
+        "permalink": "https://nitter.meowing.monster/PaixaoAoFutebol/status/2114353918276665772#m",
+        "metrics": {
+          "like_count": 121,
+          "reply_count": 1,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114309975040262500",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114309975040262500",
+      "collected_at": "2026-10-26T01:55:08-03:00",
+      "matched_terms": [
+        "twitee:9 VASCO DA GAMA"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "VASCO DA GAMA",
+        "term_group_id": "assuntos_momento_br",
+        "term_label": "twitee:9 VASCO DA GAMA",
+        "run_id": "8fe3e55f-2eb4-49a8-9bbc-7eca1bb7098e",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114309975040262500",
+        "text": "indo votar agora.\n\nque Deus nos abençoe 🌟🌟.\n\nFAZ O L IMEDIATAMENTE MEUS AMIGOS \n\nVASCO DA GAMA.",
+        "author_username": "_christianoc",
+        "author_name": "_christianoc",
+        "created_at": "2026-10-25T10:55:00+00:00",
+        "permalink": "https://nitter.meowing.monster/_christianoc/status/2114309975040262500#m",
+        "metrics": {
+          "like_count": 18,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114303894356385867",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114303894356385867",
+      "collected_at": "2026-10-26T01:55:08-03:00",
+      "matched_terms": [
+        "twitee:9 VASCO DA GAMA"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "VASCO DA GAMA",
+        "term_group_id": "assuntos_momento_br",
+        "term_label": "twitee:9 VASCO DA GAMA",
+        "run_id": "8fe3e55f-2eb4-49a8-9bbc-7eca1bb7098e",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114303894356385867",
+        "text": "Eu sou  Vasco da Gama! 💢💢💢⚫⚪",
+        "author_username": "ljssacns",
+        "author_name": "ljssacns",
+        "created_at": "2026-10-25T10:31:00+00:00",
+        "permalink": "https://nitter.meowing.monster/ljssacns/status/2114303894356385867#m",
+        "metrics": {
+          "like_count": 16,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114214725839892983",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114214725839892983",
+      "collected_at": "2026-10-26T01:55:08-03:00",
+      "matched_terms": [
+        "twitee:9 VASCO DA GAMA"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "VASCO DA GAMA",
+        "term_group_id": "assuntos_momento_br",
+        "term_label": "twitee:9 VASCO DA GAMA",
+        "run_id": "8fe3e55f-2eb4-49a8-9bbc-7eca1bb7098e",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114214725839892983",
+        "text": "VASCO DA GAMA 💢👏🏻",
+        "author_username": "lucasderly",
+        "author_name": "lucasderly",
+        "created_at": "2026-10-25T04:37:00+00:00",
+        "permalink": "https://nitter.meowing.monster/lucasderly/status/2114214725839892983#m",
+        "metrics": {
+          "like_count": 23,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114179599043035551",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114179599043035551",
+      "collected_at": "2026-10-26T01:55:08-03:00",
+      "matched_terms": [
+        "twitee:9 VASCO DA GAMA"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "VASCO DA GAMA",
+        "term_group_id": "assuntos_momento_br",
+        "term_label": "twitee:9 VASCO DA GAMA",
+        "run_id": "8fe3e55f-2eb4-49a8-9bbc-7eca1bb7098e",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114179599043035551",
+        "text": "toda hora é hora, o clube de regatas vasco da gama fode!!!!!",
+        "author_username": "luluisfee",
+        "author_name": "luluisfee",
+        "created_at": "2026-10-25T02:17:00+00:00",
+        "permalink": "https://nitter.meowing.monster/luluisfee/status/2114179599043035551#m",
+        "metrics": {
+          "like_count": 37,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 2
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114173747405983769",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114173747405983769",
+      "collected_at": "2026-10-26T01:55:08-03:00",
+      "matched_terms": [
+        "twitee:9 VASCO DA GAMA"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "VASCO DA GAMA",
+        "term_group_id": "assuntos_momento_br",
+        "term_label": "twitee:9 VASCO DA GAMA",
+        "run_id": "8fe3e55f-2eb4-49a8-9bbc-7eca1bb7098e",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114173747405983769",
+        "text": "Vasco da gama",
+        "author_username": "mascoooot",
+        "author_name": "mascoooot",
+        "created_at": "2026-10-25T01:54:00+00:00",
+        "permalink": "https://nitter.meowing.monster/mascoooot/status/2114173747405983769#m",
+        "metrics": {
+          "like_count": 71,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114172467321122826",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114172467321122826",
+      "collected_at": "2026-10-26T01:55:08-03:00",
+      "matched_terms": [
+        "twitee:9 VASCO DA GAMA"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "VASCO DA GAMA",
+        "term_group_id": "assuntos_momento_br",
+        "term_label": "twitee:9 VASCO DA GAMA",
+        "run_id": "8fe3e55f-2eb4-49a8-9bbc-7eca1bb7098e",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114172467321122826",
+        "text": "Vasco da Gama, obrigado por fazer meu final de semana mais feliz!",
+        "author_username": "mateusachel",
+        "author_name": "mateusachel",
+        "created_at": "2026-10-25T01:49:00+00:00",
+        "permalink": "https://nitter.meowing.monster/mateusachel/status/2114172467321122826#m",
+        "metrics": {
+          "like_count": 120,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114152814452633722",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114152814452633722",
+      "collected_at": "2026-10-26T01:55:08-03:00",
+      "matched_terms": [
+        "twitee:9 VASCO DA GAMA"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "VASCO DA GAMA",
+        "term_group_id": "assuntos_momento_br",
+        "term_label": "twitee:9 VASCO DA GAMA",
+        "run_id": "8fe3e55f-2eb4-49a8-9bbc-7eca1bb7098e",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114152814452633722",
+        "text": "Vasco da Gama e nada mais 🖤🤍💢",
+        "author_username": "JeffMoreiraJM10",
+        "author_name": "JeffMoreiraJM10",
+        "created_at": "2026-10-25T00:31:00+00:00",
+        "permalink": "https://nitter.meowing.monster/JeffMoreiraJM10/status/2114152814452633722#m",
+        "metrics": {
+          "like_count": 21,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114141544508801460",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114141544508801460",
+      "collected_at": "2026-10-26T01:55:08-03:00",
+      "matched_terms": [
+        "twitee:9 VASCO DA GAMA"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "VASCO DA GAMA",
+        "term_group_id": "assuntos_momento_br",
+        "term_label": "twitee:9 VASCO DA GAMA",
+        "run_id": "8fe3e55f-2eb4-49a8-9bbc-7eca1bb7098e",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114141544508801460",
+        "text": "Vasco da Gama tem treinador, caralho! Pedro Emanuel pirocudaço!!!!",
+        "author_username": "hudsv",
+        "author_name": "hudsv",
+        "created_at": "2026-10-24T23:46:00+00:00",
+        "permalink": "https://nitter.meowing.monster/hudsv/status/2114141544508801460#m",
+        "metrics": {
+          "like_count": 68,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114141082653209022",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114141082653209022",
+      "collected_at": "2026-10-26T01:55:08-03:00",
+      "matched_terms": [
+        "twitee:9 VASCO DA GAMA"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "VASCO DA GAMA",
+        "term_group_id": "assuntos_momento_br",
+        "term_label": "twitee:9 VASCO DA GAMA",
+        "run_id": "8fe3e55f-2eb4-49a8-9bbc-7eca1bb7098e",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114141082653209022",
+        "text": "Vasco da Gama ganhando, estamos em 13° na tabela. Dito isso : AMANHÃ É 13 LULA ⭐️",
+        "author_username": "noonadojimin93",
+        "author_name": "noonadojimin93",
+        "created_at": "2026-10-24T23:44:00+00:00",
+        "permalink": "https://nitter.meowing.monster/noonadojimin93/status/2114141082653209022#m",
+        "metrics": {
+          "like_count": 19,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114139161447850044",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114139161447850044",
+      "collected_at": "2026-10-26T01:55:08-03:00",
+      "matched_terms": [
+        "twitee:9 VASCO DA GAMA"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "VASCO DA GAMA",
+        "term_group_id": "assuntos_momento_br",
+        "term_label": "twitee:9 VASCO DA GAMA",
+        "run_id": "8fe3e55f-2eb4-49a8-9bbc-7eca1bb7098e",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114139161447850044",
+        "text": "O VASCO DA GAMA É MINHA ALEGRIA (TO INFARTANDO",
+        "author_username": "_christianoc",
+        "author_name": "_christianoc",
+        "created_at": "2026-10-24T23:37:00+00:00",
+        "permalink": "https://nitter.meowing.monster/_christianoc/status/2114139161447850044#m",
+        "metrics": {
+          "like_count": 114,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114138575361003714",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114138575361003714",
+      "collected_at": "2026-10-26T01:55:08-03:00",
+      "matched_terms": [
+        "twitee:9 VASCO DA GAMA"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "VASCO DA GAMA",
+        "term_group_id": "assuntos_momento_br",
+        "term_label": "twitee:9 VASCO DA GAMA",
+        "run_id": "8fe3e55f-2eb4-49a8-9bbc-7eca1bb7098e",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114138575361003714",
+        "text": "VASCO DA GAMA É A MINHA VIDA.",
+        "author_username": "_christianoc",
+        "author_name": "_christianoc",
+        "created_at": "2026-10-24T23:34:00+00:00",
+        "permalink": "https://nitter.meowing.monster/_christianoc/status/2114138575361003714#m",
+        "metrics": {
+          "like_count": 23,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114138487335301318",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114138487335301318",
+      "collected_at": "2026-10-26T01:55:08-03:00",
+      "matched_terms": [
+        "twitee:9 VASCO DA GAMA"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "VASCO DA GAMA",
+        "term_group_id": "assuntos_momento_br",
+        "term_label": "twitee:9 VASCO DA GAMA",
+        "run_id": "8fe3e55f-2eb4-49a8-9bbc-7eca1bb7098e",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114138487335301318",
+        "text": "EU TE AMO DESGRAÇA!!!\n\nVASCO DA GAMA. ⚫⚪💢",
+        "author_username": "rodrigoR7",
+        "author_name": "rodrigoR7",
+        "created_at": "2026-10-24T23:34:00+00:00",
+        "permalink": "https://nitter.meowing.monster/rodrigoR7/status/2114138487335301318#m",
+        "metrics": {
+          "like_count": 11,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114138147286106166",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114138147286106166",
+      "collected_at": "2026-10-26T01:55:08-03:00",
+      "matched_terms": [
+        "twitee:9 VASCO DA GAMA"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "VASCO DA GAMA",
+        "term_group_id": "assuntos_momento_br",
+        "term_label": "twitee:9 VASCO DA GAMA",
+        "run_id": "8fe3e55f-2eb4-49a8-9bbc-7eca1bb7098e",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114138147286106166",
+        "text": "Melhor o técnico e o time acordar pra vida. Estão errando o básico dps de acertar em alguns jogos atrás.  Dito isso :  vamo Vasco da Gama 💢",
+        "author_username": "noonadojimin93",
+        "author_name": "noonadojimin93",
+        "created_at": "2026-10-24T23:33:00+00:00",
+        "permalink": "https://nitter.meowing.monster/noonadojimin93/status/2114138147286106166#m",
+        "metrics": {
+          "like_count": 12,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114137470354735109",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114137470354735109",
+      "collected_at": "2026-10-26T01:55:08-03:00",
+      "matched_terms": [
+        "twitee:9 VASCO DA GAMA"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "VASCO DA GAMA",
+        "term_group_id": "assuntos_momento_br",
+        "term_label": "twitee:9 VASCO DA GAMA",
+        "run_id": "8fe3e55f-2eb4-49a8-9bbc-7eca1bb7098e",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114137470354735109",
+        "text": "Porra eu te amo muito Vasco da Gama",
+        "author_username": "cheycsilva",
+        "author_name": "cheycsilva",
+        "created_at": "2026-10-24T23:30:00+00:00",
+        "permalink": "https://nitter.meowing.monster/cheycsilva/status/2114137470354735109#m",
+        "metrics": {
+          "like_count": 30,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114137200585781288",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114137200585781288",
+      "collected_at": "2026-10-26T01:55:08-03:00",
+      "matched_terms": [
+        "twitee:9 VASCO DA GAMA"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "VASCO DA GAMA",
+        "term_group_id": "assuntos_momento_br",
+        "term_label": "twitee:9 VASCO DA GAMA",
+        "run_id": "8fe3e55f-2eb4-49a8-9bbc-7eca1bb7098e",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114137200585781288",
+        "text": "CLUBE DE REGATAS VASCO DA GAMA",
+        "author_username": "michelzinhosro1",
+        "author_name": "michelzinhosro1",
+        "created_at": "2026-10-24T23:29:00+00:00",
+        "permalink": "https://nitter.meowing.monster/michelzinhosro1/status/2114137200585781288#m",
+        "metrics": {
+          "like_count": 36,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114137185750237598",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114137185750237598",
+      "collected_at": "2026-10-26T01:55:08-03:00",
+      "matched_terms": [
+        "twitee:9 VASCO DA GAMA"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "VASCO DA GAMA",
+        "term_group_id": "assuntos_momento_br",
+        "term_label": "twitee:9 VASCO DA GAMA",
+        "run_id": "8fe3e55f-2eb4-49a8-9bbc-7eca1bb7098e",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114137185750237598",
+        "text": "VASCO DA GAMA",
+        "author_username": "_christianoc",
+        "author_name": "_christianoc",
+        "created_at": "2026-10-24T23:29:00+00:00",
+        "permalink": "https://nitter.meowing.monster/_christianoc/status/2114137185750237598#m",
+        "metrics": {
+          "like_count": 27,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114135917908865443",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114135917908865443",
+      "collected_at": "2026-10-26T01:55:08-03:00",
+      "matched_terms": [
+        "twitee:9 VASCO DA GAMA"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "VASCO DA GAMA",
+        "term_group_id": "assuntos_momento_br",
+        "term_label": "twitee:9 VASCO DA GAMA",
+        "run_id": "8fe3e55f-2eb4-49a8-9bbc-7eca1bb7098e",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114135917908865443",
+        "text": "CLUB DE REGATAS VASCO DA GAMA",
+        "author_username": "dantosinho",
+        "author_name": "dantosinho",
+        "created_at": "2026-10-24T23:24:00+00:00",
+        "permalink": "https://nitter.meowing.monster/dantosinho/status/2114135917908865443#m",
+        "metrics": {
+          "like_count": 48,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114135617550365043",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114135617550365043",
+      "collected_at": "2026-10-26T01:55:08-03:00",
+      "matched_terms": [
+        "twitee:9 VASCO DA GAMA"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "VASCO DA GAMA",
+        "term_group_id": "assuntos_momento_br",
+        "term_label": "twitee:9 VASCO DA GAMA",
+        "run_id": "8fe3e55f-2eb4-49a8-9bbc-7eca1bb7098e",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114135617550365043",
+        "text": "PUTA QUE PARIU VASCO DA GAMA",
+        "author_username": "luluisfee",
+        "author_name": "luluisfee",
+        "created_at": "2026-10-24T23:23:00+00:00",
+        "permalink": "https://nitter.meowing.monster/luluisfee/status/2114135617550365043#m",
+        "metrics": {
+          "like_count": 70,
+          "reply_count": 1,
+          "retweet_count": 0,
+          "quote_count": 3
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114135364168507461",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114135364168507461",
+      "collected_at": "2026-10-26T01:55:08-03:00",
+      "matched_terms": [
+        "twitee:9 VASCO DA GAMA"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "VASCO DA GAMA",
+        "term_group_id": "assuntos_momento_br",
+        "term_label": "twitee:9 VASCO DA GAMA",
+        "run_id": "8fe3e55f-2eb4-49a8-9bbc-7eca1bb7098e",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114135364168507461",
+        "text": "PQP EU AMO O VASCO DA GAMA",
+        "author_username": "vwmarrone",
+        "author_name": "vwmarrone",
+        "created_at": "2026-10-24T23:22:00+00:00",
+        "permalink": "https://nitter.meowing.monster/vwmarrone/status/2114135364168507461#m",
+        "metrics": {
+          "like_count": 63,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114135363333537847",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114135363333537847",
+      "collected_at": "2026-10-26T01:55:08-03:00",
+      "matched_terms": [
+        "twitee:9 VASCO DA GAMA"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "VASCO DA GAMA",
+        "term_group_id": "assuntos_momento_br",
+        "term_label": "twitee:9 VASCO DA GAMA",
+        "run_id": "8fe3e55f-2eb4-49a8-9bbc-7eca1bb7098e",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114135363333537847",
+        "text": "CLUBE DE REGATAS VASCO DA GAMA",
+        "author_username": "wtffjuan01",
+        "author_name": "wtffjuan01",
+        "created_at": "2026-10-24T23:22:00+00:00",
+        "permalink": "https://nitter.meowing.monster/wtffjuan01/status/2114135363333537847#m",
+        "metrics": {
+          "like_count": 12,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114133828407091207",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114133828407091207",
+      "collected_at": "2026-10-26T01:55:08-03:00",
+      "matched_terms": [
+        "twitee:9 VASCO DA GAMA"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "VASCO DA GAMA",
+        "term_group_id": "assuntos_momento_br",
+        "term_label": "twitee:9 VASCO DA GAMA",
+        "run_id": "8fe3e55f-2eb4-49a8-9bbc-7eca1bb7098e",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114133828407091207",
+        "text": "Dps desses jogos vergonhosos e bagunçados é papo da torcida nao ir mais em jogo nenhum. Salário em dia, tudo do bom e do melhor pra ficar jogando feito uns iniciantes. Tô com odio de todos do Vasco da Gama igualmente. Vão c fuder, putinha msmo",
+        "author_username": "noonadojimin93",
+        "author_name": "noonadojimin93",
+        "created_at": "2026-10-24T23:15:00+00:00",
+        "permalink": "https://nitter.meowing.monster/noonadojimin93/status/2114133828407091207#m",
+        "metrics": {
+          "like_count": 31,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114133053547184561",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114133053547184561",
+      "collected_at": "2026-10-26T01:55:08-03:00",
+      "matched_terms": [
+        "twitee:9 VASCO DA GAMA"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "VASCO DA GAMA",
+        "term_group_id": "assuntos_momento_br",
+        "term_label": "twitee:9 VASCO DA GAMA",
+        "run_id": "8fe3e55f-2eb4-49a8-9bbc-7eca1bb7098e",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114133053547184561",
+        "text": "Ridiculo cara, parece q é Vasco Da Gama Vs 22 jogadores",
+        "author_username": "crvgribeiroo",
+        "author_name": "crvgribeiroo",
+        "created_at": "2026-10-24T23:12:00+00:00",
+        "permalink": "https://nitter.meowing.monster/crvgribeiroo/status/2114133053547184561#m",
+        "metrics": {
+          "like_count": 30,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114131155171873096",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114131155171873096",
+      "collected_at": "2026-10-26T01:55:08-03:00",
+      "matched_terms": [
+        "twitee:9 VASCO DA GAMA"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "VASCO DA GAMA",
+        "term_group_id": "assuntos_momento_br",
+        "term_label": "twitee:9 VASCO DA GAMA",
+        "run_id": "8fe3e55f-2eb4-49a8-9bbc-7eca1bb7098e",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114131155171873096",
+        "text": "Se o Vasco da Gama não empatar no MÍNIMO hoje, eles não ganham de mais ninguém até o final do ano.",
+        "author_username": "noonadojimin93",
+        "author_name": "noonadojimin93",
+        "created_at": "2026-10-24T23:05:00+00:00",
+        "permalink": "https://nitter.meowing.monster/noonadojimin93/status/2114131155171873096#m",
+        "metrics": {
+          "like_count": 35,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114130846294659198",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114130846294659198",
+      "collected_at": "2026-10-26T01:55:08-03:00",
+      "matched_terms": [
+        "pl",
+        "twitee:9 VASCO DA GAMA"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "VASCO DA GAMA",
+        "term_group_id": "assuntos_momento_br",
+        "term_label": "twitee:9 VASCO DA GAMA",
+        "run_id": "8fe3e55f-2eb4-49a8-9bbc-7eca1bb7098e",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114130846294659198",
+        "text": "Completamente desanimador assistir o Vasco da Gama jogar, nmrl. O que o Saldivia tem de gostoso ele tem de ruim de bola, krlho.",
+        "author_username": "noonadojimin93",
+        "author_name": "noonadojimin93",
+        "created_at": "2026-10-24T23:04:00+00:00",
+        "permalink": "https://nitter.meowing.monster/noonadojimin93/status/2114130846294659198#m",
+        "metrics": {
+          "like_count": 38,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114129911761772712",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114129911761772712",
+      "collected_at": "2026-10-26T01:55:08-03:00",
+      "matched_terms": [
+        "twitee:9 VASCO DA GAMA"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "VASCO DA GAMA",
+        "term_group_id": "assuntos_momento_br",
+        "term_label": "twitee:9 VASCO DA GAMA",
+        "run_id": "8fe3e55f-2eb4-49a8-9bbc-7eca1bb7098e",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114129911761772712",
+        "text": "não adianta meus amigos ficar secando ou vendo os outros resultados....o Vasco da Gama quando depende apenas de si: SE BORRA INTEIRO E FAZ MERDA.\n\nsó olhar o jogo de terça feira que perdeu a classificação com 3 minutos de jogo.",
+        "author_username": "_christianoc",
+        "author_name": "_christianoc",
+        "created_at": "2026-10-24T23:00:00+00:00",
+        "permalink": "https://nitter.meowing.monster/_christianoc/status/2114129911761772712#m",
+        "metrics": {
+          "like_count": 41,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114128857909587984",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114128857909587984",
+      "collected_at": "2026-10-26T01:55:08-03:00",
+      "matched_terms": [
+        "twitee:9 VASCO DA GAMA"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "VASCO DA GAMA",
+        "term_group_id": "assuntos_momento_br",
+        "term_label": "twitee:9 VASCO DA GAMA",
+        "run_id": "8fe3e55f-2eb4-49a8-9bbc-7eca1bb7098e",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114128857909587984",
+        "text": "BRUNO DUARTE NÃO TÊM CONDIÇÃO ALGUMA DE JOGAR NO VASCO DA GAMA.",
+        "author_username": "rennermonnerat",
+        "author_name": "rennermonnerat",
+        "created_at": "2026-10-24T22:56:00+00:00",
+        "permalink": "https://nitter.meowing.monster/rennermonnerat/status/2114128857909587984#m",
+        "metrics": {
+          "like_count": 508,
+          "reply_count": 1,
+          "retweet_count": 0,
+          "quote_count": 9
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114128218894532823",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114128218894532823",
+      "collected_at": "2026-10-26T01:55:08-03:00",
+      "matched_terms": [
+        "twitee:9 VASCO DA GAMA"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "VASCO DA GAMA",
+        "term_group_id": "assuntos_momento_br",
+        "term_label": "twitee:9 VASCO DA GAMA",
+        "run_id": "8fe3e55f-2eb4-49a8-9bbc-7eca1bb7098e",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114128218894532823",
+        "text": "Maldita hora que fui fazer natação em São Januario e me apaixonar pelo Vasco da Gama. Caralho que ódio",
+        "author_username": "noonadojimin93",
+        "author_name": "noonadojimin93",
+        "created_at": "2026-10-24T22:53:00+00:00",
+        "permalink": "https://nitter.meowing.monster/noonadojimin93/status/2114128218894532823#m",
+        "metrics": {
+          "like_count": 43,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114127145807008216",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114127145807008216",
+      "collected_at": "2026-10-26T01:55:08-03:00",
+      "matched_terms": [
+        "twitee:9 VASCO DA GAMA"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "VASCO DA GAMA",
+        "term_group_id": "assuntos_momento_br",
+        "term_label": "twitee:9 VASCO DA GAMA",
+        "run_id": "8fe3e55f-2eb4-49a8-9bbc-7eca1bb7098e",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114127145807008216",
+        "text": "A freguesia do Clube de Regatas Vasco da Gama para o Corinthians é algo assustador",
+        "author_username": "LocoMath17",
+        "author_name": "LocoMath17",
+        "created_at": "2026-10-24T22:49:00+00:00",
+        "permalink": "https://nitter.meowing.monster/LocoMath17/status/2114127145807008216#m",
+        "metrics": {
+          "like_count": 36,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114127120066572750",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114127120066572750",
+      "collected_at": "2026-10-26T01:55:08-03:00",
+      "matched_terms": [
+        "twitee:9 VASCO DA GAMA"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "VASCO DA GAMA",
+        "term_group_id": "assuntos_momento_br",
+        "term_label": "twitee:9 VASCO DA GAMA",
+        "run_id": "8fe3e55f-2eb4-49a8-9bbc-7eca1bb7098e",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114127120066572750",
+        "text": "Inacreditável o Vasco da Gama",
+        "author_username": "vwmarrone",
+        "author_name": "vwmarrone",
+        "created_at": "2026-10-24T22:49:00+00:00",
+        "permalink": "https://nitter.meowing.monster/vwmarrone/status/2114127120066572750#m",
+        "metrics": {
+          "like_count": 92,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114127067935821841",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114127067935821841",
+      "collected_at": "2026-10-26T01:55:08-03:00",
+      "matched_terms": [
+        "twitee:9 VASCO DA GAMA"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "VASCO DA GAMA",
+        "term_group_id": "assuntos_momento_br",
+        "term_label": "twitee:9 VASCO DA GAMA",
+        "run_id": "8fe3e55f-2eb4-49a8-9bbc-7eca1bb7098e",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114127067935821841",
+        "text": "Vasco da Gama vai tomar no cu, perdendo pro Corinthians mané  tomam um gol e se cagam todo. Nunca vi um time tão cagão e medroso.  Vai c fuder",
+        "author_username": "noonadojimin93",
+        "author_name": "noonadojimin93",
+        "created_at": "2026-10-24T22:49:00+00:00",
+        "permalink": "https://nitter.meowing.monster/noonadojimin93/status/2114127067935821841#m",
+        "metrics": {
+          "like_count": 45,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114126791065436589",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114126791065436589",
+      "collected_at": "2026-10-26T01:55:08-03:00",
+      "matched_terms": [
+        "twitee:9 VASCO DA GAMA"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "VASCO DA GAMA",
+        "term_group_id": "assuntos_momento_br",
+        "term_label": "twitee:9 VASCO DA GAMA",
+        "run_id": "8fe3e55f-2eb4-49a8-9bbc-7eca1bb7098e",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114126791065436589",
+        "text": "Quando o Vasco da Gama toma gol ele ja peidam logo 😶",
+        "author_username": "noonadojimin93",
+        "author_name": "noonadojimin93",
+        "created_at": "2026-10-24T22:48:00+00:00",
+        "permalink": "https://nitter.meowing.monster/noonadojimin93/status/2114126791065436589#m",
+        "metrics": {
+          "like_count": 22,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114109333545890078",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114109333545890078",
+      "collected_at": "2026-10-26T01:55:08-03:00",
+      "matched_terms": [
+        "twitee:9 VASCO DA GAMA"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "VASCO DA GAMA",
+        "term_group_id": "assuntos_momento_br",
+        "term_label": "twitee:9 VASCO DA GAMA",
+        "run_id": "8fe3e55f-2eb4-49a8-9bbc-7eca1bb7098e",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114109333545890078",
+        "text": "Mal começou o jogo e o Vasco da Gama já está me irritando. Aquele time que jogava bem morreu mesmo ?  Pqp",
+        "author_username": "noonadojimin93",
+        "author_name": "noonadojimin93",
+        "created_at": "2026-10-24T21:38:00+00:00",
+        "permalink": "https://nitter.mie.foundation/noonadojimin93/status/2114109333545890078#m",
+        "metrics": {
+          "like_count": 23,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    }
+  ],
+  "comments": []
+}
