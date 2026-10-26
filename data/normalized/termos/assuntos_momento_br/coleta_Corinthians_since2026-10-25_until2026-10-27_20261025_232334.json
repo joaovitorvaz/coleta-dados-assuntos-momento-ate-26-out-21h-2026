@@ -1,0 +1,1352 @@
+{
+  "metadata": {
+    "term_group_id": "assuntos_momento_br",
+    "query": "Corinthians",
+    "since": "2026-10-25",
+    "until": "2026-10-27",
+    "source": "twitter_x",
+    "run_id": "8fe3e55f-2eb4-49a8-9bbc-7eca1bb7098e",
+    "collected_at": "2026-10-25T23:23:34-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 20,
+      "comments": 0,
+      "records_total": 20,
+      "skipped_duplicate": 40
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2114533718215786954",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114533718215786954",
+      "parent_post_id": null,
+      "thread_root_id": "2114533718215786954",
+      "author": {
+        "platform_id": null,
+        "display_name": "laiomattos",
+        "username": "laiomattos",
+        "profile_url": "https://x.com/laiomattos"
+      },
+      "text": "Grande Corinthians!",
+      "created_at": "2026-10-26T01:44:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T23:23:34-03:00",
+      "permalink": "https://nitter.meowing.monster/laiomattos/status/2114533718215786954#m",
+      "metrics": {
+        "like_count": 13,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "twitee:2 Corinthians"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Corinthians",
+        "term_group_id": "assuntos_momento_br",
+        "term_label": "twitee:2 Corinthians",
+        "run_id": "8fe3e55f-2eb4-49a8-9bbc-7eca1bb7098e",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 1,
+        "instance_used": "https://nitter.xitter.cc"
+      },
+      "raw_data": {
+        "id": "2114533718215786954",
+        "text": "Grande Corinthians!",
+        "author_username": "laiomattos",
+        "author_name": "laiomattos",
+        "created_at": "2026-10-26T01:44:00+00:00",
+        "permalink": "https://nitter.meowing.monster/laiomattos/status/2114533718215786954#m",
+        "metrics": {
+          "like_count": 13,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 19,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114532766125642099",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114532766125642099",
+      "parent_post_id": null,
+      "thread_root_id": "2114532766125642099",
+      "author": {
+        "platform_id": null,
+        "display_name": "indiglens",
+        "username": "indiglens",
+        "profile_url": "https://x.com/indiglens"
+      },
+      "text": "\"o Corinthians só perde parece o Bolsonaro\" Lula\n\nKkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk",
+      "created_at": "2026-10-26T01:41:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T23:23:34-03:00",
+      "permalink": "https://nitter.meowing.monster/indiglens/status/2114532766125642099#m",
+      "metrics": {
+        "like_count": 39,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "bolsonaro",
+        "twitee:2 Corinthians"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Corinthians",
+        "term_group_id": "assuntos_momento_br",
+        "term_label": "twitee:2 Corinthians",
+        "run_id": "8fe3e55f-2eb4-49a8-9bbc-7eca1bb7098e",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 1,
+        "instance_used": "https://nitter.xitter.cc"
+      },
+      "raw_data": {
+        "id": "2114532766125642099",
+        "text": "\"o Corinthians só perde parece o Bolsonaro\" Lula\n\nKkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk",
+        "author_username": "indiglens",
+        "author_name": "indiglens",
+        "created_at": "2026-10-26T01:41:00+00:00",
+        "permalink": "https://nitter.meowing.monster/indiglens/status/2114532766125642099#m",
+        "metrics": {
+          "like_count": 39,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 105,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114532332287779276",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114532332287779276",
+      "parent_post_id": null,
+      "thread_root_id": "2114532332287779276",
+      "author": {
+        "platform_id": null,
+        "display_name": "belinha_cortes",
+        "username": "belinha_cortes",
+        "profile_url": "https://x.com/belinha_cortes"
+      },
+      "text": "\"Corinthians tá parecendo o Bolsonaro, só perde\" -Luís Inácio Lula da Silva (25/10/2026) KKKKKKKKKKKKK",
+      "created_at": "2026-10-26T01:39:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T23:23:34-03:00",
+      "permalink": "https://nitter.meowing.monster/belinha_cortes/status/2114532332287779276#m",
+      "metrics": {
+        "like_count": 57,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "bolsonaro",
+        "twitee:2 Corinthians"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Corinthians",
+        "term_group_id": "assuntos_momento_br",
+        "term_label": "twitee:2 Corinthians",
+        "run_id": "8fe3e55f-2eb4-49a8-9bbc-7eca1bb7098e",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 1,
+        "instance_used": "https://nitter.xitter.cc"
+      },
+      "raw_data": {
+        "id": "2114532332287779276",
+        "text": "\"Corinthians tá parecendo o Bolsonaro, só perde\" -Luís Inácio Lula da Silva (25/10/2026) KKKKKKKKKKKKK",
+        "author_username": "belinha_cortes",
+        "author_name": "belinha_cortes",
+        "created_at": "2026-10-26T01:39:00+00:00",
+        "permalink": "https://nitter.meowing.monster/belinha_cortes/status/2114532332287779276#m",
+        "metrics": {
+          "like_count": 57,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 102,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114532224913625213",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114532224913625213",
+      "parent_post_id": null,
+      "thread_root_id": "2114532224913625213",
+      "author": {
+        "platform_id": null,
+        "display_name": "RodrigoCabralBR",
+        "username": "RodrigoCabralBR",
+        "profile_url": "https://x.com/RodrigoCabralBR"
+      },
+      "text": "Lula disse que o Corinthians tá parecendo o Bolsonaro porque só perde kkkkkk",
+      "created_at": "2026-10-26T01:39:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T23:23:34-03:00",
+      "permalink": "https://nitter.meowing.monster/RodrigoCabralBR/status/2114532224913625213#m",
+      "metrics": {
+        "like_count": 36,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 2
+      },
+      "matched_terms": [
+        "bolsonaro",
+        "twitee:2 Corinthians"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Corinthians",
+        "term_group_id": "assuntos_momento_br",
+        "term_label": "twitee:2 Corinthians",
+        "run_id": "8fe3e55f-2eb4-49a8-9bbc-7eca1bb7098e",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 1,
+        "instance_used": "https://nitter.xitter.cc"
+      },
+      "raw_data": {
+        "id": "2114532224913625213",
+        "text": "Lula disse que o Corinthians tá parecendo o Bolsonaro porque só perde kkkkkk",
+        "author_username": "RodrigoCabralBR",
+        "author_name": "RodrigoCabralBR",
+        "created_at": "2026-10-26T01:39:00+00:00",
+        "permalink": "https://nitter.meowing.monster/RodrigoCabralBR/status/2114532224913625213#m",
+        "metrics": {
+          "like_count": 36,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 2
+        }
+      },
+      "normalized": {
+        "text_length": 76,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114532186208526573",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114532186208526573",
+      "parent_post_id": null,
+      "thread_root_id": "2114532186208526573",
+      "author": {
+        "platform_id": null,
+        "display_name": "dantasbk",
+        "username": "dantasbk",
+        "profile_url": "https://x.com/dantasbk"
+      },
+      "text": "Lula dizendo no discurso que vai se reunir com o Corinthians pq tá parecendo o Bolsonaro, só perde KKKKKKKKKKK momento triste na vida de uma corintiana 🥲",
+      "created_at": "2026-10-26T01:38:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T23:23:34-03:00",
+      "permalink": "https://nitter.meowing.monster/dantasbk/status/2114532186208526573#m",
+      "metrics": {
+        "like_count": 94,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "bolsonaro",
+        "twitee:2 Corinthians"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Corinthians",
+        "term_group_id": "assuntos_momento_br",
+        "term_label": "twitee:2 Corinthians",
+        "run_id": "8fe3e55f-2eb4-49a8-9bbc-7eca1bb7098e",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 1,
+        "instance_used": "https://nitter.xitter.cc"
+      },
+      "raw_data": {
+        "id": "2114532186208526573",
+        "text": "Lula dizendo no discurso que vai se reunir com o Corinthians pq tá parecendo o Bolsonaro, só perde KKKKKKKKKKK momento triste na vida de uma corintiana 🥲",
+        "author_username": "dantasbk",
+        "author_name": "dantasbk",
+        "created_at": "2026-10-26T01:38:00+00:00",
+        "permalink": "https://nitter.meowing.monster/dantasbk/status/2114532186208526573#m",
+        "metrics": {
+          "like_count": 94,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 153,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114532160988426386",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114532160988426386",
+      "parent_post_id": null,
+      "thread_root_id": "2114532160988426386",
+      "author": {
+        "platform_id": null,
+        "display_name": "Marsthime",
+        "username": "Marsthime",
+        "profile_url": "https://x.com/Marsthime"
+      },
+      "text": "O CORINTHIANS TÁ PARECENDO O BOLSONARO",
+      "created_at": "2026-10-26T01:38:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T23:23:34-03:00",
+      "permalink": "https://nitter.meowing.monster/Marsthime/status/2114532160988426386#m",
+      "metrics": {
+        "like_count": 30,
+        "reply_count": 1,
+        "retweet_count": 0,
+        "quote_count": 2
+      },
+      "matched_terms": [
+        "bolsonaro",
+        "twitee:2 Corinthians"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Corinthians",
+        "term_group_id": "assuntos_momento_br",
+        "term_label": "twitee:2 Corinthians",
+        "run_id": "8fe3e55f-2eb4-49a8-9bbc-7eca1bb7098e",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 1,
+        "instance_used": "https://nitter.xitter.cc"
+      },
+      "raw_data": {
+        "id": "2114532160988426386",
+        "text": "O CORINTHIANS TÁ PARECENDO O BOLSONARO",
+        "author_username": "Marsthime",
+        "author_name": "Marsthime",
+        "created_at": "2026-10-26T01:38:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Marsthime/status/2114532160988426386#m",
+        "metrics": {
+          "like_count": 30,
+          "reply_count": 1,
+          "retweet_count": 0,
+          "quote_count": 2
+        }
+      },
+      "normalized": {
+        "text_length": 38,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114532123508113602",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114532123508113602",
+      "parent_post_id": null,
+      "thread_root_id": "2114532123508113602",
+      "author": {
+        "platform_id": null,
+        "display_name": "y2kcecii",
+        "username": "y2kcecii",
+        "profile_url": "https://x.com/y2kcecii"
+      },
+      "text": "\"corinthians tá parecendo bolsonaro, só perde\" palavras do nosso presidente atual por mais 4 anos",
+      "created_at": "2026-10-26T01:38:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T23:23:34-03:00",
+      "permalink": "https://nitter.meowing.monster/y2kcecii/status/2114532123508113602#m",
+      "metrics": {
+        "like_count": 24,
+        "reply_count": 0,
+        "retweet_count": 1,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "bolsonaro",
+        "twitee:2 Corinthians"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Corinthians",
+        "term_group_id": "assuntos_momento_br",
+        "term_label": "twitee:2 Corinthians",
+        "run_id": "8fe3e55f-2eb4-49a8-9bbc-7eca1bb7098e",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 1,
+        "instance_used": "https://nitter.xitter.cc"
+      },
+      "raw_data": {
+        "id": "2114532123508113602",
+        "text": "\"corinthians tá parecendo bolsonaro, só perde\" palavras do nosso presidente atual por mais 4 anos",
+        "author_username": "y2kcecii",
+        "author_name": "y2kcecii",
+        "created_at": "2026-10-26T01:38:00+00:00",
+        "permalink": "https://nitter.meowing.monster/y2kcecii/status/2114532123508113602#m",
+        "metrics": {
+          "like_count": 24,
+          "reply_count": 0,
+          "retweet_count": 1,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 97,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114532105610797386",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114532105610797386",
+      "parent_post_id": null,
+      "thread_root_id": "2114532105610797386",
+      "author": {
+        "platform_id": null,
+        "display_name": "DiegoMartins81",
+        "username": "DiegoMartins81",
+        "profile_url": "https://x.com/DiegoMartins81"
+      },
+      "text": "\"O Corinthians parece o Bolsonaro... só perde!\"\n\nLuiz Inácio Lula da Silva\n\n😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂... GÊNIO!!!",
+      "created_at": "2026-10-26T01:38:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T23:23:34-03:00",
+      "permalink": "https://nitter.meowing.monster/DiegoMartins81/status/2114532105610797386#m",
+      "metrics": {
+        "like_count": 46,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "bolsonaro",
+        "twitee:2 Corinthians"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Corinthians",
+        "term_group_id": "assuntos_momento_br",
+        "term_label": "twitee:2 Corinthians",
+        "run_id": "8fe3e55f-2eb4-49a8-9bbc-7eca1bb7098e",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 1,
+        "instance_used": "https://nitter.xitter.cc"
+      },
+      "raw_data": {
+        "id": "2114532105610797386",
+        "text": "\"O Corinthians parece o Bolsonaro... só perde!\"\n\nLuiz Inácio Lula da Silva\n\n😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂... GÊNIO!!!",
+        "author_username": "DiegoMartins81",
+        "author_name": "DiegoMartins81",
+        "created_at": "2026-10-26T01:38:00+00:00",
+        "permalink": "https://nitter.meowing.monster/DiegoMartins81/status/2114532105610797386#m",
+        "metrics": {
+          "like_count": 46,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 112,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114532017526145193",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114532017526145193",
+      "parent_post_id": null,
+      "thread_root_id": "2114532017526145193",
+      "author": {
+        "platform_id": null,
+        "display_name": "felipe_1910",
+        "username": "felipe_1910",
+        "profile_url": "https://x.com/felipe_1910"
+      },
+      "text": "NÃO VAMOS CAIR \n\nCORINTHIANS!",
+      "created_at": "2026-10-26T01:38:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T23:23:34-03:00",
+      "permalink": "https://nitter.meowing.monster/felipe_1910/status/2114532017526145193#m",
+      "metrics": {
+        "like_count": 47,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "twitee:2 Corinthians"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Corinthians",
+        "term_group_id": "assuntos_momento_br",
+        "term_label": "twitee:2 Corinthians",
+        "run_id": "8fe3e55f-2eb4-49a8-9bbc-7eca1bb7098e",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 1,
+        "instance_used": "https://nitter.xitter.cc"
+      },
+      "raw_data": {
+        "id": "2114532017526145193",
+        "text": "NÃO VAMOS CAIR \n\nCORINTHIANS!",
+        "author_username": "felipe_1910",
+        "author_name": "felipe_1910",
+        "created_at": "2026-10-26T01:38:00+00:00",
+        "permalink": "https://nitter.meowing.monster/felipe_1910/status/2114532017526145193#m",
+        "metrics": {
+          "like_count": 47,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 29,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114532008139391139",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114532008139391139",
+      "parent_post_id": null,
+      "thread_root_id": "2114532008139391139",
+      "author": {
+        "platform_id": null,
+        "display_name": "69_rid",
+        "username": "69_rid",
+        "profile_url": "https://x.com/69_rid"
+      },
+      "text": "O Lula agora kkkkk \"O Corinthians parece o bolsonaro, só perde\"",
+      "created_at": "2026-10-26T01:38:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T23:23:34-03:00",
+      "permalink": "https://nitter.meowing.monster/69_rid/status/2114532008139391139#m",
+      "metrics": {
+        "like_count": 34,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "bolsonaro",
+        "twitee:2 Corinthians"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Corinthians",
+        "term_group_id": "assuntos_momento_br",
+        "term_label": "twitee:2 Corinthians",
+        "run_id": "8fe3e55f-2eb4-49a8-9bbc-7eca1bb7098e",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 1,
+        "instance_used": "https://nitter.xitter.cc"
+      },
+      "raw_data": {
+        "id": "2114532008139391139",
+        "text": "O Lula agora kkkkk \"O Corinthians parece o bolsonaro, só perde\"",
+        "author_username": "69_rid",
+        "author_name": "69_rid",
+        "created_at": "2026-10-26T01:38:00+00:00",
+        "permalink": "https://nitter.meowing.monster/69_rid/status/2114532008139391139#m",
+        "metrics": {
+          "like_count": 34,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 63,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114531995912995129",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114531995912995129",
+      "parent_post_id": null,
+      "thread_root_id": "2114531995912995129",
+      "author": {
+        "platform_id": null,
+        "display_name": "Lilica_BBB",
+        "username": "Lilica_BBB",
+        "profile_url": "https://x.com/Lilica_BBB"
+      },
+      "text": "Graças a Deus que o Corinthians perdeu ontem Lula... Pq foi meu Vascão q ganhou kkkkk",
+      "created_at": "2026-10-26T01:38:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T23:23:34-03:00",
+      "permalink": "https://nitter.meowing.monster/Lilica_BBB/status/2114531995912995129#m",
+      "metrics": {
+        "like_count": 65,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 2
+      },
+      "matched_terms": [
+        "twitee:2 Corinthians"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Corinthians",
+        "term_group_id": "assuntos_momento_br",
+        "term_label": "twitee:2 Corinthians",
+        "run_id": "8fe3e55f-2eb4-49a8-9bbc-7eca1bb7098e",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 1,
+        "instance_used": "https://nitter.xitter.cc"
+      },
+      "raw_data": {
+        "id": "2114531995912995129",
+        "text": "Graças a Deus que o Corinthians perdeu ontem Lula... Pq foi meu Vascão q ganhou kkkkk",
+        "author_username": "Lilica_BBB",
+        "author_name": "Lilica_BBB",
+        "created_at": "2026-10-26T01:38:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Lilica_BBB/status/2114531995912995129#m",
+        "metrics": {
+          "like_count": 65,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 2
+        }
+      },
+      "normalized": {
+        "text_length": 85,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114531960714412531",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114531960714412531",
+      "parent_post_id": null,
+      "thread_root_id": "2114531960714412531",
+      "author": {
+        "platform_id": null,
+        "display_name": "maitipiovani",
+        "username": "maitipiovani",
+        "profile_url": "https://x.com/maitipiovani"
+      },
+      "text": "Ele reclamando da fase do Corinthians no discurso, é o maior que temos mesmo.",
+      "created_at": "2026-10-26T01:38:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T23:23:34-03:00",
+      "permalink": "https://nitter.meowing.monster/maitipiovani/status/2114531960714412531#m",
+      "metrics": {
+        "like_count": 30,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "twitee:2 Corinthians"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Corinthians",
+        "term_group_id": "assuntos_momento_br",
+        "term_label": "twitee:2 Corinthians",
+        "run_id": "8fe3e55f-2eb4-49a8-9bbc-7eca1bb7098e",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 1,
+        "instance_used": "https://nitter.xitter.cc"
+      },
+      "raw_data": {
+        "id": "2114531960714412531",
+        "text": "Ele reclamando da fase do Corinthians no discurso, é o maior que temos mesmo.",
+        "author_username": "maitipiovani",
+        "author_name": "maitipiovani",
+        "created_at": "2026-10-26T01:38:00+00:00",
+        "permalink": "https://nitter.meowing.monster/maitipiovani/status/2114531960714412531#m",
+        "metrics": {
+          "like_count": 30,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 77,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114531900089844195",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114531900089844195",
+      "parent_post_id": null,
+      "thread_root_id": "2114531900089844195",
+      "author": {
+        "platform_id": null,
+        "display_name": "r_de_beto",
+        "username": "r_de_beto",
+        "profile_url": "https://x.com/r_de_beto"
+      },
+      "text": "Lula chamou o @Corinthians\nPra responsabilidade ⚽\n#LulaReeleito",
+      "created_at": "2026-10-26T01:37:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T23:23:34-03:00",
+      "permalink": "https://nitter.meowing.monster/r_de_beto/status/2114531900089844195#m",
+      "metrics": {
+        "like_count": 35,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "twitee:2 Corinthians"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Corinthians",
+        "term_group_id": "assuntos_momento_br",
+        "term_label": "twitee:2 Corinthians",
+        "run_id": "8fe3e55f-2eb4-49a8-9bbc-7eca1bb7098e",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 1,
+        "instance_used": "https://nitter.xitter.cc"
+      },
+      "raw_data": {
+        "id": "2114531900089844195",
+        "text": "Lula chamou o @Corinthians\nPra responsabilidade ⚽\n#LulaReeleito",
+        "author_username": "r_de_beto",
+        "author_name": "r_de_beto",
+        "created_at": "2026-10-26T01:37:00+00:00",
+        "permalink": "https://nitter.meowing.monster/r_de_beto/status/2114531900089844195#m",
+        "metrics": {
+          "like_count": 35,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 63,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114531880590520665",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114531880590520665",
+      "parent_post_id": null,
+      "thread_root_id": "2114531880590520665",
+      "author": {
+        "platform_id": null,
+        "display_name": "priiidernocka",
+        "username": "priiidernocka",
+        "profile_url": "https://x.com/priiidernocka"
+      },
+      "text": "Lula falando que o Corinthians parece o Bolsonaro, só perde \n\n🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣 socorro ahauhauahuaua mortaaaaaaa #LulaPresidente #LulaReeleito",
+      "created_at": "2026-10-26T01:37:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T23:23:34-03:00",
+      "permalink": "https://nitter.meowing.monster/priiidernocka/status/2114531880590520665#m",
+      "metrics": {
+        "like_count": 86,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 5
+      },
+      "matched_terms": [
+        "bolsonaro",
+        "twitee:2 Corinthians"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Corinthians",
+        "term_group_id": "assuntos_momento_br",
+        "term_label": "twitee:2 Corinthians",
+        "run_id": "8fe3e55f-2eb4-49a8-9bbc-7eca1bb7098e",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 1,
+        "instance_used": "https://nitter.xitter.cc"
+      },
+      "raw_data": {
+        "id": "2114531880590520665",
+        "text": "Lula falando que o Corinthians parece o Bolsonaro, só perde \n\n🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣 socorro ahauhauahuaua mortaaaaaaa #LulaPresidente #LulaReeleito",
+        "author_username": "priiidernocka",
+        "author_name": "priiidernocka",
+        "created_at": "2026-10-26T01:37:00+00:00",
+        "permalink": "https://nitter.meowing.monster/priiidernocka/status/2114531880590520665#m",
+        "metrics": {
+          "like_count": 86,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 5
+        }
+      },
+      "normalized": {
+        "text_length": 152,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114531868397707684",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114531868397707684",
+      "parent_post_id": null,
+      "thread_root_id": "2114531868397707684",
+      "author": {
+        "platform_id": null,
+        "display_name": "alwaysbails",
+        "username": "alwaysbails",
+        "profile_url": "https://x.com/alwaysbails"
+      },
+      "text": "Corinthians ta parecendo o bolsonaro, so perde\n- lula, 2026",
+      "created_at": "2026-10-26T01:37:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T23:23:34-03:00",
+      "permalink": "https://nitter.meowing.monster/alwaysbails/status/2114531868397707684#m",
+      "metrics": {
+        "like_count": 50,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "bolsonaro",
+        "twitee:2 Corinthians"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Corinthians",
+        "term_group_id": "assuntos_momento_br",
+        "term_label": "twitee:2 Corinthians",
+        "run_id": "8fe3e55f-2eb4-49a8-9bbc-7eca1bb7098e",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 1,
+        "instance_used": "https://nitter.xitter.cc"
+      },
+      "raw_data": {
+        "id": "2114531868397707684",
+        "text": "Corinthians ta parecendo o bolsonaro, so perde\n- lula, 2026",
+        "author_username": "alwaysbails",
+        "author_name": "alwaysbails",
+        "created_at": "2026-10-26T01:37:00+00:00",
+        "permalink": "https://nitter.meowing.monster/alwaysbails/status/2114531868397707684#m",
+        "metrics": {
+          "like_count": 50,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 59,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114531861951291803",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114531861951291803",
+      "parent_post_id": null,
+      "thread_root_id": "2114531861951291803",
+      "author": {
+        "platform_id": null,
+        "display_name": "SENlNHA",
+        "username": "SENlNHA",
+        "profile_url": "https://x.com/SENlNHA"
+      },
+      "text": "Corinthians está parecendo o Bolsonaro,  só perde!!! Hahahaha",
+      "created_at": "2026-10-26T01:37:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T23:23:34-03:00",
+      "permalink": "https://nitter.meowing.monster/SENlNHA/status/2114531861951291803#m",
+      "metrics": {
+        "like_count": 31,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "bolsonaro",
+        "twitee:2 Corinthians"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Corinthians",
+        "term_group_id": "assuntos_momento_br",
+        "term_label": "twitee:2 Corinthians",
+        "run_id": "8fe3e55f-2eb4-49a8-9bbc-7eca1bb7098e",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 1,
+        "instance_used": "https://nitter.xitter.cc"
+      },
+      "raw_data": {
+        "id": "2114531861951291803",
+        "text": "Corinthians está parecendo o Bolsonaro,  só perde!!! Hahahaha",
+        "author_username": "SENlNHA",
+        "author_name": "SENlNHA",
+        "created_at": "2026-10-26T01:37:00+00:00",
+        "permalink": "https://nitter.meowing.monster/SENlNHA/status/2114531861951291803#m",
+        "metrics": {
+          "like_count": 31,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 61,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114531828077830375",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114531828077830375",
+      "parent_post_id": null,
+      "thread_root_id": "2114531828077830375",
+      "author": {
+        "platform_id": null,
+        "display_name": "pragarara",
+        "username": "pragarara",
+        "profile_url": "https://x.com/pragarara"
+      },
+      "text": "Lula falando do Corinthians no discurso de campeão kkkkkkk po tava tão feliz pra que isso",
+      "created_at": "2026-10-26T01:37:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T23:23:34-03:00",
+      "permalink": "https://nitter.meowing.monster/pragarara/status/2114531828077830375#m",
+      "metrics": {
+        "like_count": 75,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "twitee:2 Corinthians"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Corinthians",
+        "term_group_id": "assuntos_momento_br",
+        "term_label": "twitee:2 Corinthians",
+        "run_id": "8fe3e55f-2eb4-49a8-9bbc-7eca1bb7098e",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 1,
+        "instance_used": "https://nitter.xitter.cc"
+      },
+      "raw_data": {
+        "id": "2114531828077830375",
+        "text": "Lula falando do Corinthians no discurso de campeão kkkkkkk po tava tão feliz pra que isso",
+        "author_username": "pragarara",
+        "author_name": "pragarara",
+        "created_at": "2026-10-26T01:37:00+00:00",
+        "permalink": "https://nitter.meowing.monster/pragarara/status/2114531828077830375#m",
+        "metrics": {
+          "like_count": 75,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 89,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114531772067123564",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114531772067123564",
+      "parent_post_id": null,
+      "thread_root_id": "2114531772067123564",
+      "author": {
+        "platform_id": null,
+        "display_name": "diimizuno",
+        "username": "diimizuno",
+        "profile_url": "https://x.com/diimizuno"
+      },
+      "text": "Ninguém sabe mas o Corinthians se sacrificou pro lula ganha",
+      "created_at": "2026-10-26T01:37:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T23:23:34-03:00",
+      "permalink": "https://nitter.meowing.monster/diimizuno/status/2114531772067123564#m",
+      "metrics": {
+        "like_count": 97,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "twitee:2 Corinthians"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Corinthians",
+        "term_group_id": "assuntos_momento_br",
+        "term_label": "twitee:2 Corinthians",
+        "run_id": "8fe3e55f-2eb4-49a8-9bbc-7eca1bb7098e",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 1,
+        "instance_used": "https://nitter.xitter.cc"
+      },
+      "raw_data": {
+        "id": "2114531772067123564",
+        "text": "Ninguém sabe mas o Corinthians se sacrificou pro lula ganha",
+        "author_username": "diimizuno",
+        "author_name": "diimizuno",
+        "created_at": "2026-10-26T01:37:00+00:00",
+        "permalink": "https://nitter.meowing.monster/diimizuno/status/2114531772067123564#m",
+        "metrics": {
+          "like_count": 97,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 59,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114530288449511711",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114530288449511711",
+      "parent_post_id": null,
+      "thread_root_id": "2114530288449511711",
+      "author": {
+        "platform_id": null,
+        "display_name": "priiidernocka",
+        "username": "priiidernocka",
+        "profile_url": "https://x.com/priiidernocka"
+      },
+      "text": "Cara, não me lembra q o Corinthians existe, por favor, pq por alguns instantes eu até esqueci 😅😅😅😅😅😅",
+      "created_at": "2026-10-26T01:31:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T23:23:34-03:00",
+      "permalink": "https://nitter.meowing.monster/priiidernocka/status/2114530288449511711#m",
+      "metrics": {
+        "like_count": 21,
+        "reply_count": 0,
+        "retweet_count": 1,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "twitee:2 Corinthians"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Corinthians",
+        "term_group_id": "assuntos_momento_br",
+        "term_label": "twitee:2 Corinthians",
+        "run_id": "8fe3e55f-2eb4-49a8-9bbc-7eca1bb7098e",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 1,
+        "instance_used": "https://nitter.xitter.cc"
+      },
+      "raw_data": {
+        "id": "2114530288449511711",
+        "text": "Cara, não me lembra q o Corinthians existe, por favor, pq por alguns instantes eu até esqueci 😅😅😅😅😅😅",
+        "author_username": "priiidernocka",
+        "author_name": "priiidernocka",
+        "created_at": "2026-10-26T01:31:00+00:00",
+        "permalink": "https://nitter.meowing.monster/priiidernocka/status/2114530288449511711#m",
+        "metrics": {
+          "like_count": 21,
+          "reply_count": 0,
+          "retweet_count": 1,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 100,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114529408174477452",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114529408174477452",
+      "parent_post_id": null,
+      "thread_root_id": "2114529408174477452",
+      "author": {
+        "platform_id": null,
+        "display_name": "alesekope",
+        "username": "alesekope",
+        "profile_url": "https://x.com/alesekope"
+      },
+      "text": "Deseja q o nove dedos pague de vez a arena.",
+      "created_at": "2026-10-26T01:27:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T23:23:34-03:00",
+      "permalink": "https://nitter.meowing.monster/alesekope/status/2114529408174477452#m",
+      "metrics": {
+        "like_count": 4,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "twitee:2 Corinthians"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Corinthians",
+        "term_group_id": "assuntos_momento_br",
+        "term_label": "twitee:2 Corinthians",
+        "run_id": "8fe3e55f-2eb4-49a8-9bbc-7eca1bb7098e",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 1,
+        "instance_used": "https://nitter.xitter.cc"
+      },
+      "raw_data": {
+        "id": "2114529408174477452",
+        "text": "Deseja q o nove dedos pague de vez a arena.",
+        "author_username": "alesekope",
+        "author_name": "alesekope",
+        "created_at": "2026-10-26T01:27:00+00:00",
+        "permalink": "https://nitter.meowing.monster/alesekope/status/2114529408174477452#m",
+        "metrics": {
+          "like_count": 4,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 43,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}
