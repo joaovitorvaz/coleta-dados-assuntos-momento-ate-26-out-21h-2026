@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "term_group_id": "nordestino",
+    "query": "nordestinos",
+    "since": "2026-10-25",
+    "until": "2026-10-28",
+    "source": "twitter_x",
+    "run_id": "7d4afbb8-b571-494c-aafc-d67e82ab18f3",
+    "collected_at": "2026-10-27T13:59:07-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 1,
+      "comments": 0,
+      "records_total": 1,
+      "skipped_duplicate": 54
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2115125163649823078",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115125163649823078",
+      "parent_post_id": null,
+      "thread_root_id": "2115125163649823078",
+      "author": {
+        "platform_id": null,
+        "display_name": "ecm_foim",
+        "username": "ecm_foim",
+        "profile_url": "https://x.com/ecm_foim"
+      },
+      "text": "Toda vez que vejo essa porra de mosaico me encho de raiva.\nCadê os nordestinos na porra da imagem?!\nOnde estão Camilo Santana, Rafael Fonteles, Jerônimo, Rui Costa, Fátima Bezerra...\nAí em 2030 vem choras nas redes atrás dos nossos votos.\nVão todos do Sudeste tomar no olho do cu.",
+      "created_at": "2026-10-27T16:55:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T13:59:07-03:00",
+      "permalink": "https://nitter.netbub.com/ecm_foim/status/2115125163649823078#m",
+      "metrics": {
+        "like_count": 3,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestinos",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "7d4afbb8-b571-494c-aafc-d67e82ab18f3",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 6,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115125163649823078",
+        "text": "Toda vez que vejo essa porra de mosaico me encho de raiva.\nCadê os nordestinos na porra da imagem?!\nOnde estão Camilo Santana, Rafael Fonteles, Jerônimo, Rui Costa, Fátima Bezerra...\nAí em 2030 vem choras nas redes atrás dos nossos votos.\nVão todos do Sudeste tomar no olho do cu.",
+        "author_username": "ecm_foim",
+        "author_name": "ecm_foim",
+        "created_at": "2026-10-27T16:55:00+00:00",
+        "permalink": "https://nitter.netbub.com/ecm_foim/status/2115125163649823078#m",
+        "metrics": {
+          "like_count": 3,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 280,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}
