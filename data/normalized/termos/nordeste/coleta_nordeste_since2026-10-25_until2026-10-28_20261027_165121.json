@@ -1,0 +1,154 @@
+{
+  "metadata": {
+    "term_group_id": "nordeste",
+    "query": "nordeste",
+    "since": "2026-10-25",
+    "until": "2026-10-28",
+    "source": "twitter_x",
+    "run_id": "c6e3d097-43b1-48d4-b56b-5623e4140577",
+    "collected_at": "2026-10-27T16:51:21-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 2,
+      "comments": 0,
+      "records_total": 2,
+      "skipped_duplicate": 378
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2115164460671181215",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115164460671181215",
+      "parent_post_id": null,
+      "thread_root_id": "2115164460671181215",
+      "author": {
+        "platform_id": null,
+        "display_name": "israelped2224",
+        "username": "israelped2224",
+        "profile_url": "https://x.com/israelped2224"
+      },
+      "text": "A diferença quem fez. Veara teve a menor abstenção da história. No nordeste deve governador de direita que lutou a favor do Lula. Mas, e assim so precisam de nós quando estão no sufoco. Continuem dançando suas cirandas",
+      "created_at": "2026-10-27T19:31:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T16:51:20-03:00",
+      "permalink": "https://nitter.netbub.com/israelped2224/status/2115164460671181215#m",
+      "metrics": {
+        "like_count": 23,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "Nordeste",
+        "direita"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "c6e3d097-43b1-48d4-b56b-5623e4140577",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 4,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115164460671181215",
+        "text": "A diferença quem fez. Veara teve a menor abstenção da história. No nordeste deve governador de direita que lutou a favor do Lula. Mas, e assim so precisam de nós quando estão no sufoco. Continuem dançando suas cirandas",
+        "author_username": "israelped2224",
+        "author_name": "israelped2224",
+        "created_at": "2026-10-27T19:31:00+00:00",
+        "permalink": "https://nitter.netbub.com/israelped2224/status/2115164460671181215#m",
+        "metrics": {
+          "like_count": 23,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 218,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115161153114435644",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115161153114435644",
+      "parent_post_id": null,
+      "thread_root_id": "2115161153114435644",
+      "author": {
+        "platform_id": null,
+        "display_name": "Fernandojoao45",
+        "username": "Fernandojoao45",
+        "profile_url": "https://x.com/Fernandojoao45"
+      },
+      "text": "O sua velha imbecil,  quem paga o bolsa família, sao os trabalhadores e empresas, que pagam impostos para o governo federal. Sua anta do nordeste, povo imbecil, burro, que da asco dessa gente vindo para o sul. Fiquem ai suas desgraças.",
+      "created_at": "2026-10-27T19:18:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T16:51:20-03:00",
+      "permalink": "https://nitter.netbub.com/Fernandojoao45/status/2115161153114435644#m",
+      "metrics": {
+        "like_count": 3,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "c6e3d097-43b1-48d4-b56b-5623e4140577",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 4,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115161153114435644",
+        "text": "O sua velha imbecil,  quem paga o bolsa família, sao os trabalhadores e empresas, que pagam impostos para o governo federal. Sua anta do nordeste, povo imbecil, burro, que da asco dessa gente vindo para o sul. Fiquem ai suas desgraças.",
+        "author_username": "Fernandojoao45",
+        "author_name": "Fernandojoao45",
+        "created_at": "2026-10-27T19:18:00+00:00",
+        "permalink": "https://nitter.netbub.com/Fernandojoao45/status/2115161153114435644#m",
+        "metrics": {
+          "like_count": 3,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 235,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}
