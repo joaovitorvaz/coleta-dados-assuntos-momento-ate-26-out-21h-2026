@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "term_group_id": "nordestino",
+    "query": "nordestina",
+    "since": "2026-10-25",
+    "until": "2026-10-28",
+    "source": "twitter_x",
+    "run_id": "0a229693-5508-4b49-b90c-c79b2297f95f",
+    "collected_at": "2026-10-27T11:32:31-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 1,
+      "comments": 0,
+      "records_total": 1,
+      "skipped_duplicate": 20
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2115088712962900408",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115088712962900408",
+      "parent_post_id": null,
+      "thread_root_id": "2115088712962900408",
+      "author": {
+        "platform_id": null,
+        "display_name": "RGaick",
+        "username": "RGaick",
+        "profile_url": "https://x.com/RGaick"
+      },
+      "text": "A macumba hoje é branca, a favela é nordestina, a Globo e negra, oque mais ta mudando?",
+      "created_at": "2026-10-27T14:30:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T11:32:30-03:00",
+      "permalink": "https://nitter.meowing.monster/RGaick/status/2115088712962900408#m",
+      "metrics": {
+        "like_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestina",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "0a229693-5508-4b49-b90c-c79b2297f95f",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 5,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115088712962900408",
+        "text": "A macumba hoje é branca, a favela é nordestina, a Globo e negra, oque mais ta mudando?",
+        "author_username": "RGaick",
+        "author_name": "RGaick",
+        "created_at": "2026-10-27T14:30:00+00:00",
+        "permalink": "https://nitter.meowing.monster/RGaick/status/2115088712962900408#m",
+        "metrics": {
+          "like_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 86,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}
