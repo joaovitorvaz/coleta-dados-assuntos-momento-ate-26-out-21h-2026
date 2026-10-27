@@ -1,0 +1,88 @@
+{
+  "metadata": {
+    "term_group_id": "nordestino",
+    "query": "nordestino",
+    "since": "2026-10-25",
+    "until": "2026-10-28",
+    "source": "twitter_x",
+    "run_id": "ba8788b3-f6c4-468b-8fe6-b6999f995cc5",
+    "collected_at": "2026-10-27T14:43:23-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 1,
+      "comments": 0,
+      "records_total": 1,
+      "skipped_duplicate": 76
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2115128791785734472",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115128791785734472",
+      "parent_post_id": null,
+      "thread_root_id": "2115128791785734472",
+      "author": {
+        "platform_id": null,
+        "display_name": "AGarciaS1611",
+        "username": "AGarciaS1611",
+        "profile_url": "https://x.com/AGarciaS1611"
+      },
+      "text": "Fica aí no Piauí desgraça. Vem aqui pro sul para continuar votando no PT.\n\nEu não gostaria de discriminar o nordestino que vive na pobreza, mas não dá..     \n\n    👇👇👇👇👇👇\n\nRafael Fonteles do PT reeleito com 70% dos votos.\n\nLula/2° turno eleito com 82,81% dos votos.",
+      "created_at": "2026-10-27T17:09:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T14:43:23-03:00",
+      "permalink": "https://nitter.netbub.com/AGarciaS1611/status/2115128791785734472#m",
+      "metrics": {
+        "like_count": 41,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 2
+      },
+      "matched_terms": [
+        "nordestino",
+        "pt"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestino",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "ba8788b3-f6c4-468b-8fe6-b6999f995cc5",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 7,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2115128791785734472",
+        "text": "Fica aí no Piauí desgraça. Vem aqui pro sul para continuar votando no PT.\n\nEu não gostaria de discriminar o nordestino que vive na pobreza, mas não dá..     \n\n    👇👇👇👇👇👇\n\nRafael Fonteles do PT reeleito com 70% dos votos.\n\nLula/2° turno eleito com 82,81% dos votos.",
+        "author_username": "AGarciaS1611",
+        "author_name": "AGarciaS1611",
+        "created_at": "2026-10-27T17:09:00+00:00",
+        "permalink": "https://nitter.netbub.com/AGarciaS1611/status/2115128791785734472#m",
+        "metrics": {
+          "like_count": 41,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 2
+        }
+      },
+      "normalized": {
+        "text_length": 264,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}
