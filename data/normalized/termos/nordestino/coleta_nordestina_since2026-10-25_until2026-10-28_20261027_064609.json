@@ -1,0 +1,89 @@
+{
+  "metadata": {
+    "term_group_id": "nordestino",
+    "query": "nordestina",
+    "since": "2026-10-25",
+    "until": "2026-10-28",
+    "source": "twitter_x",
+    "run_id": "4080b80d-96b3-4703-b14e-f8936d8f921e",
+    "collected_at": "2026-10-27T06:46:09-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 1,
+      "comments": 0,
+      "records_total": 1,
+      "skipped_duplicate": 20
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2114094989349474708",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114094989349474708",
+      "parent_post_id": null,
+      "thread_root_id": "2114094989349474708",
+      "author": {
+        "platform_id": null,
+        "display_name": "Marciamuniz59",
+        "username": "Marciamuniz59",
+        "profile_url": "https://x.com/Marciamuniz59"
+      },
+      "text": "Sou nordestina, e nunca votei no PT, minha família é 100% Flávio Bolsonaro 22🇧🇷",
+      "created_at": "2026-10-24T20:41:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T06:46:09-03:00",
+      "permalink": "https://nitter.mie.foundation/Marciamuniz59/status/2114094989349474708#m",
+      "metrics": {
+        "like_count": 66,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 5
+      },
+      "matched_terms": [
+        "bolsonaro",
+        "nordestino",
+        "pt"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestina",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "4080b80d-96b3-4703-b14e-f8936d8f921e",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 5,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114094989349474708",
+        "text": "Sou nordestina, e nunca votei no PT, minha família é 100% Flávio Bolsonaro 22🇧🇷",
+        "author_username": "Marciamuniz59",
+        "author_name": "Marciamuniz59",
+        "created_at": "2026-10-24T20:41:00+00:00",
+        "permalink": "https://nitter.mie.foundation/Marciamuniz59/status/2114094989349474708#m",
+        "metrics": {
+          "like_count": 66,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 5
+        }
+      },
+      "normalized": {
+        "text_length": 79,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}
