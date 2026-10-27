@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "term_group_id": "nordestino",
+    "query": "nordestinos",
+    "since": "2026-10-25",
+    "until": "2026-10-28",
+    "source": "twitter_x",
+    "run_id": "9963b3e7-2bf9-4801-9dfc-1dd5a7ad2afd",
+    "collected_at": "2026-10-27T08:52:37-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 1,
+      "comments": 0,
+      "records_total": 1,
+      "skipped_duplicate": 54
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2115044254049353798",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115044254049353798",
+      "parent_post_id": null,
+      "thread_root_id": "2115044254049353798",
+      "author": {
+        "platform_id": null,
+        "display_name": "MarinoBoni27242",
+        "username": "MarinoBoni27242",
+        "profile_url": "https://x.com/MarinoBoni27242"
+      },
+      "text": "Concordo, más tem que espulsar todos os nordestinos daqui.👏🏾👏🏾🇧🇷",
+      "created_at": "2026-10-27T11:33:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T08:52:36-03:00",
+      "permalink": "https://nitter.netbub.com/MarinoBoni27242/status/2115044254049353798#m",
+      "metrics": {
+        "like_count": 1,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestinos",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "9963b3e7-2bf9-4801-9dfc-1dd5a7ad2afd",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 6,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2115044254049353798",
+        "text": "Concordo, más tem que espulsar todos os nordestinos daqui.👏🏾👏🏾🇧🇷",
+        "author_username": "MarinoBoni27242",
+        "author_name": "MarinoBoni27242",
+        "created_at": "2026-10-27T11:33:00+00:00",
+        "permalink": "https://nitter.netbub.com/MarinoBoni27242/status/2115044254049353798#m",
+        "metrics": {
+          "like_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 64,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}
