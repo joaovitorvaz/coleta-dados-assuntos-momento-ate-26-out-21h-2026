@@ -1,0 +1,352 @@
+{
+  "metadata": {
+    "term_group_id": "nordeste",
+    "query": "nordeste",
+    "since": "2026-10-25",
+    "until": "2026-10-28",
+    "source": "twitter_x",
+    "run_id": "0a229693-5508-4b49-b90c-c79b2297f95f",
+    "collected_at": "2026-10-27T10:41:20-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 5,
+      "comments": 0,
+      "records_total": 5,
+      "skipped_duplicate": 627
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2115070421905047625",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115070421905047625",
+      "parent_post_id": null,
+      "thread_root_id": "2115070421905047625",
+      "author": {
+        "platform_id": null,
+        "display_name": "GlriaMattos",
+        "username": "GlriaMattos",
+        "profile_url": "https://x.com/GlriaMattos"
+      },
+      "text": "Você teria que limpar os pés antes de pisar no solo sagrado do nosso querido Nordeste.  Não vai fazer falta aos nossos irmãos nordestinos.  Não és bem-vinda aqui no Sul também!!! Vai caçar o que fazer.",
+      "created_at": "2026-10-27T13:17:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T10:41:19-03:00",
+      "permalink": "https://nitter.meowing.monster/GlriaMattos/status/2115070421905047625#m",
+      "metrics": {
+        "like_count": 22,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste",
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "0a229693-5508-4b49-b90c-c79b2297f95f",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 36,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115070421905047625",
+        "text": "Você teria que limpar os pés antes de pisar no solo sagrado do nosso querido Nordeste.  Não vai fazer falta aos nossos irmãos nordestinos.  Não és bem-vinda aqui no Sul também!!! Vai caçar o que fazer.",
+        "author_username": "GlriaMattos",
+        "author_name": "GlriaMattos",
+        "created_at": "2026-10-27T13:17:00+00:00",
+        "permalink": "https://nitter.meowing.monster/GlriaMattos/status/2115070421905047625#m",
+        "metrics": {
+          "like_count": 22,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 201,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115068651116048546",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115068651116048546",
+      "parent_post_id": null,
+      "thread_root_id": "2115068651116048546",
+      "author": {
+        "platform_id": null,
+        "display_name": "de_haliton33294",
+        "username": "de_haliton33294",
+        "profile_url": "https://x.com/de_haliton33294"
+      },
+      "text": "NÓS DO NORDESTE AGRADECEMOS A SUA FALTA POR AQUI.",
+      "created_at": "2026-10-27T13:10:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T10:41:19-03:00",
+      "permalink": "https://nitter.meowing.monster/de_haliton33294/status/2115068651116048546#m",
+      "metrics": {
+        "like_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "0a229693-5508-4b49-b90c-c79b2297f95f",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 36,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115068651116048546",
+        "text": "NÓS DO NORDESTE AGRADECEMOS A SUA FALTA POR AQUI.",
+        "author_username": "de_haliton33294",
+        "author_name": "de_haliton33294",
+        "created_at": "2026-10-27T13:10:00+00:00",
+        "permalink": "https://nitter.meowing.monster/de_haliton33294/status/2115068651116048546#m",
+        "metrics": {
+          "like_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 49,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115067084849701357",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115067084849701357",
+      "parent_post_id": null,
+      "thread_root_id": "2115067084849701357",
+      "author": {
+        "platform_id": null,
+        "display_name": "eliabreuu",
+        "username": "eliabreuu",
+        "profile_url": "https://x.com/eliabreuu"
+      },
+      "text": "Os bolsonaristas dizendo de boca cheia que não vem para o nordeste só vão para o sul e sudeste.\nE quem quer esse povo aqui?\nEu hein",
+      "created_at": "2026-10-27T13:04:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T10:41:19-03:00",
+      "permalink": "https://nitter.meowing.monster/eliabreuu/status/2115067084849701357#m",
+      "metrics": {
+        "like_count": 4,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "0a229693-5508-4b49-b90c-c79b2297f95f",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 36,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115067084849701357",
+        "text": "Os bolsonaristas dizendo de boca cheia que não vem para o nordeste só vão para o sul e sudeste.\nE quem quer esse povo aqui?\nEu hein",
+        "author_username": "eliabreuu",
+        "author_name": "eliabreuu",
+        "created_at": "2026-10-27T13:04:00+00:00",
+        "permalink": "https://nitter.meowing.monster/eliabreuu/status/2115067084849701357#m",
+        "metrics": {
+          "like_count": 4,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 131,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115060130483929287",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115060130483929287",
+      "parent_post_id": null,
+      "thread_root_id": "2115060130483929287",
+      "author": {
+        "platform_id": null,
+        "display_name": "ValHerdy",
+        "username": "ValHerdy",
+        "profile_url": "https://x.com/ValHerdy"
+      },
+      "text": "Não só nordeste. Artistas, vendedores, empresas, bancos\nTodos q fizeram o L venha sentir na própria pele. Eles tem um Painho!\nVão pedir ajuda.",
+      "created_at": "2026-10-27T12:36:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T10:41:19-03:00",
+      "permalink": "https://nitter.meowing.monster/ValHerdy/status/2115060130483929287#m",
+      "metrics": {
+        "like_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "0a229693-5508-4b49-b90c-c79b2297f95f",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 36,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115060130483929287",
+        "text": "Não só nordeste. Artistas, vendedores, empresas, bancos\nTodos q fizeram o L venha sentir na própria pele. Eles tem um Painho!\nVão pedir ajuda.",
+        "author_username": "ValHerdy",
+        "author_name": "ValHerdy",
+        "created_at": "2026-10-27T12:36:00+00:00",
+        "permalink": "https://nitter.meowing.monster/ValHerdy/status/2115060130483929287#m",
+        "metrics": {
+          "like_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 142,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115075377794068536",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115075377794068536",
+      "parent_post_id": null,
+      "thread_root_id": "2115075377794068536",
+      "author": {
+        "platform_id": null,
+        "display_name": "clebiooliveira3",
+        "username": "clebiooliveira3",
+        "profile_url": "https://x.com/clebiooliveira3"
+      },
+      "text": "FAZOÉLI 🚩🚩👆 \nMoro no Nordeste,Mas não compactuo com isso faço parte dos 30% que não fez o L",
+      "created_at": "2026-10-27T13:37:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T10:41:19-03:00",
+      "permalink": "https://nitter.meowing.monster/clebiooliveira3/status/2115075377794068536#m",
+      "metrics": {
+        "like_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "0a229693-5508-4b49-b90c-c79b2297f95f",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 36,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115075377794068536",
+        "text": "FAZOÉLI 🚩🚩👆 \nMoro no Nordeste,Mas não compactuo com isso faço parte dos 30% que não fez o L",
+        "author_username": "clebiooliveira3",
+        "author_name": "clebiooliveira3",
+        "created_at": "2026-10-27T13:37:00+00:00",
+        "permalink": "https://nitter.meowing.monster/clebiooliveira3/status/2115075377794068536#m",
+        "metrics": {
+          "like_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 91,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}
