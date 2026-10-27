@@ -1,0 +1,14 @@
+{
+  "event_id": "c369c035-8961-4b23-9ff9-79c02c8ab026",
+  "event_type": "trends_now_assuntos_momento_ate_27out21h_20261026",
+  "started_at": "2026-10-27T06:56:42-03:00",
+  "finished_at": "2026-10-27T07:14:45-03:00",
+  "status": "success",
+  "since": "2026-10-25",
+  "until": "2026-10-28",
+  "records_written": 2,
+  "records_skipped_duplicate": 250,
+  "json_files_written": 1,
+  "errors": [],
+  "twitee_trends": []
+}
