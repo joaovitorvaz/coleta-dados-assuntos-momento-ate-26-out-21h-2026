@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "term_group_id": "nordeste",
+    "query": "nordeste",
+    "since": "2026-10-25",
+    "until": "2026-10-28",
+    "source": "twitter_x",
+    "run_id": "f0bcf1c4-754c-48f8-8577-54cee992255d",
+    "collected_at": "2026-10-27T19:33:34-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 1,
+      "comments": 0,
+      "records_total": 1,
+      "skipped_duplicate": 100
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2115208497444864006",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115208497444864006",
+      "parent_post_id": null,
+      "thread_root_id": "2115208497444864006",
+      "author": {
+        "platform_id": null,
+        "display_name": "tiagofpe",
+        "username": "tiagofpe",
+        "profile_url": "https://x.com/tiagofpe"
+      },
+      "text": "Essas empresas de turismo do eixo sul anunciando que não vão mais realizar pacotes de viagens para o Nordeste tão achando que vai quebrar o nosso turismo ?  KKKKKKKKK coitados",
+      "created_at": "2026-10-27T22:26:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T19:33:34-03:00",
+      "permalink": "https://nitter.mie.foundation/tiagofpe/status/2115208497444864006#m",
+      "metrics": {
+        "like_count": 2,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "f0bcf1c4-754c-48f8-8577-54cee992255d",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 4,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2115208497444864006",
+        "text": "Essas empresas de turismo do eixo sul anunciando que não vão mais realizar pacotes de viagens para o Nordeste tão achando que vai quebrar o nosso turismo ?  KKKKKKKKK coitados",
+        "author_username": "tiagofpe",
+        "author_name": "tiagofpe",
+        "created_at": "2026-10-27T22:26:00+00:00",
+        "permalink": "https://nitter.mie.foundation/tiagofpe/status/2115208497444864006#m",
+        "metrics": {
+          "like_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 175,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}
