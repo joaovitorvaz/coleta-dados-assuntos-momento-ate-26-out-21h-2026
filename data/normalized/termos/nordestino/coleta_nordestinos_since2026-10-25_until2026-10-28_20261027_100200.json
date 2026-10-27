@@ -1,0 +1,88 @@
+{
+  "metadata": {
+    "term_group_id": "nordestino",
+    "query": "nordestinos",
+    "since": "2026-10-25",
+    "until": "2026-10-28",
+    "source": "twitter_x",
+    "run_id": "b5a4363b-27a6-48b0-9594-ede74ab52223",
+    "collected_at": "2026-10-27T10:02:00-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 1,
+      "comments": 0,
+      "records_total": 1,
+      "skipped_duplicate": 19
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2115050438949052475",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115050438949052475",
+      "parent_post_id": null,
+      "thread_root_id": "2115050438949052475",
+      "author": {
+        "platform_id": null,
+        "display_name": "HlioHenriq56903",
+        "username": "HlioHenriq56903",
+        "profile_url": "https://x.com/HlioHenriq56903"
+      },
+      "text": "Agora ta salvo não adianta apagar. Do sul espero a expulsão dos nordestinos.",
+      "created_at": "2026-10-27T11:58:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T10:02:00-03:00",
+      "permalink": "https://nitter.netbub.com/HlioHenriq56903/status/2115050438949052475#m",
+      "metrics": {
+        "like_count": 18,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestinos",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "b5a4363b-27a6-48b0-9594-ede74ab52223",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 0,
+        "instance_used": "https://nitter.xitter.cc"
+      },
+      "raw_data": {
+        "id": "2115050438949052475",
+        "text": "Agora ta salvo não adianta apagar. Do sul espero a expulsão dos nordestinos.",
+        "author_username": "HlioHenriq56903",
+        "author_name": "HlioHenriq56903",
+        "created_at": "2026-10-27T11:58:00+00:00",
+        "permalink": "https://nitter.netbub.com/HlioHenriq56903/status/2115050438949052475#m",
+        "metrics": {
+          "like_count": 18,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 76,
+        "has_media": false
+      },
+      "collection_status": "partial",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter.",
+        "parcial por erro: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://nitter.xitter.cc/search?f=tweets&q=nordestinos+lang%3Apt+place_country%3ABR+since%3A2026-10-25+until%3A2026-10-28&e-nativeretweets=on\nCall log:\n  - navigating to \"https://nitter.xitter.cc/search?f=tweets&q=nordestinos+lang%3Apt+place_country%3ABR+since%3A2026-10-25+until%3A2026-10-28&e-nativeretweets=on\", waiting until \"networkidle\"\n"
+      ]
+    }
+  ],
+  "comments": []
+}
