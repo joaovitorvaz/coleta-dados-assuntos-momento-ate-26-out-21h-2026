@@ -1,0 +1,153 @@
+{
+  "metadata": {
+    "term_group_id": "nordeste",
+    "query": "nordeste",
+    "since": "2026-10-25",
+    "until": "2026-10-28",
+    "source": "twitter_x",
+    "run_id": "c369c035-8961-4b23-9ff9-79c02c8ab026",
+    "collected_at": "2026-10-27T07:00:57-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 2,
+      "comments": 0,
+      "records_total": 2,
+      "skipped_duplicate": 78
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2115019656905809938",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115019656905809938",
+      "parent_post_id": null,
+      "thread_root_id": "2115019656905809938",
+      "author": {
+        "platform_id": null,
+        "display_name": "MaduRodriguezzz",
+        "username": "MaduRodriguezzz",
+        "profile_url": "https://x.com/MaduRodriguezzz"
+      },
+      "text": "Falar do norte e nordeste afundou eles, velho o que ele falou de Belém... Me deu um nojo tão grande, sou sulista, as minhas melhores amigas são de Belém, a família delas toda, são maravilhosos, são as pessoas mais trabalhadoras e foda q eu conheço, quero mt conhecer Belém um dia",
+      "created_at": "2026-10-27T09:55:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T07:00:57-03:00",
+      "permalink": "https://nitter.meowing.monster/MaduRodriguezzz/status/2115019656905809938#m",
+      "metrics": {
+        "like_count": 6,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "c369c035-8961-4b23-9ff9-79c02c8ab026",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 4,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115019656905809938",
+        "text": "Falar do norte e nordeste afundou eles, velho o que ele falou de Belém... Me deu um nojo tão grande, sou sulista, as minhas melhores amigas são de Belém, a família delas toda, são maravilhosos, são as pessoas mais trabalhadoras e foda q eu conheço, quero mt conhecer Belém um dia",
+        "author_username": "MaduRodriguezzz",
+        "author_name": "MaduRodriguezzz",
+        "created_at": "2026-10-27T09:55:00+00:00",
+        "permalink": "https://nitter.meowing.monster/MaduRodriguezzz/status/2115019656905809938#m",
+        "metrics": {
+          "like_count": 6,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 279,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115012548722311422",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115012548722311422",
+      "parent_post_id": null,
+      "thread_root_id": "2115012548722311422",
+      "author": {
+        "platform_id": null,
+        "display_name": "Antonio29128492",
+        "username": "Antonio29128492",
+        "profile_url": "https://x.com/Antonio29128492"
+      },
+      "text": "Valeu meu NORDESTE \nValeu meu Brasil",
+      "created_at": "2026-10-27T09:27:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T07:00:57-03:00",
+      "permalink": "https://nitter.meowing.monster/Antonio29128492/status/2115012548722311422#m",
+      "metrics": {
+        "like_count": 4,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "c369c035-8961-4b23-9ff9-79c02c8ab026",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 4,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115012548722311422",
+        "text": "Valeu meu NORDESTE \nValeu meu Brasil",
+        "author_username": "Antonio29128492",
+        "author_name": "Antonio29128492",
+        "created_at": "2026-10-27T09:27:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Antonio29128492/status/2115012548722311422#m",
+        "metrics": {
+          "like_count": 4,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 36,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}
