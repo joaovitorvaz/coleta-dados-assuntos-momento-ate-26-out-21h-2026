@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "term_group_id": "nordestino",
+    "query": "nordestinos",
+    "since": "2026-10-25",
+    "until": "2026-10-28",
+    "source": "twitter_x",
+    "run_id": "4d2ea402-190b-46a5-9c91-5ff07b240f53",
+    "collected_at": "2026-10-27T12:49:56-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 1,
+      "comments": 0,
+      "records_total": 1,
+      "skipped_duplicate": 57
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2115103238320017706",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115103238320017706",
+      "parent_post_id": null,
+      "thread_root_id": "2115103238320017706",
+      "author": {
+        "platform_id": null,
+        "display_name": "Florencio933",
+        "username": "Florencio933",
+        "profile_url": "https://x.com/Florencio933"
+      },
+      "text": "🤣🤣🤣🤣🤣 \nFoi roubado mesmo. \nMilhares de nordestinos presos nos aeroportos. \nMilhares nas periferias sem ônibus. \nEmpresas gigantescas mudando escala pro trabalhador não votar. \nFoi roubo, Lula iria ganhar com muito mais votos\nChega de frescura e MiMiMi, vai chorar até quando?",
+      "created_at": "2026-10-27T15:28:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T12:49:56-03:00",
+      "permalink": "https://nitter.meowing.monster/Florencio933/status/2115103238320017706#m",
+      "metrics": {
+        "like_count": 2,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestinos",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "4d2ea402-190b-46a5-9c91-5ff07b240f53",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 6,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2115103238320017706",
+        "text": "🤣🤣🤣🤣🤣 \nFoi roubado mesmo. \nMilhares de nordestinos presos nos aeroportos. \nMilhares nas periferias sem ônibus. \nEmpresas gigantescas mudando escala pro trabalhador não votar. \nFoi roubo, Lula iria ganhar com muito mais votos\nChega de frescura e MiMiMi, vai chorar até quando?",
+        "author_username": "Florencio933",
+        "author_name": "Florencio933",
+        "created_at": "2026-10-27T15:28:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Florencio933/status/2115103238320017706#m",
+        "metrics": {
+          "like_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 275,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}
