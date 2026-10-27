@@ -1,0 +1,288 @@
+{
+  "metadata": {
+    "term_group_id": "nordestino",
+    "query": "nordestino",
+    "since": "2026-10-25",
+    "until": "2026-10-28",
+    "source": "twitter_x",
+    "run_id": "95d5c8e6-f9b3-4b68-8b9d-5a4786348bc9",
+    "collected_at": "2026-10-27T20:30:30-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 4,
+      "comments": 0,
+      "records_total": 4,
+      "skipped_duplicate": 74
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2115177666135445815",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115177666135445815",
+      "parent_post_id": null,
+      "thread_root_id": "2115177666135445815",
+      "author": {
+        "platform_id": null,
+        "display_name": "servilo_santana",
+        "username": "servilo_santana",
+        "profile_url": "https://x.com/servilo_santana"
+      },
+      "text": "O Nordeste mais uma vez livrou o Brasil dos fascistas, eu tenho orgulho de ser nordestino, sergipano, de ter votado no Lula, porque acredito ainda em um Brasil soberano. 1️⃣3️⃣❤️⭐️",
+      "created_at": "2026-10-27T20:23:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T20:30:30-03:00",
+      "permalink": "https://nitter.netbub.com/servilo_santana/status/2115177666135445815#m",
+      "metrics": {
+        "like_count": 14,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste",
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestino",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "95d5c8e6-f9b3-4b68-8b9d-5a4786348bc9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 7,
+        "instance_used": "https://nitter.netbub.com"
+      },
+      "raw_data": {
+        "id": "2115177666135445815",
+        "text": "O Nordeste mais uma vez livrou o Brasil dos fascistas, eu tenho orgulho de ser nordestino, sergipano, de ter votado no Lula, porque acredito ainda em um Brasil soberano. 1️⃣3️⃣❤️⭐️",
+        "author_username": "servilo_santana",
+        "author_name": "servilo_santana",
+        "created_at": "2026-10-27T20:23:00+00:00",
+        "permalink": "https://nitter.netbub.com/servilo_santana/status/2115177666135445815#m",
+        "metrics": {
+          "like_count": 14,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 180,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115140326994174439",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115140326994174439",
+      "parent_post_id": null,
+      "thread_root_id": "2115140326994174439",
+      "author": {
+        "platform_id": null,
+        "display_name": "CasalBlackWhit7",
+        "username": "CasalBlackWhit7",
+        "profile_url": "https://x.com/CasalBlackWhit7"
+      },
+      "text": "Colocando tudo no branquinho rabudo, aguentou gostoso ate eu gozar.\nVideo disponível no canal:\nonnowplay.com/casalblackwhit…",
+      "created_at": "2026-10-27T17:55:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T20:30:30-03:00",
+      "permalink": "https://nitter.netbub.com/CasalBlackWhit7/status/2115140326994174439#m",
+      "metrics": {
+        "like_count": 1,
+        "reply_count": 0,
+        "retweet_count": 3,
+        "quote_count": 61
+      },
+      "matched_terms": [
+        "nordestino",
+        "pl"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestino",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "95d5c8e6-f9b3-4b68-8b9d-5a4786348bc9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 7,
+        "instance_used": "https://nitter.netbub.com"
+      },
+      "raw_data": {
+        "id": "2115140326994174439",
+        "text": "Colocando tudo no branquinho rabudo, aguentou gostoso ate eu gozar.\nVideo disponível no canal:\nonnowplay.com/casalblackwhit…",
+        "author_username": "CasalBlackWhit7",
+        "author_name": "CasalBlackWhit7",
+        "created_at": "2026-10-27T17:55:00+00:00",
+        "permalink": "https://nitter.netbub.com/CasalBlackWhit7/status/2115140326994174439#m",
+        "metrics": {
+          "like_count": 1,
+          "reply_count": 0,
+          "retweet_count": 3,
+          "quote_count": 61
+        }
+      },
+      "normalized": {
+        "text_length": 124,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115122556776611860",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115122556776611860",
+      "parent_post_id": null,
+      "thread_root_id": "2115122556776611860",
+      "author": {
+        "platform_id": null,
+        "display_name": "CasalBlackWhit7",
+        "username": "CasalBlackWhit7",
+        "profile_url": "https://x.com/CasalBlackWhit7"
+      },
+      "text": "Macetei com gosto a raba do versátil ativo que achou q nao iria aguentar minha vara. Mostrei pra ele que pra tudo tem jeito.\nVideo disponível no canal:\nonnowplay.com/casalblackwhit…",
+      "created_at": "2026-10-27T16:44:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T20:30:30-03:00",
+      "permalink": "https://nitter.netbub.com/CasalBlackWhit7/status/2115122556776611860#m",
+      "metrics": {
+        "like_count": 2,
+        "reply_count": 2,
+        "retweet_count": 13,
+        "quote_count": 143
+      },
+      "matched_terms": [
+        "nordestino",
+        "pl"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestino",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "95d5c8e6-f9b3-4b68-8b9d-5a4786348bc9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 7,
+        "instance_used": "https://nitter.netbub.com"
+      },
+      "raw_data": {
+        "id": "2115122556776611860",
+        "text": "Macetei com gosto a raba do versátil ativo que achou q nao iria aguentar minha vara. Mostrei pra ele que pra tudo tem jeito.\nVideo disponível no canal:\nonnowplay.com/casalblackwhit…",
+        "author_username": "CasalBlackWhit7",
+        "author_name": "CasalBlackWhit7",
+        "created_at": "2026-10-27T16:44:00+00:00",
+        "permalink": "https://nitter.netbub.com/CasalBlackWhit7/status/2115122556776611860#m",
+        "metrics": {
+          "like_count": 2,
+          "reply_count": 2,
+          "retweet_count": 13,
+          "quote_count": 143
+        }
+      },
+      "normalized": {
+        "text_length": 181,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114856689115492699",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114856689115492699",
+      "parent_post_id": null,
+      "thread_root_id": "2114856689115492699",
+      "author": {
+        "platform_id": null,
+        "display_name": "Thiago_Farago",
+        "username": "Thiago_Farago",
+        "profile_url": "https://x.com/Thiago_Farago"
+      },
+      "text": "Não sei por qie esse povo idiota tá considerando SP e MS como Sul. SP tá mais que comprovado que um bairro nordestino que só tem retardado. 🤡",
+      "created_at": "2026-10-26T23:08:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T20:30:30-03:00",
+      "permalink": "https://nitter.netbub.com/Thiago_Farago/status/2114856689115492699#m",
+      "metrics": {
+        "like_count": 5,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestino",
+        "term_group_id": "nordestino",
+        "term_label": "nordestino",
+        "run_id": "95d5c8e6-f9b3-4b68-8b9d-5a4786348bc9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 7,
+        "instance_used": "https://nitter.netbub.com"
+      },
+      "raw_data": {
+        "id": "2114856689115492699",
+        "text": "Não sei por qie esse povo idiota tá considerando SP e MS como Sul. SP tá mais que comprovado que um bairro nordestino que só tem retardado. 🤡",
+        "author_username": "Thiago_Farago",
+        "author_name": "Thiago_Farago",
+        "created_at": "2026-10-26T23:08:00+00:00",
+        "permalink": "https://nitter.netbub.com/Thiago_Farago/status/2114856689115492699#m",
+        "metrics": {
+          "like_count": 5,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 141,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}
