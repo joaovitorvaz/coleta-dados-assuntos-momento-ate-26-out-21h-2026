@@ -1,0 +1,219 @@
+{
+  "metadata": {
+    "term_group_id": "nordeste",
+    "query": "nordeste",
+    "since": "2026-10-25",
+    "until": "2026-10-28",
+    "source": "twitter_x",
+    "run_id": "6da8ed8c-9574-4739-aeae-b10a5920a7de",
+    "collected_at": "2026-10-27T16:07:51-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 3,
+      "comments": 0,
+      "records_total": 3,
+      "skipped_duplicate": 57
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2115154391942525161",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115154391942525161",
+      "parent_post_id": null,
+      "thread_root_id": "2115154391942525161",
+      "author": {
+        "platform_id": null,
+        "display_name": "SayneLuiza",
+        "username": "SayneLuiza",
+        "profile_url": "https://x.com/SayneLuiza"
+      },
+      "text": "Meu Deus, quebrou a economia do nordeste 😭😭😭😭🤣🤣🤣🤣🤣🤣🤣🤣🤣",
+      "created_at": "2026-10-27T18:51:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T16:07:51-03:00",
+      "permalink": "https://nitter.netbub.com/SayneLuiza/status/2115154391942525161#m",
+      "metrics": {
+        "like_count": 1,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "6da8ed8c-9574-4739-aeae-b10a5920a7de",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 3,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115154391942525161",
+        "text": "Meu Deus, quebrou a economia do nordeste 😭😭😭😭🤣🤣🤣🤣🤣🤣🤣🤣🤣",
+        "author_username": "SayneLuiza",
+        "author_name": "SayneLuiza",
+        "created_at": "2026-10-27T18:51:00+00:00",
+        "permalink": "https://nitter.netbub.com/SayneLuiza/status/2115154391942525161#m",
+        "metrics": {
+          "like_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 54,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115152514366472666",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115152514366472666",
+      "parent_post_id": null,
+      "thread_root_id": "2115152514366472666",
+      "author": {
+        "platform_id": null,
+        "display_name": "chicotejp",
+        "username": "chicotejp",
+        "profile_url": "https://x.com/chicotejp"
+      },
+      "text": "O Nordeste entrega demais!!!",
+      "created_at": "2026-10-27T18:43:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T16:07:51-03:00",
+      "permalink": "https://nitter.netbub.com/chicotejp/status/2115152514366472666#m",
+      "metrics": {
+        "like_count": 2,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "6da8ed8c-9574-4739-aeae-b10a5920a7de",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 3,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115152514366472666",
+        "text": "O Nordeste entrega demais!!!",
+        "author_username": "chicotejp",
+        "author_name": "chicotejp",
+        "created_at": "2026-10-27T18:43:00+00:00",
+        "permalink": "https://nitter.netbub.com/chicotejp/status/2115152514366472666#m",
+        "metrics": {
+          "like_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 28,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2115151162437439538",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2115151162437439538",
+      "parent_post_id": null,
+      "thread_root_id": "2115151162437439538",
+      "author": {
+        "platform_id": null,
+        "display_name": "biaonca",
+        "username": "biaonca",
+        "profile_url": "https://x.com/biaonca"
+      },
+      "text": "O nordeste brasileiro  tem gênios formados em áreas matemática, física e química  e engenharias. Fora que as escolas oficiais ITA, i.e tá tudo lá e jndo pra lá!",
+      "created_at": "2026-10-27T18:38:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T16:07:51-03:00",
+      "permalink": "https://nitter.netbub.com/biaonca/status/2115151162437439538#m",
+      "metrics": {
+        "like_count": 122,
+        "reply_count": 1,
+        "retweet_count": 1,
+        "quote_count": 3
+      },
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "6da8ed8c-9574-4739-aeae-b10a5920a7de",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 3,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2115151162437439538",
+        "text": "O nordeste brasileiro  tem gênios formados em áreas matemática, física e química  e engenharias. Fora que as escolas oficiais ITA, i.e tá tudo lá e jndo pra lá!",
+        "author_username": "biaonca",
+        "author_name": "biaonca",
+        "created_at": "2026-10-27T18:38:00+00:00",
+        "permalink": "https://nitter.netbub.com/biaonca/status/2115151162437439538#m",
+        "metrics": {
+          "like_count": 122,
+          "reply_count": 1,
+          "retweet_count": 1,
+          "quote_count": 3
+        }
+      },
+      "normalized": {
+        "text_length": 160,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}
