@@ -1,0 +1,352 @@
+{
+  "metadata": {
+    "term_group_id": "nordeste",
+    "query": "nordeste",
+    "since": "2026-10-25",
+    "until": "2026-10-28",
+    "source": "twitter_x",
+    "run_id": "975d7b24-ff39-4783-85c7-5fe817c3b399",
+    "collected_at": "2026-10-27T02:35:10-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 5,
+      "comments": 0,
+      "records_total": 5,
+      "skipped_duplicate": 646
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2114941338319778114",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114941338319778114",
+      "parent_post_id": null,
+      "thread_root_id": "2114941338319778114",
+      "author": {
+        "platform_id": null,
+        "display_name": "regi_fraga",
+        "username": "regi_fraga",
+        "profile_url": "https://x.com/regi_fraga"
+      },
+      "text": "Já vi gente cancelando viagem pro nordeste, kkkkk, essa eu ri, já vi gente falando pra não contratar petista ???  Teve gente demitindo funcionario TB. Gente esse povo é doido. Por isso eles não ganharam. Quem em sã consciência da voto pra gente desse nível 🤦🏽‍♀️",
+      "created_at": "2026-10-27T04:44:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T02:35:10-03:00",
+      "permalink": "https://nitter.meowing.monster/regi_fraga/status/2114941338319778114#m",
+      "metrics": {
+        "like_count": 3,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "975d7b24-ff39-4783-85c7-5fe817c3b399",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 36,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114941338319778114",
+        "text": "Já vi gente cancelando viagem pro nordeste, kkkkk, essa eu ri, já vi gente falando pra não contratar petista ???  Teve gente demitindo funcionario TB. Gente esse povo é doido. Por isso eles não ganharam. Quem em sã consciência da voto pra gente desse nível 🤦🏽‍♀️",
+        "author_username": "regi_fraga",
+        "author_name": "regi_fraga",
+        "created_at": "2026-10-27T04:44:00+00:00",
+        "permalink": "https://nitter.meowing.monster/regi_fraga/status/2114941338319778114#m",
+        "metrics": {
+          "like_count": 3,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 262,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114940835003330626",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114940835003330626",
+      "parent_post_id": null,
+      "thread_root_id": "2114940835003330626",
+      "author": {
+        "platform_id": null,
+        "display_name": "edmanizipetto",
+        "username": "edmanizipetto",
+        "profile_url": "https://x.com/edmanizipetto"
+      },
+      "text": "Está uma onda no Facebook, textos iguais, cancelando doações e ações natalinas, demitir eleitores do Lula e boicotar empresários petistas. Também não ir mais ao nordeste. A maioria é do sul",
+      "created_at": "2026-10-27T04:42:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T02:35:10-03:00",
+      "permalink": "https://nitter.meowing.monster/edmanizipetto/status/2114940835003330626#m",
+      "metrics": {
+        "like_count": 9,
+        "reply_count": 1,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "975d7b24-ff39-4783-85c7-5fe817c3b399",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 36,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114940835003330626",
+        "text": "Está uma onda no Facebook, textos iguais, cancelando doações e ações natalinas, demitir eleitores do Lula e boicotar empresários petistas. Também não ir mais ao nordeste. A maioria é do sul",
+        "author_username": "edmanizipetto",
+        "author_name": "edmanizipetto",
+        "created_at": "2026-10-27T04:42:00+00:00",
+        "permalink": "https://nitter.meowing.monster/edmanizipetto/status/2114940835003330626#m",
+        "metrics": {
+          "like_count": 9,
+          "reply_count": 1,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 189,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114939699303162248",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114939699303162248",
+      "parent_post_id": null,
+      "thread_root_id": "2114939699303162248",
+      "author": {
+        "platform_id": null,
+        "display_name": "edmanizipetto",
+        "username": "edmanizipetto",
+        "profile_url": "https://x.com/edmanizipetto"
+      },
+      "text": "Está uma onda no Facebook, com textos iguais, cancelando ações de Natal, doação de brindes, demissão de eleitores do Lula e boicote a viagens ao nordeste.",
+      "created_at": "2026-10-27T04:38:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T02:35:10-03:00",
+      "permalink": "https://nitter.meowing.monster/edmanizipetto/status/2114939699303162248#m",
+      "metrics": {
+        "like_count": 14,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "975d7b24-ff39-4783-85c7-5fe817c3b399",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 36,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114939699303162248",
+        "text": "Está uma onda no Facebook, com textos iguais, cancelando ações de Natal, doação de brindes, demissão de eleitores do Lula e boicote a viagens ao nordeste.",
+        "author_username": "edmanizipetto",
+        "author_name": "edmanizipetto",
+        "created_at": "2026-10-27T04:38:00+00:00",
+        "permalink": "https://nitter.meowing.monster/edmanizipetto/status/2114939699303162248#m",
+        "metrics": {
+          "like_count": 14,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 154,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114937790873956672",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114937790873956672",
+      "parent_post_id": null,
+      "thread_root_id": "2114937790873956672",
+      "author": {
+        "platform_id": null,
+        "display_name": "nordeste_liga",
+        "username": "nordeste_liga",
+        "profile_url": "https://x.com/nordeste_liga"
+      },
+      "text": "Acho que outros filmes a Globo devia pegar como Adolescência (Netflix), Homem Aranha , Mortal Kombat",
+      "created_at": "2026-10-27T04:30:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T02:35:10-03:00",
+      "permalink": "https://nitter.meowing.monster/nordeste_liga/status/2114937790873956672#m",
+      "metrics": {
+        "like_count": 69,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "975d7b24-ff39-4783-85c7-5fe817c3b399",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 36,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114937790873956672",
+        "text": "Acho que outros filmes a Globo devia pegar como Adolescência (Netflix), Homem Aranha , Mortal Kombat",
+        "author_username": "nordeste_liga",
+        "author_name": "nordeste_liga",
+        "created_at": "2026-10-27T04:30:00+00:00",
+        "permalink": "https://nitter.meowing.monster/nordeste_liga/status/2114937790873956672#m",
+        "metrics": {
+          "like_count": 69,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 100,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114953066084540577",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114953066084540577",
+      "parent_post_id": null,
+      "thread_root_id": "2114953066084540577",
+      "author": {
+        "platform_id": null,
+        "display_name": "bruno_vieiravp",
+        "username": "bruno_vieiravp",
+        "profile_url": "https://x.com/bruno_vieiravp"
+      },
+      "text": "Depois NÃO ENTENDEM o pq perderam duas eleições seguidas pro PT E VÃO PERDER A TERCEIRA se não calçar a sandália da humildade.\n\nNÃO É DIFÍCIL entender o motivo do Nordeste votar no PT.",
+      "created_at": "2026-10-27T05:31:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T02:35:10-03:00",
+      "permalink": "https://nitter.mie.foundation/bruno_vieiravp/status/2114953066084540577#m",
+      "metrics": {
+        "like_count": 2,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste",
+        "pt"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "975d7b24-ff39-4783-85c7-5fe817c3b399",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 36,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114953066084540577",
+        "text": "Depois NÃO ENTENDEM o pq perderam duas eleições seguidas pro PT E VÃO PERDER A TERCEIRA se não calçar a sandália da humildade.\n\nNÃO É DIFÍCIL entender o motivo do Nordeste votar no PT.",
+        "author_username": "bruno_vieiravp",
+        "author_name": "bruno_vieiravp",
+        "created_at": "2026-10-27T05:31:00+00:00",
+        "permalink": "https://nitter.mie.foundation/bruno_vieiravp/status/2114953066084540577#m",
+        "metrics": {
+          "like_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 184,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}
