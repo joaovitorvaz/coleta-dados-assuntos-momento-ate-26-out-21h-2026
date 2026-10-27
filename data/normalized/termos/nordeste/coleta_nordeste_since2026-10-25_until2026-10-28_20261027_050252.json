@@ -1,0 +1,220 @@
+{
+  "metadata": {
+    "term_group_id": "nordeste",
+    "query": "nordeste",
+    "since": "2026-10-25",
+    "until": "2026-10-28",
+    "source": "twitter_x",
+    "run_id": "7a6e678b-20d3-4079-8d3f-042b8fb81cb2",
+    "collected_at": "2026-10-27T05:02:52-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 3,
+      "comments": 0,
+      "records_total": 3,
+      "skipped_duplicate": 277
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2114988318102319500",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114988318102319500",
+      "parent_post_id": null,
+      "thread_root_id": "2114988318102319500",
+      "author": {
+        "platform_id": null,
+        "display_name": "AdrianaR15084",
+        "username": "AdrianaR15084",
+        "profile_url": "https://x.com/AdrianaR15084"
+      },
+      "text": "O nordeste vai salvar o Brasil😒\nNada me orgulha em ser nordestina ,minha dor tem raízes profundas",
+      "created_at": "2026-10-27T07:51:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T05:02:51-03:00",
+      "permalink": "https://nitter.netbub.com/AdrianaR15084/status/2114988318102319500#m",
+      "metrics": {
+        "like_count": 14,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "7a6e678b-20d3-4079-8d3f-042b8fb81cb2",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 17,
+        "instance_used": "https://nitter.netbub.com"
+      },
+      "raw_data": {
+        "id": "2114988318102319500",
+        "text": "O nordeste vai salvar o Brasil😒\nNada me orgulha em ser nordestina ,minha dor tem raízes profundas",
+        "author_username": "AdrianaR15084",
+        "author_name": "AdrianaR15084",
+        "created_at": "2026-10-27T07:51:00+00:00",
+        "permalink": "https://nitter.netbub.com/AdrianaR15084/status/2114988318102319500#m",
+        "metrics": {
+          "like_count": 14,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 97,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114987908847513905",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114987908847513905",
+      "parent_post_id": null,
+      "thread_root_id": "2114987908847513905",
+      "author": {
+        "platform_id": null,
+        "display_name": "ciridospampas",
+        "username": "ciridospampas",
+        "profile_url": "https://x.com/ciridospampas"
+      },
+      "text": "Não façam turismo no nordeste!",
+      "created_at": "2026-10-27T07:49:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T05:02:51-03:00",
+      "permalink": "https://nitter.netbub.com/ciridospampas/status/2114987908847513905#m",
+      "metrics": {
+        "like_count": 18,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "7a6e678b-20d3-4079-8d3f-042b8fb81cb2",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 17,
+        "instance_used": "https://nitter.netbub.com"
+      },
+      "raw_data": {
+        "id": "2114987908847513905",
+        "text": "Não façam turismo no nordeste!",
+        "author_username": "ciridospampas",
+        "author_name": "ciridospampas",
+        "created_at": "2026-10-27T07:49:00+00:00",
+        "permalink": "https://nitter.netbub.com/ciridospampas/status/2114987908847513905#m",
+        "metrics": {
+          "like_count": 18,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 30,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114986683565539707",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114986683565539707",
+      "parent_post_id": null,
+      "thread_root_id": "2114986683565539707",
+      "author": {
+        "platform_id": null,
+        "display_name": "ciridospampas",
+        "username": "ciridospampas",
+        "profile_url": "https://x.com/ciridospampas"
+      },
+      "text": "Nunca fui ao nordeste. Por mim os petistas deviam ir tudo lá pra cima de deixava o sul para a maioria que odeia PT. A Cida ia ser ótima..",
+      "created_at": "2026-10-27T07:44:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-27T05:02:51-03:00",
+      "permalink": "https://nitter.netbub.com/ciridospampas/status/2114986683565539707#m",
+      "metrics": {
+        "like_count": 3,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste",
+        "pt"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "7a6e678b-20d3-4079-8d3f-042b8fb81cb2",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 17,
+        "instance_used": "https://nitter.netbub.com"
+      },
+      "raw_data": {
+        "id": "2114986683565539707",
+        "text": "Nunca fui ao nordeste. Por mim os petistas deviam ir tudo lá pra cima de deixava o sul para a maioria que odeia PT. A Cida ia ser ótima..",
+        "author_username": "ciridospampas",
+        "author_name": "ciridospampas",
+        "created_at": "2026-10-27T07:44:00+00:00",
+        "permalink": "https://nitter.netbub.com/ciridospampas/status/2114986683565539707#m",
+        "metrics": {
+          "like_count": 3,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 137,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}
